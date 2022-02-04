@@ -1,0 +1,878 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"Report-Msgid-Bugs-To: https://bugs.wesnoth.org/\n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+#: _main.cfg:15
+msgid "Music pack “The Great Steppe Music” is installed. Custom music will be played."
+msgstr ""
+
+#: _main.cfg:15
+msgid "<span color='#080'>"
+msgstr ""
+
+#: _main.cfg:20
+msgid "<span color='#800'>"
+msgstr ""
+
+#: _main.cfg:20
+msgid "Music pack “The Great Steppe Music” is not installed. Custom music will be replaced with default tracks."
+msgstr ""
+
+#. [campaign]: id=Northern_Crusade_of_Shrogg_Stoneface, type=hybrid
+#: _main.cfg:27
+msgid "Northern Crusade of Shrogg Stoneface"
+msgstr ""
+
+#. [campaign]: id=Northern_Crusade_of_Shrogg_Stoneface, type=hybrid
+#: _main.cfg:28
+msgid "NCoSS"
+msgstr ""
+
+#. [campaign]: id=Northern_Crusade_of_Shrogg_Stoneface, type=hybrid
+#: _main.cfg:32
+msgid ""
+"Delve into the events of the 9th century since the Founding of Wesnoth and lead your own crusade. The Principality of Krad seems impregnable, but how true is that? Surpass the other lords in determination and try to win the glory of conquering the northerners!\n"
+"\n"
+"Hybrid campaign (can be played in both singleplayer and multiplayer), 4 scenarios, recommended for experienced players\n"
+"\n"
+""
+msgstr ""
+
+#. [campaign]: id=Northern_Crusade_of_Shrogg_Stoneface, type=hybrid
+#: _main.cfg:40
+msgid "Easy"
+msgstr ""
+
+#. [campaign]: id=Northern_Crusade_of_Shrogg_Stoneface, type=hybrid
+#: _main.cfg:40
+msgid "Noble Son"
+msgstr ""
+
+#. [campaign]: id=Northern_Crusade_of_Shrogg_Stoneface, type=hybrid
+#: _main.cfg:41
+msgid "Normal"
+msgstr ""
+
+#. [campaign]: id=Northern_Crusade_of_Shrogg_Stoneface, type=hybrid
+#: _main.cfg:41
+msgid "Heir"
+msgstr ""
+
+#. [campaign]: id=Northern_Crusade_of_Shrogg_Stoneface, type=hybrid
+#: _main.cfg:43
+msgid "Hard"
+msgstr ""
+
+#. [campaign]: id=Northern_Crusade_of_Shrogg_Stoneface, type=hybrid
+#: _main.cfg:43
+msgid "Pan"
+msgstr ""
+
+#. [about]
+#: _main.cfg:45
+msgid "Designer"
+msgstr ""
+
+#. [entry]
+#: _main.cfg:47
+msgid "Mechanical"
+msgstr ""
+
+#. [about]
+#: _main.cfg:51
+msgid "Coders"
+msgstr ""
+
+#. [entry]
+#: _main.cfg:53
+msgid "ForestDragon"
+msgstr ""
+
+#. [about]
+#: _main.cfg:57
+msgid "Coder"
+msgstr ""
+
+#. [entry]
+#: _main.cfg:59
+msgid "dwarftough"
+msgstr ""
+
+#. [about]
+#: _main.cfg:63
+msgid "Portrait Artist"
+msgstr ""
+
+#. [entry]
+#: _main.cfg:65
+msgid "ThroneGame (Kordov)"
+msgstr ""
+
+#. [scenario]: id=1_Smoke_of_the_Fatherland
+#: scenarios/1_Smoke_of_the_Fatherland.cfg:5
+msgid "Smoke of the Fatherland"
+msgstr ""
+
+#. [part]
+#: scenarios/1_Smoke_of_the_Fatherland.cfg:33
+msgid "After the end of the great strife in the Kingdom of Ogres, young and ambitious King Grgr I ascended to the throne. Supported by noble pans and the clergy, he still had to take measures to strengthen his rule."
+msgstr ""
+
+#. [part]
+#: scenarios/1_Smoke_of_the_Fatherland.cfg:36
+msgid "He gathered information and intelligence about neighbours of his land. Elves of Lintanir drew his attention most of all. Their army didn't achieve great victories over the past century, so they looked like an easy prey for his growing power. 'Their forests are surely full of game, there will be plenty of land to grant to my loyal nobles. Elves with their longevity and skills will be perfect subjects. And the clergy will be pleased to bring their teaching to another people'."
+msgstr ""
+
+#. [part]
+#: scenarios/1_Smoke_of_the_Fatherland.cfg:39
+msgid "So decided Grgr, and his crusade began..."
+msgstr ""
+
+#. [part]
+#: scenarios/1_Smoke_of_the_Fatherland.cfg:42
+msgid "It started perfectly. Completely unprepared, elves lost their first battles against his huge army. On newly acquired langs Ogres cut redudant woods and started construction of castles and fortresses. But then bad tidings came."
+msgstr ""
+
+#. [part]
+#: scenarios/1_Smoke_of_the_Fatherland.cfg:45
+msgid "Elves sent a message to their allies to distract the enemy. Krad's knyaz Yaromir agreed to help and sent his best warriors to pillage barely protected Northern domains of Ogre pans. Hearing about that, two pans - Shrogg Stoneface and his brother Barkuk Rocktooth, decided to return to their home to repel any possible invader..."
+msgstr ""
+
+#. [side]
+#. [side]: id=Castellan, type=Kingdom_Troll_Veteran
+#. [side]: id=ogre_ally, type=Ogre_Foreman
+#: scenarios/1_Smoke_of_the_Fatherland.cfg:57 scenarios/1_Smoke_of_the_Fatherland.cfg:71 scenarios/1_Smoke_of_the_Fatherland.cfg:135 scenarios/2_Beginning_of_the_Crusade.cfg:75 scenarios/2_Beginning_of_the_Crusade.cfg:91 scenarios/2_Beginning_of_the_Crusade.cfg:119 scenarios/3_Siege.cfg:65 scenarios/3_Siege.cfg:83 scenarios/4_Time_to_Preach.cfg:137 scenarios/4_Time_to_Preach.cfg:154
+msgid "Ogres"
+msgstr ""
+
+#. [side]: id=Castellan, type=Kingdom_Troll_Veteran
+#: scenarios/1_Smoke_of_the_Fatherland.cfg:80
+msgid "Castellan"
+msgstr ""
+
+#. [side]
+#. [side]: id=enemy1, type=Slav_Knyaz_Great_Warrior
+#. [side]: id=enemy3, type=Slav_Ranger
+#. [side]: id=enemy_leader, type=Slav_Knyaz_Great_Warrior
+#. [side]: id=enemy_leader, type=Slav_Knyaz_Warrior
+#. [side]: id=enemy_leader, type=Slav_Luminary
+#. [side]: id=enemy_side4, type=Slav_Jousting_Champion
+#. [side]: id=enemy_side5, type=Slav_Jousting_Champion
+#. [side]: id=enemy_side6, type=Slav_Jousting_Champion
+#: scenarios/1_Smoke_of_the_Fatherland.cfg:151 scenarios/1_Smoke_of_the_Fatherland.cfg:189 scenarios/2_Beginning_of_the_Crusade.cfg:137 scenarios/2_Beginning_of_the_Crusade.cfg:157 scenarios/2_Beginning_of_the_Crusade.cfg:177 scenarios/2_Beginning_of_the_Crusade.cfg:197 scenarios/3_Siege.cfg:104 scenarios/3_Siege.cfg:143 scenarios/4_Time_to_Preach.cfg:174 scenarios/4_Time_to_Preach.cfg:201
+msgid "Krad"
+msgstr ""
+
+#. [side]: id=enemy2, type=Slav_Grand_Guard
+#: scenarios/1_Smoke_of_the_Fatherland.cfg:170
+msgid "Militia"
+msgstr ""
+
+#. [message]: speaker=unit
+#: scenarios/1_Smoke_of_the_Fatherland.cfg:208 scenarios/2_Beginning_of_the_Crusade.cfg:218 scenarios/3_Siege.cfg:186 scenarios/4_Time_to_Preach.cfg:1081
+msgid "Uuugh..."
+msgstr ""
+
+#. [message]: speaker=unit
+#: scenarios/1_Smoke_of_the_Fatherland.cfg:222
+msgid "Arrgh... We lost!"
+msgstr ""
+
+#. [message]: speaker=unit
+#: scenarios/1_Smoke_of_the_Fatherland.cfg:236
+msgid "Seems I underestimated the enemy..."
+msgstr ""
+
+#. [message]: speaker=Pan
+#: scenarios/1_Smoke_of_the_Fatherland.cfg:244
+msgid "Arr, that was a long way! Look, Barkuk, the smoke is above our villages!"
+msgstr ""
+
+#. [message]: speaker=Castellan
+#: scenarios/1_Smoke_of_the_Fatherland.cfg:248
+msgid "By the Light, the noble Pan Shrogg has arrived to help us! The enemy has been pillaging our villages, but we with serfs are defending the castle. Now the enemies are preparing an assault!"
+msgstr ""
+
+#. [message]: speaker=Brother
+#: scenarios/1_Smoke_of_the_Fatherland.cfg:252
+msgid "Enemies amassed a great force to storm the castle. The serfs won't stand for long, we must come swift and strike invaders hard."
+msgstr ""
+
+#. [message]: speaker=enemy1
+#: scenarios/1_Smoke_of_the_Fatherland.cfg:256
+msgid "Forward, brothers! The ogres will pay for attacking our allies!"
+msgstr ""
+
+#. [message]: speaker=Brother
+#: scenarios/1_Smoke_of_the_Fatherland.cfg:273
+msgid "With divine help, we won!"
+msgstr ""
+
+#. [message]: speaker=Pan
+#: scenarios/1_Smoke_of_the_Fatherland.cfg:277
+msgid "This victory came at a high price. Castellan, how did such a formidable army end up under the walls of my castle?"
+msgstr ""
+
+#. [message]: speaker=Castellan
+#: scenarios/1_Smoke_of_the_Fatherland.cfg:281
+msgid "They came here out of the blue on the sixth week since your departure, noble pan. I immediately sent messengers to you and to the neighbors, but no one answered. ThenI gathered the serfs and began defending the castle. Without you, we'd have no chance to win in open combat."
+msgstr ""
+
+#. [message]: speaker=Brother
+#: scenarios/1_Smoke_of_the_Fatherland.cfg:285
+msgid "Although we managed to hold the castle, our lands are devastated, we have lost many knights and mercenaries. How are we supposed to get back to Lintanir now?"
+msgstr ""
+
+#. [message]: speaker=Pan
+#: scenarios/1_Smoke_of_the_Fatherland.cfg:289
+msgid "Not this year, Barkuk. Winter is coming. Even if our villages were intact, and our army fully intact, we would not make it before the first snows. We don't need to add soldiers dying from frost and hunger to the problems we already have."
+msgstr ""
+
+#. [message]: speaker=Brother
+#: scenarios/1_Smoke_of_the_Fatherland.cfg:293
+msgid "Exactly! I'm sure the cowardly elves set this up! Having us attacked in autumn so we can't return to their forests for months..."
+msgstr ""
+
+#. [message]: speaker=Pan
+#: scenarios/1_Smoke_of_the_Fatherland.cfg:297
+msgid "Uh-huh. Seems the rumors about them forming an alliance with Krad were true."
+msgstr ""
+
+#. [message]: speaker=Brother
+#: scenarios/1_Smoke_of_the_Fatherland.cfg:301
+msgid "Ugh, so, what now? The crusade is over for us?"
+msgstr ""
+
+#. [message]: speaker=Pan
+#: scenarios/1_Smoke_of_the_Fatherland.cfg:305
+msgid "If you don't want to stand in the shadow of other pans and pick up their leftovers, then yes. During this year, the king will seize and divide the best lands, even if we return, we'll get nothing."
+msgstr ""
+
+#. [message]: speaker=Brother
+#: scenarios/1_Smoke_of_the_Fatherland.cfg:309
+msgid "What do we do now then?"
+msgstr ""
+
+#. [message]: speaker=Pan
+#: scenarios/1_Smoke_of_the_Fatherland.cfg:313
+msgid "Hmm... We killed the lion's share of the Krad's troops. This means that the knyaz is now as open to attack as we were."
+msgstr ""
+
+#. [message]: speaker=Brother
+#: scenarios/1_Smoke_of_the_Fatherland.cfg:317
+msgid "But a lot of warriors died too."
+msgstr ""
+
+#. [message]: speaker=Pan
+#: scenarios/1_Smoke_of_the_Fatherland.cfg:321
+msgid "We will easily gather more mercenaries and knechts no worse than the ones we lost. And the knyaz will not replenish the army so quickly. There are few seekers of gold and battles in his domain. Here's what: we will restore the villages before winter. You will gather more warriors, I will go to the Ogre Pope, so that he will bless our cause. We will move out in the spring, at the same time as the steppe ogres, so that Krada's forces can be divided. Thus begins our own crusade."
+msgstr ""
+
+#. [message]: speaker=Brother
+#: scenarios/1_Smoke_of_the_Fatherland.cfg:325
+msgid "Our own crusade, you say?"
+msgstr ""
+
+#. [message]: speaker=Pan
+#: scenarios/1_Smoke_of_the_Fatherland.cfg:329
+msgid "Yes. We will turn the northerners to the light with fire and sword, make their lands our possessions and surpass all the pans in glory!"
+msgstr ""
+
+#. [message]: speaker=Brother
+#: scenarios/1_Smoke_of_the_Fatherland.cfg:333
+msgid "Quite an grand plan you have come up with, brother, I like it!"
+msgstr ""
+
+#. [message]: speaker=Pan
+#: scenarios/1_Smoke_of_the_Fatherland.cfg:337
+msgid "Ho-ho! May the Light witness this, brother - in six months the most glorious deed in the history of our family will begin!"
+msgstr ""
+
+#. [objective]: condition=win
+#: scenarios/1_Smoke_of_the_Fatherland.cfg:344
+msgid "Defeat enemy leaders"
+msgstr ""
+
+#. [objective]: condition=lose
+#: scenarios/1_Smoke_of_the_Fatherland.cfg:348 scenarios/2_Beginning_of_the_Crusade.cfg:340 scenarios/3_Siege.cfg:230 scenarios/4_Time_to_Preach.cfg:571
+msgid "Death of any of your leaders"
+msgstr ""
+
+#. [objective]: condition=lose
+#: scenarios/1_Smoke_of_the_Fatherland.cfg:352
+msgid "Death of Castellan"
+msgstr ""
+
+#. [scenario]: id=2_Beginning_of_the_Crusade
+#: scenarios/2_Beginning_of_the_Crusade.cfg:30
+msgid "Beginning of the Crusade"
+msgstr ""
+
+#. [part]
+#: scenarios/2_Beginning_of_the_Crusade.cfg:57
+msgid "After some preparation, the two brothers set out on their crusade. Shumsk was the city closest to the border, taking it would mean gaining control over the whole South of Krada. But the city fortress was well defended by a large moat and high walls with guard towers, it also had a port which allowed fast Krad's boats to quickly bring reinforcements."
+msgstr ""
+
+#. [part]
+#: scenarios/2_Beginning_of_the_Crusade.cfg:60
+msgid "This wasn't an easy task, but it was the matter of honour! Brothers, using most of the gold from their treasury, hired siege engineers from Wesnoth. Still the way to Shumsk didn't promise to be easy to deliver needed equipment."
+msgstr ""
+
+#. [part]
+#: scenarios/2_Beginning_of_the_Crusade.cfg:63
+msgid "To provide a safe passage for their essential siege equipment, brothers decided to use their vanguard to quickly take the border town. As they expected, they found and hired a band of Steppe Ogres to assist in the assault."
+msgstr ""
+
+#. [side]: id=ogre_ally, type=Ogre_Foreman
+#: scenarios/2_Beginning_of_the_Crusade.cfg:102
+msgid "Chinggis"
+msgstr ""
+
+#. [message]: speaker=unit
+#: scenarios/2_Beginning_of_the_Crusade.cfg:232
+msgid "It is an honour to die in battle... argh..."
+msgstr ""
+
+#. [message]: speaker=enemy_side{SIDE}
+#: scenarios/2_Beginning_of_the_Crusade.cfg:267
+msgid "Defend the outpost!"
+msgstr ""
+
+#. [message]: speaker=enemy_side{SIDE}
+#: scenarios/2_Beginning_of_the_Crusade.cfg:274
+msgid "We're under attack!"
+msgstr ""
+
+#. [message]: speaker=enemy_side{SIDE}
+#: scenarios/2_Beginning_of_the_Crusade.cfg:281
+msgid "Look, there's an enemy army approaching! To arms!"
+msgstr ""
+
+#. [message]: speaker=Pan
+#: scenarios/2_Beginning_of_the_Crusade.cfg:303
+msgid "And so begins our crusade! This border town stands in the way to Krada. We will capture it to allow our siege equipment a safe passage to Shumsk."
+msgstr ""
+
+#. [message]: speaker=Brother
+#: scenarios/2_Beginning_of_the_Crusade.cfg:307
+msgid "Scouts report that three outposts ahead keep watch over there."
+msgstr ""
+
+#. [message]: speaker=Pan
+#: scenarios/2_Beginning_of_the_Crusade.cfg:311
+msgid "(quietly) <i>Good thing we took that slashing fellow. I propose we gather our forces and wait a bit, let him strike first. His brutes will distract the watchmen, then we attack.</i>"
+msgstr ""
+
+#. [message]: speaker=Brother
+#: scenarios/2_Beginning_of_the_Crusade.cfg:315
+msgid "(quietly) <i>Indeed. Free cannon fodder is always nice.</i>"
+msgstr ""
+
+#. [message]: speaker=Pan
+#: scenarios/2_Beginning_of_the_Crusade.cfg:319
+msgid "<i>It wasn't free, mind you! Anyway...</i> "
+msgstr ""
+
+#. [message]: speaker=Pan
+#: scenarios/2_Beginning_of_the_Crusade.cfg:323
+msgid "(To Chinggis) Hey! Let's start this! As we agreed, all loot you take here is yours."
+msgstr ""
+
+#. [message]: speaker=ogre_ally
+#: scenarios/2_Beginning_of_the_Crusade.cfg:327
+msgid "Come boys, let's show 'em how real ogres fight!"
+msgstr ""
+
+#. [objective]: condition=win
+#: scenarios/2_Beginning_of_the_Crusade.cfg:336
+msgid "Kill the northern enemy leader"
+msgstr ""
+
+#. [note]
+#: scenarios/2_Beginning_of_the_Crusade.cfg:345
+msgid "You don't have to kill leaders near the outposts, your goal is to kill the leader in the town"
+msgstr ""
+
+#. [note]
+#: scenarios/2_Beginning_of_the_Crusade.cfg:348
+msgid "Outpost leaders recieve gold and start recruiting when your or your ally's units come closer. The first triggered outpost recieves the most gold"
+msgstr ""
+
+#. [message]: speaker=unit
+#: scenarios/2_Beginning_of_the_Crusade.cfg:399
+msgid "Argh... I failed to stop the invasion..."
+msgstr ""
+
+#. [message]: speaker=Brother
+#: scenarios/2_Beginning_of_the_Crusade.cfg:409
+msgid "With this town captured they can't seriously bother us. The way for our siege machines to Shumsk is secured."
+msgstr ""
+
+#. [message]: speaker=ogre_ally
+#: scenarios/2_Beginning_of_the_Crusade.cfg:415
+msgid "Shumsk? Ya crazy, city well prepare, you won't be able to show'em!"
+msgstr ""
+
+#. [message]: speaker=Pan
+#: scenarios/2_Beginning_of_the_Crusade.cfg:419
+msgid "It is our problem to handle. As we agreed, take everything that you looted here. Also I wouldn't mind you pillaging all neighbour villages if you don't feel like <i>showing'em</i>."
+msgstr ""
+
+#. [message]: speaker=ogre_ally
+#: scenarios/2_Beginning_of_the_Crusade.cfg:423
+msgid "Gggrrr... good. You remember my word, we true ogres know."
+msgstr ""
+
+#. [message]: speaker=Pan
+#: scenarios/2_Beginning_of_the_Crusade.cfg:429
+msgid "Meh, that madcap would've been useful to pillage all the neighbouring villages, pity he died. Whatever."
+msgstr ""
+
+#. [message]: speaker=Pan
+#: scenarios/2_Beginning_of_the_Crusade.cfg:433
+msgid "At least he was pretty decent cannon fodder."
+msgstr ""
+
+#. [scenario]: id=3_Siege
+#: scenarios/3_Siege.cfg:30
+msgid "Siege of Shumsk"
+msgstr ""
+
+#. [part]
+#: scenarios/3_Siege.cfg:52
+msgid "TODO"
+msgstr ""
+
+#. [side]
+#: scenarios/3_Siege.cfg:166 scenarios/4_Time_to_Preach.cfg:232
+msgid "Neutral"
+msgstr ""
+
+#. [objective]: condition=win
+#: scenarios/3_Siege.cfg:226
+msgid "Kill the central enemy leader"
+msgstr ""
+
+#. [note]
+#: scenarios/3_Siege.cfg:235
+msgid "Your engineer can build powerful siege weapons on adjacent tiles via a rightclick menu."
+msgstr ""
+
+#. [note]
+#: scenarios/3_Siege.cfg:238
+msgid "Your units can fill water tiles with soil (turning deep water into shallow water, and shallow water into ford) via a rightclick menu (costs moves though)"
+msgstr ""
+
+#. [note]
+#: scenarios/3_Siege.cfg:241
+msgid "You can hire temsk mercenaries (neutral units in the top-right corner of the map) by moving next to them"
+msgstr ""
+
+#. [label]
+#: scenarios/3_Siege.cfg:389 scenarios/3_Siege.cfg:422
+msgid "Temsk Mercenaries"
+msgstr ""
+
+#. [set_menu_item]: id=ncoss_fill_moat
+#: scenarios/3_Siege.cfg:438
+msgid "Fill water with soil, costs <span color='#2c9fed'>40%</span> of this unit's moves)"
+msgstr ""
+
+#. [message]: speaker=Pan
+#: scenarios/3_Siege.cfg:595
+msgid "Finally, we reached Shumsk."
+msgstr ""
+
+#. [message]: speaker=Brother
+#: scenarios/3_Siege.cfg:607
+msgid "The city indeed looks well-fortified: sturdy walls, plenty of towers."
+msgstr ""
+
+#. [message]: speaker=Pan
+#: scenarios/3_Siege.cfg:611
+msgid "Good that our siege equipment made it without any trouble."
+msgstr ""
+
+#. [message]: speaker=engineer1
+#: scenarios/3_Siege.cfg:623
+msgid "At your service, sir! Remember, as we agreed, the payment will be 28 gold per catapult and 22 gold per battering ram."
+msgstr ""
+
+#. [message]: speaker=engineer2
+#: scenarios/3_Siege.cfg:636
+msgid "Time to turn the enemy walls into rubble, hehe."
+msgstr ""
+
+#. [message]: speaker=narrator
+#: scenarios/3_Siege.cfg:641
+msgid "To build siege weapons, use the rightclick menu on a tile next to your engineer."
+msgstr ""
+
+#. [message]: speaker=Pan
+#: scenarios/3_Siege.cfg:646
+msgid "Time to see which of us will kill the city's commander first."
+msgstr ""
+
+#. [message]: speaker=Brother
+#: scenarios/3_Siege.cfg:651
+msgid "A competition, eh? I like that idea. Let's go!"
+msgstr ""
+
+#. [message]
+#: scenarios/3_Siege.cfg:710
+msgid "You are their kinsmen, why aren't you fighting us?"
+msgstr ""
+
+#. [message]
+#: scenarios/3_Siege.cfg:714
+msgid "Kinsmen!? You couldn't find a worse insult, ogre! We don't want to have anything in common with these cowardly Krad weaklings, who forgot the true ancestry, the forefathers. You are attacking them, aren't you? I'll gladly help you, provided that you pay me 95 gold."
+msgstr ""
+
+#. [message]
+#: scenarios/3_Siege.cfg:725
+msgid "I can't afford your services right now."
+msgstr ""
+
+#. [message]
+#: scenarios/3_Siege.cfg:729
+msgid "Come back when you loot some gold then. We'll be staying at this camp in the meantime."
+msgstr ""
+
+#. [message]
+#: scenarios/3_Siege.cfg:736
+msgid "Hmmmm... should I hire them?"
+msgstr ""
+
+#. [option]
+#: scenarios/3_Siege.cfg:739
+msgid "Yes (costs 95 gold)"
+msgstr ""
+
+#. [message]
+#: scenarios/3_Siege.cfg:765
+msgid "(to his men) Alright lads, time to show Krad the power of the true warriors, the warriors of Temsk!"
+msgstr ""
+
+#. [message]: speaker=narrator
+#: scenarios/3_Siege.cfg:769
+msgid "The mercenary leader can recruit Pagans - berserk units who can also build idols via a rightclick menu. However, the mercenary leader cannot recruit Ogre Kingdom units. Unlike your main leader, the death of the mercenary leader does not count as defeat."
+msgstr ""
+
+#. [option]
+#: scenarios/3_Siege.cfg:794
+msgid "No"
+msgstr ""
+
+#. [message]
+#: scenarios/3_Siege.cfg:798
+msgid "Your loss. If you change your mind, we'll still be staying here for a while."
+msgstr ""
+
+#. [message]: speaker=Pan
+#: scenarios/3_Siege.cfg:873
+msgid "Hmph, the retreating villagers are back with reinforcements. Another nuisance to deal with..."
+msgstr ""
+
+#. [message]: speaker=Brother
+#: scenarios/3_Siege.cfg:907
+msgid "Look, there's boats with enemy reinforcements! We should try to stop them, or we'll have to fight a lot more enemies..."
+msgstr ""
+
+#. [message]: speaker=enemy_leader
+#: scenarios/3_Siege.cfg:959
+msgid "The invaders have entered the citadel! Time for our last stand!"
+msgstr ""
+
+#. [message]: speaker=unit
+#: scenarios/3_Siege.cfg:975
+msgid "And so the city falls..."
+msgstr ""
+
+#. [message]: speaker=second_unit
+#: scenarios/3_Siege.cfg:990
+msgid "Take that!"
+msgstr ""
+
+#. [message]
+#: scenarios/3_Siege.cfg:1001
+msgid "Yes! The glory of conquest is mine!"
+msgstr ""
+
+#. [message]
+#: scenarios/3_Siege.cfg:1012
+msgid "Very well."
+msgstr ""
+
+#. [scenario]: id=4_Time_to_Preach
+#: scenarios/4_Time_to_Preach.cfg:95
+msgid "Time to Preach"
+msgstr ""
+
+#. [part]
+#: scenarios/4_Time_to_Preach.cfg:121
+msgid "Shumsk was captured. But to capture isn't the end of the day - one needs to establish the rule in lands one conquered."
+msgstr ""
+
+#. [part]
+#: scenarios/4_Time_to_Preach.cfg:124
+msgid "Meanwhile ogres' clerics were looking forward to preaching to the population of the newly obtained lands. Brothers decided that it would be very benefical to support their zeal: converting the population into ogres' faith would entrench their rule, and at the same time brothers would receive the respert of the clergy of the whole Ogres Kingdom."
+msgstr ""
+
+#. [objective]: condition=win
+#: scenarios/4_Time_to_Preach.cfg:561
+msgid "Kill the enemy leader"
+msgstr ""
+
+#. [objective]: condition=win
+#: scenarios/4_Time_to_Preach.cfg:565
+msgid "Convert $ncoss_s4_villagers_required| villagers to max faith ($ncoss_s4_serfs|/$ncoss_s4_villagers_required|)"
+msgstr ""
+
+#. [objective]: condition=lose
+#: scenarios/4_Time_to_Preach.cfg:575
+msgid "There isn't enough villagers (including those still in villages) to convert (currently $potential_villagers|/$ncoss_s4_villagers_required|)"
+msgstr ""
+
+#. [note]
+#: scenarios/4_Time_to_Preach.cfg:588
+msgid "You need to complete both objectives to win"
+msgstr ""
+
+#. [note]
+#: scenarios/4_Time_to_Preach.cfg:591
+msgid "To convert villagers, have a cleric (or his advancements) stand next to the villagers. Once a villager gains max faith, he will join your side, and become a serf."
+msgstr ""
+
+#. [note]
+#: scenarios/4_Time_to_Preach.cfg:594
+msgid "You can capture villages to spawn a villager (works once per village). Villages that already spawned a peasant will be marked with an 'X' label."
+msgstr ""
+
+#. [note]
+#: scenarios/4_Time_to_Preach.cfg:597
+msgid "If enemies move next to a faithless villager, he will join the enemy side and turn into a lvl1 unit"
+msgstr ""
+
+#. [note]
+#: scenarios/4_Time_to_Preach.cfg:600
+msgid "White enemies guard the temple, but will arrange and attack in waves every 4 turns"
+msgstr ""
+
+#. [message]: type=Kingdom_Cleric
+#: scenarios/4_Time_to_Preach.cfg:612
+msgid "Listen! Listen to the Word of Light..."
+msgstr ""
+
+#. [message]: speaker=narrator
+#: scenarios/4_Time_to_Preach.cfg:617
+msgid "Villagers, overcome by their curiosity, started listening..."
+msgstr ""
+
+#. [message]: speaker=Pan
+#: scenarios/4_Time_to_Preach.cfg:621
+msgid "Well, well, well. It looks even more promising than I thought, they started to listen."
+msgstr ""
+
+#. [message]: speaker=Brother
+#: scenarios/4_Time_to_Preach.cfg:625
+msgid "This will require some time."
+msgstr ""
+
+#. [message]: speaker=Pan
+#: scenarios/4_Time_to_Preach.cfg:629
+msgid "Yes. And there is a danger: they have a temple of their old faith nearby. We can't let it be, its presense will make any sermon pointless."
+msgstr ""
+
+#. [message]: speaker=Brother
+#: scenarios/4_Time_to_Preach.cfg:633
+msgid "Can we just storm it and demolish afterwards?"
+msgstr ""
+
+#. [message]: speaker=Pan
+#: scenarios/4_Time_to_Preach.cfg:637
+msgid "No, it's guarded well... But scouts report they gather their forces to incite a revolt here and take this land back. We should stay here, protect the villages while our clerics are preaching, and defeat the Krad soldiers when they come for us. If we can fend them off several times, they will be weakened enough and we'll storm the temple."
+msgstr ""
+
+#. [message]: speaker=Brother
+#: scenarios/4_Time_to_Preach.cfg:641
+msgid "Time to preach!"
+msgstr ""
+
+#. [message]
+#: scenarios/4_Time_to_Preach.cfg:711
+msgid "Damn it, too many villagers are dead! Ruling barren ruins is not worth it..."
+msgstr ""
+
+#. [message]
+#: scenarios/4_Time_to_Preach.cfg:875
+msgid "The first wave is coming!"
+msgstr ""
+
+#. [message]
+#: scenarios/4_Time_to_Preach.cfg:894
+msgid "More enemy troops on the way!"
+msgstr ""
+
+#. [message]
+#: scenarios/4_Time_to_Preach.cfg:913
+msgid "The enemy is sending their best troops. Once we beat them, we can capture the temple with ease!"
+msgstr ""
+
+#. [message]
+#: scenarios/4_Time_to_Preach.cfg:952
+msgid "Now we should have more time to convert the villagers without being bothered."
+msgstr ""
+
+#. [message]
+#: scenarios/4_Time_to_Preach.cfg:961
+msgid "Indeed."
+msgstr ""
+
+#. [unit_type]: id=NCoSS_Battering_Ram, race=mechanical
+#: units/Battering_Ram.cfg:4
+msgid "Battering Ram"
+msgstr ""
+
+#. [unit_type]: id=NCoSS_Battering_Ram, race=mechanical
+#. [unit_type]: id=NCoSS_Catapult, race=mechanical
+#. [unit_type]: id=NCoSS_Longboat, race=mechanical
+#. [unit_type]: id=Slav_Worker, race=steppe_northerner
+#: units/Battering_Ram.cfg:29 units/Catapult.cfg:29 units/Longboat.cfg:18 units/Slav_Worker.cfg:18
+msgid ""
+msgstr ""
+
+#. [attack]: type=impact
+#: units/Battering_Ram.cfg:36
+msgid "ram"
+msgstr ""
+
+#. [disable]: id=ncoss_ram
+#: units/Battering_Ram.cfg:45
+msgid "battering ram"
+msgstr ""
+
+#. [disable]: id=ncoss_ram
+#: units/Battering_Ram.cfg:46
+msgid "This attack can only be used on immobile (0 max moves) units."
+msgstr ""
+
+#. [unit_type]: id=NCoSS_Catapult, race=mechanical
+#: units/Catapult.cfg:4
+msgid "Catapult"
+msgstr ""
+
+#. [attack]: type=impact
+#: units/Catapult.cfg:40
+msgid "boulder"
+msgstr ""
+
+#. [unit_type]: id=NCoSS_Engineer, race=human
+#: units/Engineer.cfg:4
+msgid "Engineer"
+msgstr ""
+
+#. [unit_type]: id=NCoSS_Engineer, race=human
+#: units/Engineer.cfg:16
+msgid "Wesnothian engineers are capable of building powerful siege equipment, such as catapults and battering rams."
+msgstr ""
+
+#. [abilities]
+#: units/Engineer.cfg:22
+msgid ""
+"This unit can build the following:\n"
+"\n"
+"Catapult - 28 gold\n"
+"Battering Ram - 22 gold"
+msgstr ""
+
+#. [abilities]
+#: units/Engineer.cfg:22
+msgid "build siege weapons"
+msgstr ""
+
+#. [abilities]
+#: units/Engineer.cfg:26
+msgid "Build Catapult"
+msgstr ""
+
+#. [abilities]
+#: units/Engineer.cfg:27
+msgid "Build Battering Ram"
+msgstr ""
+
+#. [attack]: type=impact
+#: units/Engineer.cfg:33 units/Slav_Worker.cfg:27
+msgid "fist"
+msgstr ""
+
+#. [unit_type]: id=NCoSS_Engineer, race=human
+#: units/Engineer.cfg:56
+msgid "Steel Gauntlets: stronger fists and +10% to physical resistances, +20% XP"
+msgstr ""
+
+#. [unit_type]: id=NCoSS_Engineer, race=human
+#: units/Engineer.cfg:81
+msgid "Crossbow attack (7-2), +20% XP"
+msgstr ""
+
+#. [effect]: type=pierce
+#: units/Engineer.cfg:87
+msgid "crossbow"
+msgstr ""
+
+#. [unit_type]: id=NCoSS_Engineer, race=human
+#: units/Engineer.cfg:120
+msgid "Stronger Siege Weapons: this unit's siege weapons deal 20% more damage (doesn't apply to ones already built), +20% XP"
+msgstr ""
+
+#. [unit_type]: id=NCoSS_Engineer, race=human
+#: units/Engineer.cfg:135
+msgid "Studier Siege Weapons: this unit's siege weapons have 25% more hitpoints (doesn't apply to ones already built), +20% XP"
+msgstr ""
+
+#. [unit_type]: id=NCoSS_Engineer, race=human
+#: units/Engineer.cfg:151
+msgid "Better at repairing, +20% XP"
+msgstr ""
+
+#. [unit_type]: id=NCoSS_Longboat, race=mechanical
+#: units/Longboat.cfg:5
+msgid "Ushkuy"
+msgstr ""
+
+#. [dummy]: id=ncoss_transport
+#: units/Longboat.cfg:23
+msgid "transport"
+msgstr ""
+
+#. [dummy]: id=ncoss_transport
+#: units/Longboat.cfg:24
+msgid "When reaching the city's port, this unit spawns 1 Ushkuynik and is removed."
+msgstr ""
+
+#. [attack]: type=pierce
+#: units/Longboat.cfg:31
+msgid "bow"
+msgstr ""
+
+#. [unit_type]: id=Slav_Worker, race=steppe_northerner
+#: units/Slav_Worker.cfg:5
+msgid "Peasant"
+msgstr ""
+
+#: utils/characters.cfg:8
+msgid "Shrogg Stoneface"
+msgstr ""
+
+#: utils/characters.cfg:22
+msgid "Barkuk Rocktooth"
+msgstr ""
+
