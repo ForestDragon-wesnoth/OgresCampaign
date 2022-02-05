@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: \n"
 "Report-Msgid-Bugs-To: https://bugs.wesnoth.org/\n"
 "POT-Creation-Date: \n"
-"PO-Revision-Date: 2022-02-05 15:29+0300\n"
+"PO-Revision-Date: 2022-02-05 19:01+0400\n"
 "Last-Translator: \n"
 "Language-Team: \n"
 "Language: ru\n"
@@ -555,11 +555,14 @@ msgid ""
 "our forces and wait a bit, let him strike first. His brutes will distract "
 "the watchmen, then we attack.</i>"
 msgstr ""
+"(тихо) <i>Хорошо, что мы взяли этого рубаку. Предлагаю собрать наши силы и "
+"немного подождать, пусть он ударит первым. Его звери отвлекут часовых, тогда "
+"ударим мы.</i>"
 
 #. [message]: speaker=Brother
 #: scenarios/2_Beginning_of_the_Crusade.cfg:315
 msgid "(quietly) <i>Indeed.</i>"
-msgstr ""
+msgstr "(тихо) <i>Да.</i>"
 
 #. [message]: speaker=Pan
 #: scenarios/2_Beginning_of_the_Crusade.cfg:319
@@ -667,7 +670,10 @@ msgid ""
 "Your units can fill water tiles with soil (turning deep water into shallow "
 "water, and shallow water into ford) via a rightclick menu (costs moves "
 "though)"
-msgstr "Ваши бойцы могут закапывать "
+msgstr ""
+"Ваши бойцы могут закапывать клетки с водой (превращая глубокую воду в "
+"мелководье, а мелководье — в брод) в меню по клику правой кнопкой мыши "
+"(стоит ходов)"
 
 #. [note]
 #: scenarios/3_Siege.cfg:235
@@ -725,6 +731,8 @@ msgid ""
 "To build siege weapons, use the rightclick menu on a tile next to your "
 "engineer."
 msgstr ""
+"Чтобы строить осадные орудия, кликните правой кнопкой мыши на клетке рядом с "
+"инженером."
 
 #. [message]: speaker=Pan
 #: scenarios/3_Siege.cfg:640
@@ -739,7 +747,7 @@ msgstr "М, соревнование? Мне это по душе. Вперёд!
 #. [message]
 #: scenarios/3_Siege.cfg:704
 msgid "You are their kinsmen, why aren't you fighting us?"
-msgstr ""
+msgstr "Почему вы не сражаетесь с нами? Там ваши сородичи."
 
 #. [message]
 #: scenarios/3_Siege.cfg:708
@@ -749,6 +757,10 @@ msgid ""
 "ancestry, the forefathers. You are attacking them, aren't you? I'll gladly "
 "help you, provided that you pay me 95 gold."
 msgstr ""
+"Сородичи?! Нет для нас большего оскорбления, огр! Мы не желаем иметь ничего "
+"общего с трусливыми Крадскими слабаками, позабывшими своих предков. Вы "
+"напали на них? Отлично, я с радостью вам помогу, если вы заплатите мне 95 "
+"золотых."
 
 #. [message]
 #: scenarios/3_Siege.cfg:719
@@ -761,6 +773,8 @@ msgid ""
 "Come back when you loot some gold then. We'll be staying at this camp in the "
 "meantime."
 msgstr ""
+"Ну тогда возвращайтесь, когда награбите немного золота. Мы будем стоять в "
+"этом лагере."
 
 #. [message]
 #: scenarios/3_Siege.cfg:730
@@ -778,6 +792,8 @@ msgid ""
 "(to his men) Alright lads, time to show Krad the power of the true warriors, "
 "the warriors of Temsk!"
 msgstr ""
+"(к своим) Ну что ж, ребята, покажем Краде силу настоящих воителей, воителей "
+"Теми!"
 
 #. [message]: speaker=narrator
 #: scenarios/3_Siege.cfg:763
@@ -787,6 +803,10 @@ msgid ""
 "Ogre Kingdom units. Unlike your main leader, the death of the mercenary "
 "leader does not count as defeat."
 msgstr ""
+"Лидер наёмников может нанимать язычников - бойцов-берсерков, которые могут "
+"строить идолов по клику правой кнопкой мыши. Лидер наёмников не может, "
+"однако, нанимать огрских юнитов. Смерть лидера наёмников не будет считаться "
+"поражением."
 
 #. [option]
 #: scenarios/3_Siege.cfg:788
@@ -838,12 +858,12 @@ msgstr "Да! Слава завоевания — моя!"
 #. [message]
 #: scenarios/3_Siege.cfg:1006
 msgid "Very well."
-msgstr ""
+msgstr "Замечательно."
 
 #. [scenario]: id=4_Time_to_Preach
 #: scenarios/4_Time_to_Preach.cfg:95
 msgid "Time to Preach"
-msgstr "Пора Проповедовать"
+msgstr "Пора проповедовать"
 
 #. [part]
 #: scenarios/4_Time_to_Preach.cfg:121
@@ -851,6 +871,8 @@ msgid ""
 "Shumsk was captured. But to capture isn't the end of the day - one needs to "
 "establish the rule in lands one conquered."
 msgstr ""
+"Шумск был взят. Но просто взять город ещё ничего не значит — нужно укрепить "
+"своё правление над завоёванными землями."
 
 #. [part]
 #: scenarios/4_Time_to_Preach.cfg:124
@@ -861,6 +883,10 @@ msgid ""
 "would entrench their rule, and at the same time brothers would receive the "
 "respert of the clergy of the whole Ogres Kingdom."
 msgstr ""
+"В то же самое время священники огров жаждали начать проповедь среди "
+"населения завоёванных земель. И братья увидели в этом их рвении двойную "
+"выгоду: обращение местных в религию огров поможет укрепить огрскую власть, а "
+"самих братьев станет уважать священство со всего Королевства."
 
 #. [objective]: condition=win
 #: scenarios/4_Time_to_Preach.cfg:565
@@ -905,6 +931,8 @@ msgid ""
 "If enemies move next to a faithless villager, he will join the enemy side "
 "and turn into a lvl1 unit"
 msgstr ""
+"Если враги подойдут вплотную к неверующему крестьянину, он присоединится к "
+"врагам, став бойцом 1 уровня"
 
 #. [note]
 #: scenarios/4_Time_to_Preach.cfg:600
@@ -912,16 +940,18 @@ msgid ""
 "White enemies guard the temple, but will arrange and attack in waves every 4 "
 "turns"
 msgstr ""
+"Белые враги защищают храм. Каждые 4 хода они будут организовываться в волны "
+"и атаковать"
 
 #. [message]: type=Kingdom_Cleric
 #: scenarios/4_Time_to_Preach.cfg:612
 msgid "Listen! Listen to the Word of Light..."
-msgstr ""
+msgstr "Внемлите! Внемлите Слову Света..."
 
 #. [message]: speaker=narrator
 #: scenarios/4_Time_to_Preach.cfg:617
 msgid "Villagers, overcome by their curiosity, started listening..."
-msgstr ""
+msgstr "Обуреваемые любопытством, крестьяне начали слушать..."
 
 #. [message]: speaker=Pan
 #: scenarios/4_Time_to_Preach.cfg:621
@@ -929,11 +959,12 @@ msgid ""
 "Well, well, well. It looks even more promising than I thought, they started "
 "to listen."
 msgstr ""
+"Однако, однако, однако. Дело пошло лучше, чем я думал, они стали слушать."
 
 #. [message]: speaker=Brother
 #: scenarios/4_Time_to_Preach.cfg:625
 msgid "This will require some time."
-msgstr ""
+msgstr "Это потребует времени."
 
 #. [message]: speaker=Pan
 #: scenarios/4_Time_to_Preach.cfg:629
@@ -941,11 +972,13 @@ msgid ""
 "Yes. And there is a danger: they have a temple of their old faith nearby. We "
 "can't let it be, its presense will make any sermon pointless."
 msgstr ""
+"Да. И есть опасность: неподалёку стоит храм их старой веры. Мы не можем это "
+"так оставить, его присутствие сделает любые проповеди бесполезными."
 
 #. [message]: speaker=Brother
 #: scenarios/4_Time_to_Preach.cfg:633
 msgid "Can we just storm it and demolish afterwards?"
-msgstr ""
+msgstr "Может нам его просто взять и разрушить потом?"
 
 #. [message]: speaker=Pan
 #: scenarios/4_Time_to_Preach.cfg:637
@@ -956,11 +989,16 @@ msgid ""
 "when they come for us. If we can fend them off several times, they will be "
 "weakened enough and we'll storm the temple."
 msgstr ""
+"Нет, его хорошо охраняют. Но разведка сообщает, что они готовятся разжечь "
+"восстание и вернуть эту землю себе. Мы должны оставаться здесь, защищать "
+"деревни. Пока наши священники будут проповедовать, мы будем громить всех "
+"солдат Крады, которых они пришлют сюда. После того, как мы отразим несколько "
+"нападений, они потеряют много сил, и вот тогда мы сможем захватить храм."
 
 #. [message]: speaker=Brother
 #: scenarios/4_Time_to_Preach.cfg:641
 msgid "Time to preach!"
-msgstr ""
+msgstr "Пора проповедовать!"
 
 #. [message]
 #: scenarios/4_Time_to_Preach.cfg:711
@@ -971,12 +1009,12 @@ msgstr ""
 #. [message]
 #: scenarios/4_Time_to_Preach.cfg:875
 msgid "The first wave is coming!"
-msgstr ""
+msgstr "Первая волна идёт!"
 
 #. [message]
 #: scenarios/4_Time_to_Preach.cfg:894
 msgid "More enemy troops on the way!"
-msgstr ""
+msgstr "Ещё враги!"
 
 #. [message]
 #: scenarios/4_Time_to_Preach.cfg:913
@@ -1000,7 +1038,7 @@ msgstr ""
 #. [scenario]: id=Epilogue_alt
 #: scenarios/Epilogue.cfg:4 scenarios/Epilogue.cfg:100
 msgid "Epilogue"
-msgstr ""
+msgstr "Эпилог"
 
 #. [part]
 #: scenarios/Epilogue.cfg:50 scenarios/Epilogue.cfg:146
@@ -1010,6 +1048,10 @@ msgid ""
 "Light was built in Shumsk; preachers reached the most distant villages; "
 "multitudes of settlers from the Kingdom flooded Krad's lands."
 msgstr ""
+"С Падением храма Жар-Птицы огры стали властвовать над духовной жизнью "
+"завоёванных земель. В тот же год в Шумске была построена большая церковь "
+"Света, проповедники добрались до самых дальних деревень, многочисленные "
+"переселенцы из Королевства наводнили крадские земли."
 
 #. [part]
 #: scenarios/Epilogue.cfg:60
@@ -1019,6 +1061,9 @@ msgid ""
 "put its leader to the sword, he got the title 'the Duke of Shumsk, Conquerer "
 "of Northerners'."
 msgstr ""
+"Шрогг и Баркук разделили между собой завоёванные земли. Так как это войска "
+"Шрогга первыми прорвались в городскую цитадель и сразили лидера врага, он "
+"получил титул Герцога Шумского, Покорителя Северян."
 
 #. [part]
 #: scenarios/Epilogue.cfg:65
@@ -1224,4 +1269,4 @@ msgstr "Шрогг Камнемордый"
 
 #: utils/characters.cfg:22
 msgid "Barkuk Rocktooth"
-msgstr "Баркук Скалозуб"
+msgstr "Баркук Скалозубый"
