@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: \n"
 "Report-Msgid-Bugs-To: https://bugs.wesnoth.org/\n"
 "POT-Creation-Date: \n"
-"PO-Revision-Date: 2022-02-05 13:28+0300\n"
+"PO-Revision-Date: 2022-02-05 13:59+0300\n"
 "Last-Translator: \n"
 "Language-Team: \n"
 "Language: ru\n"
@@ -15,23 +15,23 @@ msgstr ""
 "%10<=4 && (n%100<12 || n%100>14) ? 1 : 2);\n"
 
 #: _main.cfg:15
+msgid "<span color='#080'>"
+msgstr ""
+
+#: _main.cfg:15
 msgid ""
 "Music pack “The Great Steppe Music” is installed. Custom music will be "
 "played."
 msgstr ""
 
-#: _main.cfg:15
-msgid "<span color='#080'>"
+#: _main.cfg:20
+msgid "<span color='#800'>"
 msgstr ""
 
 #: _main.cfg:20
 msgid ""
 "Music pack “The Great Steppe Music” is not installed. Custom music will be "
 "replaced with default tracks."
-msgstr ""
-
-#: _main.cfg:20
-msgid "<span color='#800'>"
 msgstr ""
 
 #. [campaign]: id=Northern_Crusade_of_Shrogg_Stoneface, type=hybrid
@@ -77,23 +77,23 @@ msgstr "Знатный Сын"
 
 #. [campaign]: id=Northern_Crusade_of_Shrogg_Stoneface, type=hybrid
 #: _main.cfg:41
-msgid "Normal"
-msgstr "Нормальный"
-
-#. [campaign]: id=Northern_Crusade_of_Shrogg_Stoneface, type=hybrid
-#: _main.cfg:41
 msgid "Heir"
 msgstr "Наследник"
 
 #. [campaign]: id=Northern_Crusade_of_Shrogg_Stoneface, type=hybrid
-#: _main.cfg:43
-msgid "Hard"
-msgstr "Сложный"
+#: _main.cfg:41
+msgid "Normal"
+msgstr "Нормальный"
 
 #. [campaign]: id=Northern_Crusade_of_Shrogg_Stoneface, type=hybrid
 #: _main.cfg:43
 msgid "Pan"
 msgstr "Пан"
+
+#. [campaign]: id=Northern_Crusade_of_Shrogg_Stoneface, type=hybrid
+#: _main.cfg:43
+msgid "Hard"
+msgstr "Сложный"
 
 #. [about]
 #: _main.cfg:45
@@ -138,7 +138,7 @@ msgstr ""
 #. [scenario]: id=1_Smoke_of_the_Fatherland
 #: scenarios/1_Smoke_of_the_Fatherland.cfg:5
 msgid "Smoke of the Fatherland"
-msgstr ""
+msgstr "Дым Отечества"
 
 #. [part]
 #: scenarios/1_Smoke_of_the_Fatherland.cfg:33
@@ -268,7 +268,7 @@ msgstr ""
 #. [message]: speaker=enemy1
 #: scenarios/1_Smoke_of_the_Fatherland.cfg:256
 msgid "Forward, brothers! The ogres will pay for attacking our allies!"
-msgstr ""
+msgstr "Вперед, братья! Огры заплатят за то что напали на наших союзников!"
 
 #. [message]: speaker=Brother
 #: scenarios/1_Smoke_of_the_Fatherland.cfg:273
@@ -435,7 +435,7 @@ msgstr "Смерть Кастелляна"
 #. [scenario]: id=2_Beginning_of_the_Crusade
 #: scenarios/2_Beginning_of_the_Crusade.cfg:30
 msgid "Beginning of the Crusade"
-msgstr ""
+msgstr "Начало Крестового Похода"
 
 #. [part]
 #: scenarios/2_Beginning_of_the_Crusade.cfg:57
@@ -596,7 +596,7 @@ msgstr ""
 #. [scenario]: id=3_Siege
 #: scenarios/3_Siege.cfg:30
 msgid "Siege of Shumsk"
-msgstr ""
+msgstr "Осада Шумска"
 
 #. [part]
 #: scenarios/3_Siege.cfg:52
@@ -606,12 +606,12 @@ msgstr ""
 #. [side]
 #: scenarios/3_Siege.cfg:166 scenarios/4_Time_to_Preach.cfg:232
 msgid "Neutral"
-msgstr ""
+msgstr "Нейтральные"
 
 #. [objective]: condition=win
-#: scenarios/3_Siege.cfg:226
-msgid "Kill the central enemy leader"
-msgstr ""
+#: scenarios/3_Siege.cfg:226 scenarios/4_Time_to_Preach.cfg:561
+msgid "Kill the enemy leader"
+msgstr "Убить вражеского лидера"
 
 #. [note]
 #: scenarios/3_Siege.cfg:235
@@ -638,7 +638,7 @@ msgstr ""
 #. [label]
 #: scenarios/3_Siege.cfg:389 scenarios/3_Siege.cfg:422
 msgid "Temsk Mercenaries"
-msgstr ""
+msgstr "Темские Наёмники"
 
 #. [set_menu_item]: id=ncoss_fill_moat
 #: scenarios/3_Siege.cfg:438
@@ -816,11 +816,6 @@ msgid ""
 msgstr ""
 
 #. [objective]: condition=win
-#: scenarios/4_Time_to_Preach.cfg:561
-msgid "Kill the enemy leader"
-msgstr ""
-
-#. [objective]: condition=win
 #: scenarios/4_Time_to_Preach.cfg:565
 msgid ""
 "Convert $ncoss_s4_villagers_required| villagers to max faith "
@@ -992,6 +987,8 @@ msgid ""
 "Wesnothian engineers are capable of building powerful siege equipment, such "
 "as catapults and battering rams."
 msgstr ""
+"Веснотские инженеры умеют строить могучие осадные орудия, включая катапульты "
+"и тараны."
 
 #. [abilities]
 #: units/Engineer.cfg:22
@@ -1001,21 +998,23 @@ msgid ""
 "Catapult - 28 gold\n"
 "Battering Ram - 22 gold"
 msgstr ""
+"Этот боец может создать катапульты (стоимость - 28 золотых) и тараны "
+"(стоимость - 22 золота)"
 
 #. [abilities]
 #: units/Engineer.cfg:22
 msgid "build siege weapons"
-msgstr ""
+msgstr "строит осадные орудия"
 
 #. [abilities]
 #: units/Engineer.cfg:26
 msgid "Build Catapult"
-msgstr ""
+msgstr "Строить Катапульту"
 
 #. [abilities]
 #: units/Engineer.cfg:27
 msgid "Build Battering Ram"
-msgstr ""
+msgstr "Строить Таран"
 
 #. [attack]: type=impact
 #: units/Engineer.cfg:33 units/Slav_Worker.cfg:27
@@ -1027,11 +1026,13 @@ msgstr "кулак"
 msgid ""
 "Steel Gauntlets: stronger fists and +10% to physical resistances, +20% XP"
 msgstr ""
+"Стальные Рукавицы: атака кулаками сильнее, +10% сопротивлений к физическому "
+"урону, +20% ОП"
 
 #. [unit_type]: id=NCoSS_Engineer, race=human
 #: units/Engineer.cfg:81
 msgid "Crossbow attack (7-2), +20% XP"
-msgstr ""
+msgstr "Атака арбалетом (7-2), +20% ОП"
 
 #. [effect]: type=pierce
 #: units/Engineer.cfg:87
@@ -1044,6 +1045,8 @@ msgid ""
 "Stronger Siege Weapons: this unit's siege weapons deal 20% more damage "
 "(doesn't apply to ones already built), +20% XP"
 msgstr ""
+"Сильные Осадные Орудия: осадные орудия построенные этим юнитом имеют 20% "
+"больше урона (не влияет на уже построенные здания), +20% ОП"
 
 #. [unit_type]: id=NCoSS_Engineer, race=human
 #: units/Engineer.cfg:135
@@ -1051,11 +1054,13 @@ msgid ""
 "Studier Siege Weapons: this unit's siege weapons have 25% more hitpoints "
 "(doesn't apply to ones already built), +20% XP"
 msgstr ""
+"Прочные Осадные Орудия: осадные орудия построенные этим юнитом имеют 25% "
+"больше ЗД (не влияет на уже построенные здания), +20% ОП"
 
 #. [unit_type]: id=NCoSS_Engineer, race=human
 #: units/Engineer.cfg:151
 msgid "Better at repairing, +20% XP"
-msgstr ""
+msgstr "Лучше чинит, +20% ОП"
 
 #. [unit_type]: id=NCoSS_Longboat, race=mechanical
 #: units/Longboat.cfg:5

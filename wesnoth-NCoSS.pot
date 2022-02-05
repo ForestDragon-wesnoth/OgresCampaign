@@ -11,19 +11,19 @@ msgstr ""
 "Content-Transfer-Encoding: 8bit\n"
 
 #: _main.cfg:15
-msgid "Music pack “The Great Steppe Music” is installed. Custom music will be played."
-msgstr ""
-
-#: _main.cfg:15
 msgid "<span color='#080'>"
 msgstr ""
 
-#: _main.cfg:20
-msgid "Music pack “The Great Steppe Music” is not installed. Custom music will be replaced with default tracks."
+#: _main.cfg:15
+msgid "Music pack “The Great Steppe Music” is installed. Custom music will be played."
 msgstr ""
 
 #: _main.cfg:20
 msgid "<span color='#800'>"
+msgstr ""
+
+#: _main.cfg:20
+msgid "Music pack “The Great Steppe Music” is not installed. Custom music will be replaced with default tracks."
 msgstr ""
 
 #. [campaign]: id=Northern_Crusade_of_Shrogg_Stoneface, type=hybrid
@@ -58,22 +58,22 @@ msgstr ""
 
 #. [campaign]: id=Northern_Crusade_of_Shrogg_Stoneface, type=hybrid
 #: _main.cfg:41
-msgid "Normal"
-msgstr ""
-
-#. [campaign]: id=Northern_Crusade_of_Shrogg_Stoneface, type=hybrid
-#: _main.cfg:41
 msgid "Heir"
 msgstr ""
 
 #. [campaign]: id=Northern_Crusade_of_Shrogg_Stoneface, type=hybrid
-#: _main.cfg:43
-msgid "Hard"
+#: _main.cfg:41
+msgid "Normal"
 msgstr ""
 
 #. [campaign]: id=Northern_Crusade_of_Shrogg_Stoneface, type=hybrid
 #: _main.cfg:43
 msgid "Pan"
+msgstr ""
+
+#. [campaign]: id=Northern_Crusade_of_Shrogg_Stoneface, type=hybrid
+#: _main.cfg:43
+msgid "Hard"
 msgstr ""
 
 #. [about]
@@ -457,8 +457,8 @@ msgid "Neutral"
 msgstr ""
 
 #. [objective]: condition=win
-#: scenarios/3_Siege.cfg:226
-msgid "Kill the central enemy leader"
+#: scenarios/3_Siege.cfg:226 scenarios/4_Time_to_Preach.cfg:561
+msgid "Kill the enemy leader"
 msgstr ""
 
 #. [note]
@@ -624,11 +624,6 @@ msgstr ""
 #. [part]
 #: scenarios/4_Time_to_Preach.cfg:124
 msgid "Meanwhile ogres' clerics were looking forward to preaching to the population of the newly obtained lands. Brothers decided that it would be very benefical to support their zeal: converting the population into ogres' faith would entrench their rule, and at the same time brothers would receive the respert of the clergy of the whole Ogres Kingdom."
-msgstr ""
-
-#. [objective]: condition=win
-#: scenarios/4_Time_to_Preach.cfg:561
-msgid "Kill the enemy leader"
 msgstr ""
 
 #. [objective]: condition=win
