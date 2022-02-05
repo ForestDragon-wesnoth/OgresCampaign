@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: \n"
 "Report-Msgid-Bugs-To: https://bugs.wesnoth.org/\n"
 "POT-Creation-Date: 2022-02-05 19:52+0400\n"
-"PO-Revision-Date: 2022-02-05 19:55+0400\n"
+"PO-Revision-Date: 2022-02-05 20:20+0400\n"
 "Last-Translator: \n"
 "Language-Team: \n"
 "Language: ru\n"
@@ -570,6 +570,7 @@ msgid ""
 "(To Chinggis) Hey! Let's start this! As we agreed, all loot you take here is "
 "yours."
 msgstr ""
+"(Чинггису) Эй! Начнём! Как договорились, всё, что сможете награбить, ваше."
 
 #. [message]: speaker=ogre_ally
 #: scenarios/2_Beginning_of_the_Crusade.cfg:323
