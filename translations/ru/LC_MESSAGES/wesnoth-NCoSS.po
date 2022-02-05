@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: \n"
 "Report-Msgid-Bugs-To: https://bugs.wesnoth.org/\n"
 "POT-Creation-Date: \n"
-"PO-Revision-Date: 2022-02-05 19:01+0400\n"
+"PO-Revision-Date: 2022-02-05 19:26+0400\n"
 "Last-Translator: \n"
 "Language-Team: \n"
 "Language: ru\n"
@@ -1061,9 +1061,6 @@ msgid ""
 "put its leader to the sword, he got the title 'the Duke of Shumsk, Conquerer "
 "of Northerners'."
 msgstr ""
-"Шрогг и Баркук разделили между собой завоёванные земли. Так как это войска "
-"Шрогга первыми прорвались в городскую цитадель и сразили лидера врага, он "
-"получил титул Герцога Шумского, Покорителя Северян."
 
 #. [part]
 #: scenarios/Epilogue.cfg:65
