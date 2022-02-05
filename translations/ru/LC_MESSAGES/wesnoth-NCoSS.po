@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: \n"
 "Report-Msgid-Bugs-To: https://bugs.wesnoth.org/\n"
 "POT-Creation-Date: \n"
-"PO-Revision-Date: 2022-02-05 17:29+0400\n"
+"PO-Revision-Date: 2022-02-05 15:29+0300\n"
 "Last-Translator: \n"
 "Language-Team: \n"
 "Language: ru\n"
@@ -15,10 +15,6 @@ msgstr ""
 "%10<=4 && (n%100<12 || n%100>14) ? 1 : 2);\n"
 
 #: _main.cfg:15
-msgid "<span color='#080'>"
-msgstr ""
-
-#: _main.cfg:15
 msgid ""
 "Music pack “The Great Steppe Music” is installed. Custom music will be "
 "played."
@@ -26,8 +22,8 @@ msgstr ""
 "Музыкальный аддон \"Эра Великой Степи - музыка\" загружен.  Играть будет "
 "музыка из аддона."
 
-#: _main.cfg:20
-msgid "<span color='#800'>"
+#: _main.cfg:15
+msgid "<span color='#080'>"
 msgstr ""
 
 #: _main.cfg:20
@@ -37,6 +33,10 @@ msgid ""
 msgstr ""
 "Музыкальный аддон \"Эра Великой Степи - музыка\" не загружен.  Музыка из "
 "аддона будет заменена на треки с обычного веснота."
+
+#: _main.cfg:20
+msgid "<span color='#800'>"
+msgstr ""
 
 #. [campaign]: id=Northern_Crusade_of_Shrogg_Stoneface, type=hybrid
 #: _main.cfg:27
@@ -71,18 +71,13 @@ msgstr ""
 
 #. [campaign]: id=Northern_Crusade_of_Shrogg_Stoneface, type=hybrid
 #: _main.cfg:40
-msgid "Noble Son"
-msgstr "Знатный Сын"
-
-#. [campaign]: id=Northern_Crusade_of_Shrogg_Stoneface, type=hybrid
-#: _main.cfg:40
 msgid "Easy"
 msgstr "Легкий"
 
 #. [campaign]: id=Northern_Crusade_of_Shrogg_Stoneface, type=hybrid
-#: _main.cfg:41
-msgid "Heir"
-msgstr "Наследник"
+#: _main.cfg:40
+msgid "Noble Son"
+msgstr "Знатный Сын"
 
 #. [campaign]: id=Northern_Crusade_of_Shrogg_Stoneface, type=hybrid
 #: _main.cfg:41
@@ -90,14 +85,19 @@ msgid "Normal"
 msgstr "Нормальный"
 
 #. [campaign]: id=Northern_Crusade_of_Shrogg_Stoneface, type=hybrid
-#: _main.cfg:43
-msgid "Pan"
-msgstr "Пан"
+#: _main.cfg:41
+msgid "Heir"
+msgstr "Наследник"
 
 #. [campaign]: id=Northern_Crusade_of_Shrogg_Stoneface, type=hybrid
 #: _main.cfg:43
 msgid "Hard"
 msgstr "Сложный"
+
+#. [campaign]: id=Northern_Crusade_of_Shrogg_Stoneface, type=hybrid
+#: _main.cfg:43
+msgid "Pan"
+msgstr "Пан"
 
 #. [about]
 #: _main.cfg:45
@@ -213,9 +213,11 @@ msgstr ""
 #: scenarios/1_Smoke_of_the_Fatherland.cfg:135
 #: scenarios/2_Beginning_of_the_Crusade.cfg:75
 #: scenarios/2_Beginning_of_the_Crusade.cfg:91
-#: scenarios/2_Beginning_of_the_Crusade.cfg:119 scenarios/3_Siege.cfg:65
-#: scenarios/3_Siege.cfg:83 scenarios/4_Time_to_Preach.cfg:137
-#: scenarios/4_Time_to_Preach.cfg:154
+#: scenarios/2_Beginning_of_the_Crusade.cfg:119 scenarios/3_Siege.cfg:59
+#: scenarios/3_Siege.cfg:77 scenarios/4_Time_to_Preach.cfg:137
+#: scenarios/4_Time_to_Preach.cfg:154 scenarios/Epilogue.cfg:20
+#: scenarios/Epilogue.cfg:38 scenarios/Epilogue.cfg:116
+#: scenarios/Epilogue.cfg:134
 msgid "Ogres"
 msgstr "Огры"
 
@@ -238,8 +240,8 @@ msgstr "Кастелян"
 #: scenarios/2_Beginning_of_the_Crusade.cfg:137
 #: scenarios/2_Beginning_of_the_Crusade.cfg:157
 #: scenarios/2_Beginning_of_the_Crusade.cfg:177
-#: scenarios/2_Beginning_of_the_Crusade.cfg:197 scenarios/3_Siege.cfg:104
-#: scenarios/3_Siege.cfg:143 scenarios/4_Time_to_Preach.cfg:174
+#: scenarios/2_Beginning_of_the_Crusade.cfg:197 scenarios/3_Siege.cfg:98
+#: scenarios/3_Siege.cfg:137 scenarios/4_Time_to_Preach.cfg:174
 #: scenarios/4_Time_to_Preach.cfg:201
 msgid "Krad"
 msgstr "Крада"
@@ -251,7 +253,7 @@ msgstr "Ополчение"
 
 #. [message]: speaker=unit
 #: scenarios/1_Smoke_of_the_Fatherland.cfg:208
-#: scenarios/2_Beginning_of_the_Crusade.cfg:218 scenarios/3_Siege.cfg:186
+#: scenarios/2_Beginning_of_the_Crusade.cfg:218 scenarios/3_Siege.cfg:180
 #: scenarios/4_Time_to_Preach.cfg:1081
 msgid "Uuugh..."
 msgstr "Ууууух..."
@@ -316,7 +318,7 @@ msgstr ""
 msgid ""
 "They came here out of the blue on the sixth week since your departure, noble "
 "pan. I immediately sent messengers to you and to the neighbors, but no one "
-"answered. ThenI gathered the serfs and began defending the castle. Without "
+"answered. Then I gathered the serfs and began defending the castle. Without "
 "you, we'd have no chance to win in open combat."
 msgstr ""
 "Свалились как снег на голову на шестую неделю с вашего отъезда, благородный "
@@ -449,7 +451,7 @@ msgstr "Убейте вражеских лидеров"
 
 #. [objective]: condition=lose
 #: scenarios/1_Smoke_of_the_Fatherland.cfg:348
-#: scenarios/2_Beginning_of_the_Crusade.cfg:336 scenarios/3_Siege.cfg:230
+#: scenarios/2_Beginning_of_the_Crusade.cfg:336 scenarios/3_Siege.cfg:224
 #: scenarios/4_Time_to_Preach.cfg:571
 msgid "Death of any of your leaders"
 msgstr "Смерть любого из ваших лидеров"
@@ -635,33 +637,23 @@ msgstr ""
 "Эх, этот рубака был бы полезен, он мог бы ещё пограбить окрестные деревень. "
 "Жаль, что он погиб. Ну да ладно."
 
-#. [message]: speaker=Pan
-#: scenarios/2_Beginning_of_the_Crusade.cfg:429
-msgid "At least he was pretty decent cannon fodder."
-msgstr ""
-
 #. [scenario]: id=3_Siege
 #: scenarios/3_Siege.cfg:30
 msgid "Siege of Shumsk"
 msgstr "Осада Шумска"
 
-#. [part]
-#: scenarios/3_Siege.cfg:52
-msgid "TODO"
-msgstr ""
-
 #. [side]
-#: scenarios/3_Siege.cfg:166 scenarios/4_Time_to_Preach.cfg:232
+#: scenarios/3_Siege.cfg:160 scenarios/4_Time_to_Preach.cfg:232
 msgid "Neutral"
 msgstr "Нейтральные"
 
 #. [objective]: condition=win
-#: scenarios/3_Siege.cfg:226 scenarios/4_Time_to_Preach.cfg:561
+#: scenarios/3_Siege.cfg:220 scenarios/4_Time_to_Preach.cfg:561
 msgid "Kill the enemy leader"
 msgstr "Убить вражеского лидера"
 
 #. [note]
-#: scenarios/3_Siege.cfg:235
+#: scenarios/3_Siege.cfg:229
 msgid ""
 "Your engineer can build powerful siege weapons on adjacent tiles via a "
 "rightclick menu."
@@ -670,7 +662,7 @@ msgstr ""
 "по клику правой кнопкой мыши."
 
 #. [note]
-#: scenarios/3_Siege.cfg:238
+#: scenarios/3_Siege.cfg:232
 msgid ""
 "Your units can fill water tiles with soil (turning deep water into shallow "
 "water, and shallow water into ford) via a rightclick menu (costs moves "
@@ -678,7 +670,7 @@ msgid ""
 msgstr "Ваши бойцы могут закапывать "
 
 #. [note]
-#: scenarios/3_Siege.cfg:241
+#: scenarios/3_Siege.cfg:235
 msgid ""
 "You can hire temsk mercenaries (neutral units in the top-right corner of the "
 "map) by moving next to them"
@@ -687,34 +679,34 @@ msgstr ""
 "карты), подойдя к ним вплотную"
 
 #. [label]
-#: scenarios/3_Siege.cfg:389 scenarios/3_Siege.cfg:422
+#: scenarios/3_Siege.cfg:383 scenarios/3_Siege.cfg:416
 msgid "Temsk Mercenaries"
 msgstr "Темские Наёмники"
 
 #. [set_menu_item]: id=ncoss_fill_moat
-#: scenarios/3_Siege.cfg:438
+#: scenarios/3_Siege.cfg:432
 msgid ""
 "Fill water with soil, costs <span color='#2c9fed'>40%</span> of this unit's "
 "moves"
 msgstr "Закопать ров, стоит <span color='#2c9fed'>40%</span> ходов этого бойца"
 
 #. [message]: speaker=Pan
-#: scenarios/3_Siege.cfg:595
+#: scenarios/3_Siege.cfg:589
 msgid "Finally, we reached Shumsk."
 msgstr "Наконец, мы у Шумска."
 
 #. [message]: speaker=Brother
-#: scenarios/3_Siege.cfg:607
+#: scenarios/3_Siege.cfg:601
 msgid "The city indeed looks well-fortified: sturdy walls, plenty of towers."
 msgstr "Город и впрямь выглядит хорошо укреплённым: мощные стены, много башен."
 
 #. [message]: speaker=Pan
-#: scenarios/3_Siege.cfg:611
+#: scenarios/3_Siege.cfg:605
 msgid "Good that our siege equipment made it without any trouble."
 msgstr "Хорошо, что наши осадные орудия добрались без всяких проблем."
 
 #. [message]: speaker=engineer1
-#: scenarios/3_Siege.cfg:623
+#: scenarios/3_Siege.cfg:617
 msgid ""
 "At your service, sir! Remember, as we agreed, the payment will be 28 gold "
 "per catapult and 22 gold per battering ram."
@@ -723,34 +715,34 @@ msgstr ""
 "катапульту вам придётся отдать 28 золота, за каждый таран — 22 золота."
 
 #. [message]: speaker=engineer2
-#: scenarios/3_Siege.cfg:636
+#: scenarios/3_Siege.cfg:630
 msgid "Time to turn the enemy walls into rubble, hehe."
 msgstr "Пора сравнять вражеские стены с землёй, хехе."
 
 #. [message]: speaker=narrator
-#: scenarios/3_Siege.cfg:641
+#: scenarios/3_Siege.cfg:635
 msgid ""
 "To build siege weapons, use the rightclick menu on a tile next to your "
 "engineer."
 msgstr ""
 
 #. [message]: speaker=Pan
-#: scenarios/3_Siege.cfg:646
+#: scenarios/3_Siege.cfg:640
 msgid "Time to see which of us will kill the city's commander first."
 msgstr "Посмотрим, кто из нас первым убьёт их командующего."
 
 #. [message]: speaker=Brother
-#: scenarios/3_Siege.cfg:651
+#: scenarios/3_Siege.cfg:645
 msgid "A competition, eh? I like that idea. Let's go!"
 msgstr "М, соревнование? Мне это по душе. Вперёд!"
 
 #. [message]
-#: scenarios/3_Siege.cfg:710
+#: scenarios/3_Siege.cfg:704
 msgid "You are their kinsmen, why aren't you fighting us?"
 msgstr ""
 
 #. [message]
-#: scenarios/3_Siege.cfg:714
+#: scenarios/3_Siege.cfg:708
 msgid ""
 "Kinsmen!? You couldn't find a worse insult, ogre! We don't want to have "
 "anything in common with these cowardly Krad weaklings, who forgot the true "
@@ -759,36 +751,36 @@ msgid ""
 msgstr ""
 
 #. [message]
-#: scenarios/3_Siege.cfg:725
+#: scenarios/3_Siege.cfg:719
 msgid "I can't afford your services right now."
 msgstr ""
 
 #. [message]
-#: scenarios/3_Siege.cfg:729
+#: scenarios/3_Siege.cfg:723
 msgid ""
 "Come back when you loot some gold then. We'll be staying at this camp in the "
 "meantime."
 msgstr ""
 
 #. [message]
-#: scenarios/3_Siege.cfg:736
+#: scenarios/3_Siege.cfg:730
 msgid "Hmmmm... should I hire them?"
 msgstr "Хмммм... буду ли я их нанимать?"
 
 #. [option]
-#: scenarios/3_Siege.cfg:739
+#: scenarios/3_Siege.cfg:733
 msgid "Yes (costs 95 gold)"
 msgstr "Да (стоит 95 золота)"
 
 #. [message]
-#: scenarios/3_Siege.cfg:765
+#: scenarios/3_Siege.cfg:759
 msgid ""
 "(to his men) Alright lads, time to show Krad the power of the true warriors, "
 "the warriors of Temsk!"
 msgstr ""
 
 #. [message]: speaker=narrator
-#: scenarios/3_Siege.cfg:769
+#: scenarios/3_Siege.cfg:763
 msgid ""
 "The mercenary leader can recruit Pagans - berserk units who can also build "
 "idols via a rightclick menu. However, the mercenary leader cannot recruit "
@@ -797,25 +789,25 @@ msgid ""
 msgstr ""
 
 #. [option]
-#: scenarios/3_Siege.cfg:794
+#: scenarios/3_Siege.cfg:788
 msgid "No"
 msgstr "Нет"
 
 #. [message]
-#: scenarios/3_Siege.cfg:798
+#: scenarios/3_Siege.cfg:792
 msgid ""
 "Your loss. If you change your mind, we'll still be staying here for a while."
 msgstr ""
 
 #. [message]: speaker=Pan
-#: scenarios/3_Siege.cfg:873
+#: scenarios/3_Siege.cfg:867
 msgid ""
 "Hmph, the retreating villagers are back with reinforcements. Another "
 "nuisance to deal with..."
 msgstr ""
 
 #. [message]: speaker=Brother
-#: scenarios/3_Siege.cfg:907
+#: scenarios/3_Siege.cfg:901
 msgid ""
 "Look, there's boats with enemy reinforcements! We should try to stop them, "
 "or we'll have to fight a lot more enemies..."
@@ -824,27 +816,27 @@ msgstr ""
 "то нам придётся сражаться с ещё кучей врагов..."
 
 #. [message]: speaker=enemy_leader
-#: scenarios/3_Siege.cfg:959
+#: scenarios/3_Siege.cfg:953
 msgid "The invaders have entered the citadel! Time for our last stand!"
 msgstr ""
 
 #. [message]: speaker=unit
-#: scenarios/3_Siege.cfg:975
+#: scenarios/3_Siege.cfg:969
 msgid "And so the city falls..."
 msgstr ""
 
 #. [message]: speaker=second_unit
-#: scenarios/3_Siege.cfg:990
+#: scenarios/3_Siege.cfg:984
 msgid "Take that!"
 msgstr "Получи!"
 
 #. [message]
-#: scenarios/3_Siege.cfg:1001
+#: scenarios/3_Siege.cfg:995
 msgid "Yes! The glory of conquest is mine!"
 msgstr "Да! Слава завоевания — моя!"
 
 #. [message]
-#: scenarios/3_Siege.cfg:1012
+#: scenarios/3_Siege.cfg:1006
 msgid "Very well."
 msgstr ""
 
@@ -1002,6 +994,82 @@ msgstr ""
 #. [message]
 #: scenarios/4_Time_to_Preach.cfg:961
 msgid "Indeed."
+msgstr ""
+
+#. [scenario]: id=Epilogue
+#. [scenario]: id=Epilogue_alt
+#: scenarios/Epilogue.cfg:4 scenarios/Epilogue.cfg:100
+msgid "Epilogue"
+msgstr ""
+
+#. [part]
+#: scenarios/Epilogue.cfg:50 scenarios/Epilogue.cfg:146
+msgid ""
+"With the fall of the Temple of the Firebird ogres took over the control over "
+"spiritual life of the conquered lands. That same year the great church of "
+"Light was built in Shumsk; preachers reached the most distant villages; "
+"multitudes of settlers from the Kingdom flooded Krad's lands."
+msgstr ""
+
+#. [part]
+#: scenarios/Epilogue.cfg:60
+msgid ""
+"Shrogg and Barkuk split their vast conquered territory between each other - "
+"Since it was Shrogg's troops who successfully took over Shumsk's citadel and "
+"put its leader to the sword, he got the title 'the Duke of Shumsk, Conquerer "
+"of Northerners'."
+msgstr ""
+
+#. [part]
+#: scenarios/Epilogue.cfg:65
+msgid ""
+"For his plentiful assistance, however, his brother Barkuk was given got most "
+"of the smaller cities. For a long time people told tales about the two "
+"brothers' brave crusade, making many a pan envious of their glory."
+msgstr ""
+
+#. [part]
+#: scenarios/Epilogue.cfg:69 scenarios/Epilogue.cfg:165
+msgid ""
+"But Krad wasn't conqured fully, and their knyaz could not tolerate such an "
+"outcome. Several years later the struggle for liberation of Shumsk began. "
+"But that is another story..."
+msgstr ""
+
+#. [part]
+#: scenarios/Epilogue.cfg:73 scenarios/Epilogue.cfg:169
+msgid "And for now..."
+msgstr ""
+
+#. [part]
+#: scenarios/Epilogue.cfg:78
+msgid ""
+"Glory to you, Shrogg Stoneface, who surpassed other pans in valour, the Duke "
+"of Shumsk, Conquerer of Northerners!"
+msgstr ""
+
+#. [part]
+#: scenarios/Epilogue.cfg:156
+msgid ""
+"Shrogg and Barkuk split their vast conquered territory between each other - "
+"Since it was Barkuk's troops who successfully took over Shumsk's citadel and "
+"put its leader to the sword, he got the title 'the Duke of Shumsk, Conquerer "
+"of Northerners'."
+msgstr ""
+
+#. [part]
+#: scenarios/Epilogue.cfg:161
+msgid ""
+"For his plentiful assistance, however, his brother Shrogg was given got most "
+"of the smaller cities. For a long time people told tales about the two "
+"brothers' brave crusade, making many a pan envious of their glory."
+msgstr ""
+
+#. [part]
+#: scenarios/Epilogue.cfg:174
+msgid ""
+"Glory to you, Barkuk Rocktooth, who surpassed other pans in valour, the Duke "
+"of Shumsk, Conquerer of Northerners!"
 msgstr ""
 
 #. [unit_type]: id=NCoSS_Battering_Ram, race=mechanical
