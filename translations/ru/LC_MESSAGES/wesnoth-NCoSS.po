@@ -2,8 +2,8 @@ msgid ""
 msgstr ""
 "Project-Id-Version: \n"
 "Report-Msgid-Bugs-To: https://bugs.wesnoth.org/\n"
-"POT-Creation-Date: \n"
-"PO-Revision-Date: 2022-02-05 19:26+0400\n"
+"POT-Creation-Date: 2022-02-05 19:31+0400\n"
+"PO-Revision-Date: 2022-02-05 19:51+0400\n"
 "Last-Translator: \n"
 "Language-Team: \n"
 "Language: ru\n"
@@ -215,9 +215,9 @@ msgstr ""
 #: scenarios/2_Beginning_of_the_Crusade.cfg:91
 #: scenarios/2_Beginning_of_the_Crusade.cfg:119 scenarios/3_Siege.cfg:59
 #: scenarios/3_Siege.cfg:77 scenarios/4_Time_to_Preach.cfg:137
-#: scenarios/4_Time_to_Preach.cfg:154 scenarios/Epilogue.cfg:20
-#: scenarios/Epilogue.cfg:38 scenarios/Epilogue.cfg:116
-#: scenarios/Epilogue.cfg:134
+#: scenarios/4_Time_to_Preach.cfg:154 scenarios/Epilogue.cfg:24
+#: scenarios/Epilogue.cfg:42 scenarios/Epilogue.cfg:124
+#: scenarios/Epilogue.cfg:142
 msgid "Ogres"
 msgstr "Огры"
 
@@ -765,7 +765,7 @@ msgstr ""
 #. [message]
 #: scenarios/3_Siege.cfg:719
 msgid "I can't afford your services right now."
-msgstr ""
+msgstr "Я пока не могу себе позволить ваши услуги."
 
 #. [message]
 #: scenarios/3_Siege.cfg:723
@@ -817,7 +817,7 @@ msgstr "Нет"
 #: scenarios/3_Siege.cfg:792
 msgid ""
 "Your loss. If you change your mind, we'll still be staying here for a while."
-msgstr ""
+msgstr "Как знаешь. Если передумаешь, мы пока останемся здесь."
 
 #. [message]: speaker=Pan
 #: scenarios/3_Siege.cfg:867
@@ -825,6 +825,8 @@ msgid ""
 "Hmph, the retreating villagers are back with reinforcements. Another "
 "nuisance to deal with..."
 msgstr ""
+"Хм, отступившие жители вернулись с подкреплениями. Ещё одна небольшая "
+"помеха, с которой надо разобраться..."
 
 #. [message]: speaker=Brother
 #: scenarios/3_Siege.cfg:901
@@ -838,12 +840,12 @@ msgstr ""
 #. [message]: speaker=enemy_leader
 #: scenarios/3_Siege.cfg:953
 msgid "The invaders have entered the citadel! Time for our last stand!"
-msgstr ""
+msgstr "Враги прорвались в цитадель! Время нашего последнего боя!"
 
 #. [message]: speaker=unit
 #: scenarios/3_Siege.cfg:969
 msgid "And so the city falls..."
-msgstr ""
+msgstr "Город пал..."
 
 #. [message]: speaker=second_unit
 #: scenarios/3_Siege.cfg:984
@@ -894,6 +896,8 @@ msgid ""
 "Convert $ncoss_s4_villagers_required| villagers to max faith "
 "($ncoss_s4_serfs|/$ncoss_s4_villagers_required|)"
 msgstr ""
+"Обратите $ncoss_s4_villagers_required| крестьян в максимальную веру "
+"($ncoss_s4_serfs|/$ncoss_s4_villagers_required|)"
 
 #. [objective]: condition=lose
 #: scenarios/4_Time_to_Preach.cfg:575
@@ -901,11 +905,13 @@ msgid ""
 "There isn't enough villagers (including those still in villages) to convert "
 "(currently $potential_villagers|/$ncoss_s4_villagers_required|)"
 msgstr ""
+"Недостаточно крестьян (включая находящихся в деревнях) (сейчас "
+"$potential_villagers|/$ncoss_s4_villagers_required|)"
 
 #. [note]
 #: scenarios/4_Time_to_Preach.cfg:588
 msgid "You need to complete both objectives to win"
-msgstr "Вы должны выполнить обе задачи чтобы победить"
+msgstr "Вы должны выполнить обе задачи, чтобы победить"
 
 #. [note]
 #: scenarios/4_Time_to_Preach.cfg:591
@@ -914,6 +920,9 @@ msgid ""
 "villagers. Once a villager gains max faith, he will join your side, and "
 "become a serf."
 msgstr ""
+"Чтобы обращать крестьян, поставьте рядом с ними священника. Когда крестьянин "
+"достигнет максимальной веры, он превратиться в холопа и перейдёт на вашу "
+"сторону."
 
 #. [note]
 #: scenarios/4_Time_to_Preach.cfg:594
@@ -921,9 +930,9 @@ msgid ""
 "You can capture villages to spawn a villager (works once per village). "
 "Villages that already spawned a peasant will be marked with an 'X' label."
 msgstr ""
-"Вы можете захватывать деревни чтобы получить больше крестьян для проповеди "
-"(работает раз на деревню). Деревни где вы уже взяли крестьянина будут иметь "
-"метку \"X\"."
+"Вы можете захватывать деревни, чтобы получить больше крестьян для проповеди "
+"(работает раз на деревню). Деревни, где вы уже взяли крестьянина, будут "
+"иметь метку \"X\"."
 
 #. [note]
 #: scenarios/4_Time_to_Preach.cfg:597
@@ -1004,7 +1013,7 @@ msgstr "Пора проповедовать!"
 #: scenarios/4_Time_to_Preach.cfg:711
 msgid ""
 "Damn it, too many villagers are dead! Ruling barren ruins is not worth it..."
-msgstr ""
+msgstr "Чёрт, слишком много жителей погибло. Что толку править пустошами..."
 
 #. [message]
 #: scenarios/4_Time_to_Preach.cfg:875
@@ -1022,56 +1031,57 @@ msgid ""
 "The enemy is sending their best troops. Once we beat them, we can capture "
 "the temple with ease!"
 msgstr ""
+"Лучшие силы врагов идут на нас. Когда мы их разобьём, мы легко сможем взять "
+"храм!"
 
 #. [message]
 #: scenarios/4_Time_to_Preach.cfg:952
 msgid ""
 "Now we should have more time to convert the villagers without being bothered."
-msgstr ""
+msgstr "Теперь мы можем обратить оставшихся жителей без всяких проблем."
 
 #. [message]
 #: scenarios/4_Time_to_Preach.cfg:961
 msgid "Indeed."
-msgstr ""
+msgstr "И то верно."
 
 #. [scenario]: id=Epilogue
 #. [scenario]: id=Epilogue_alt
-#: scenarios/Epilogue.cfg:4 scenarios/Epilogue.cfg:100
+#: scenarios/Epilogue.cfg:4 scenarios/Epilogue.cfg:104
 msgid "Epilogue"
 msgstr "Эпилог"
 
 #. [part]
-#: scenarios/Epilogue.cfg:50 scenarios/Epilogue.cfg:146
+#: scenarios/Epilogue.cfg:54 scenarios/Epilogue.cfg:154
 msgid ""
 "With the fall of the Temple of the Firebird ogres took over the control over "
 "spiritual life of the conquered lands. That same year the great church of "
 "Light was built in Shumsk; preachers reached the most distant villages; "
 "multitudes of settlers from the Kingdom flooded Krad's lands."
 msgstr ""
-"С Падением храма Жар-Птицы огры стали властвовать над духовной жизнью "
+"С падением храма Жар-Птицы огры стали властвовать над духовной жизнью "
 "завоёванных земель. В тот же год в Шумске была построена большая церковь "
 "Света, проповедники добрались до самых дальних деревень, многочисленные "
 "переселенцы из Королевства наводнили крадские земли."
 
 #. [part]
-#: scenarios/Epilogue.cfg:60
+#: scenarios/Epilogue.cfg:64
 msgid ""
 "Shrogg and Barkuk split their vast conquered territory between each other - "
 "Since it was Shrogg's troops who successfully took over Shumsk's citadel and "
-"put its leader to the sword, he got the title 'the Duke of Shumsk, Conquerer "
-"of Northerners'."
+"put its leader to the sword, he got the title 'the Conquerer of Northerners'."
 msgstr ""
 
 #. [part]
-#: scenarios/Epilogue.cfg:65
+#: scenarios/Epilogue.cfg:69
 msgid ""
-"For his plentiful assistance, however, his brother Barkuk was given got most "
-"of the smaller cities. For a long time people told tales about the two "
+"For his plentiful assistance, however, his brother Barkuk was given the "
+"title 'the Duke of Shumsk'. For a long time people told tales about the two "
 "brothers' brave crusade, making many a pan envious of their glory."
 msgstr ""
 
 #. [part]
-#: scenarios/Epilogue.cfg:69 scenarios/Epilogue.cfg:165
+#: scenarios/Epilogue.cfg:73 scenarios/Epilogue.cfg:173
 msgid ""
 "But Krad wasn't conqured fully, and their knyaz could not tolerate such an "
 "outcome. Several years later the struggle for liberation of Shumsk began. "
@@ -1079,39 +1089,40 @@ msgid ""
 msgstr ""
 
 #. [part]
-#: scenarios/Epilogue.cfg:73 scenarios/Epilogue.cfg:169
+#: scenarios/Epilogue.cfg:77 scenarios/Epilogue.cfg:177
 msgid "And for now..."
 msgstr ""
 
 #. [part]
-#: scenarios/Epilogue.cfg:78
+#: scenarios/Epilogue.cfg:82
 msgid ""
-"Glory to you, Shrogg Stoneface, who surpassed other pans in valour, the Duke "
-"of Shumsk, Conquerer of Northerners!"
+"Glory to you, Shrogg Stoneface, the Conquerer of Northerners! Glory to you, "
+"Barkuk Rocktooth, the Duke of Shumsk! Glory to you who surpassed other pans "
+"in valour!"
 msgstr ""
 
 #. [part]
-#: scenarios/Epilogue.cfg:156
+#: scenarios/Epilogue.cfg:164
 msgid ""
 "Shrogg and Barkuk split their vast conquered territory between each other - "
 "Since it was Barkuk's troops who successfully took over Shumsk's citadel and "
-"put its leader to the sword, he got the title 'the Duke of Shumsk, Conquerer "
-"of Northerners'."
+"put its leader to the sword, he got the title 'the Conquerer of Northerners'."
 msgstr ""
 
 #. [part]
-#: scenarios/Epilogue.cfg:161
+#: scenarios/Epilogue.cfg:169
 msgid ""
-"For his plentiful assistance, however, his brother Shrogg was given got most "
-"of the smaller cities. For a long time people told tales about the two "
+"For his plentiful assistance, however, his brother Shrogg was given the "
+"title 'the Duke of Shumsk'. For a long time people told tales about the two "
 "brothers' brave crusade, making many a pan envious of their glory."
 msgstr ""
 
 #. [part]
-#: scenarios/Epilogue.cfg:174
+#: scenarios/Epilogue.cfg:182
 msgid ""
-"Glory to you, Barkuk Rocktooth, who surpassed other pans in valour, the Duke "
-"of Shumsk, Conquerer of Northerners!"
+"Glory to you, Barkuk Rocktooth, the Conquerer of Northerners! Glory to you, "
+"Shrogg Stoneface, the Duke of Shumsk! Glory to you who surpassed other pans "
+"in valour!"
 msgstr ""
 
 #. [unit_type]: id=NCoSS_Battering_Ram, race=mechanical
@@ -1161,6 +1172,11 @@ msgstr ""
 
 #. [abilities]
 #: units/Engineer.cfg:22
+msgid "build siege weapons"
+msgstr "строит осадные орудия"
+
+#. [abilities]
+#: units/Engineer.cfg:22
 msgid ""
 "This unit can build the following:\n"
 "\n"
@@ -1169,11 +1185,6 @@ msgid ""
 msgstr ""
 "Этот боец может создать катапульты (стоимость - 28 золотых) и тараны "
 "(стоимость - 22 золота)"
-
-#. [abilities]
-#: units/Engineer.cfg:22
-msgid "build siege weapons"
-msgstr "строит осадные орудия"
 
 #. [abilities]
 #: units/Engineer.cfg:26
