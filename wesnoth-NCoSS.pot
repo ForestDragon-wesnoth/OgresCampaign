@@ -19,11 +19,11 @@ msgid "<span color='#080'>"
 msgstr ""
 
 #: _main.cfg:20
-msgid "<span color='#800'>"
+msgid "Music pack “The Great Steppe Music” is not installed. Custom music will be replaced with default tracks."
 msgstr ""
 
 #: _main.cfg:20
-msgid "Music pack “The Great Steppe Music” is not installed. Custom music will be replaced with default tracks."
+msgid "<span color='#800'>"
 msgstr ""
 
 #. [campaign]: id=Northern_Crusade_of_Shrogg_Stoneface, type=hybrid
@@ -268,7 +268,7 @@ msgstr ""
 
 #. [message]: speaker=Brother
 #: scenarios/1_Smoke_of_the_Fatherland.cfg:317
-msgid "But a lot of warriors died too."
+msgid "But a lot of our warriors died too."
 msgstr ""
 
 #. [message]: speaker=Pan
@@ -855,7 +855,7 @@ msgstr ""
 
 #. [dummy]: id=ncoss_transport
 #: units/Longboat.cfg:24
-msgid "When reaching the city's port, this unit spawns 1 Ushkuynik and is removed."
+msgid "When reaching the city's port, this unit spawns a lvl2 unit from the Triumvirate faction and is removed."
 msgstr ""
 
 #. [attack]: type=pierce
