@@ -11,19 +11,19 @@ msgstr ""
 "Content-Transfer-Encoding: 8bit\n"
 
 #: _main.cfg:15
-msgid "<span color='#080'>"
-msgstr ""
-
-#: _main.cfg:15
 msgid "Music pack “The Great Steppe Music” is installed. Custom music will be played."
 msgstr ""
 
-#: _main.cfg:20
-msgid "<span color='#800'>"
+#: _main.cfg:15
+msgid "<span color='#080'>"
 msgstr ""
 
 #: _main.cfg:20
 msgid "Music pack “The Great Steppe Music” is not installed. Custom music will be replaced with default tracks."
+msgstr ""
+
+#: _main.cfg:20
+msgid "<span color='#800'>"
 msgstr ""
 
 #. [campaign]: id=Northern_Crusade_of_Shrogg_Stoneface, type=hybrid
@@ -68,12 +68,12 @@ msgstr ""
 
 #. [campaign]: id=Northern_Crusade_of_Shrogg_Stoneface, type=hybrid
 #: _main.cfg:43
-msgid "Pan"
+msgid "Hard"
 msgstr ""
 
 #. [campaign]: id=Northern_Crusade_of_Shrogg_Stoneface, type=hybrid
 #: _main.cfg:43
-msgid "Hard"
+msgid "Pan"
 msgstr ""
 
 #. [about]
@@ -149,7 +149,7 @@ msgstr ""
 #. [side]
 #. [side]: id=Castellan, type=Kingdom_Troll_Veteran
 #. [side]: id=ogre_ally, type=Ogre_Foreman
-#: scenarios/1_Smoke_of_the_Fatherland.cfg:57 scenarios/1_Smoke_of_the_Fatherland.cfg:71 scenarios/1_Smoke_of_the_Fatherland.cfg:135 scenarios/2_Beginning_of_the_Crusade.cfg:75 scenarios/2_Beginning_of_the_Crusade.cfg:91 scenarios/2_Beginning_of_the_Crusade.cfg:119 scenarios/3_Siege.cfg:65 scenarios/3_Siege.cfg:83 scenarios/4_Time_to_Preach.cfg:137 scenarios/4_Time_to_Preach.cfg:154
+#: scenarios/1_Smoke_of_the_Fatherland.cfg:57 scenarios/1_Smoke_of_the_Fatherland.cfg:71 scenarios/1_Smoke_of_the_Fatherland.cfg:135 scenarios/2_Beginning_of_the_Crusade.cfg:75 scenarios/2_Beginning_of_the_Crusade.cfg:91 scenarios/2_Beginning_of_the_Crusade.cfg:119 scenarios/3_Siege.cfg:65 scenarios/3_Siege.cfg:83 scenarios/4_Time_to_Preach.cfg:137 scenarios/4_Time_to_Preach.cfg:154 scenarios/Epilogue.cfg:20 scenarios/Epilogue.cfg:38 scenarios/Epilogue.cfg:116 scenarios/Epilogue.cfg:134
 msgid "Ogres"
 msgstr ""
 
@@ -429,11 +429,6 @@ msgstr ""
 #. [message]: speaker=Pan
 #: scenarios/2_Beginning_of_the_Crusade.cfg:425
 msgid "Meh, that madcap would've been useful to pillage all the neighbouring villages, pity he died. Whatever."
-msgstr ""
-
-#. [message]: speaker=Pan
-#: scenarios/2_Beginning_of_the_Crusade.cfg:429
-msgid "At least he was pretty decent cannon fodder."
 msgstr ""
 
 #. [scenario]: id=3_Siege
@@ -726,6 +721,57 @@ msgstr ""
 msgid "Indeed."
 msgstr ""
 
+#. [scenario]: id=Epilogue
+#. [scenario]: id=Epilogue_alt
+#: scenarios/Epilogue.cfg:4 scenarios/Epilogue.cfg:100
+msgid "Epilogue"
+msgstr ""
+
+#. [part]
+#: scenarios/Epilogue.cfg:50 scenarios/Epilogue.cfg:146
+msgid "With the fall of the Temple of the Firebird ogres took over the control over spiritual life of the conquered lands. That same year the great church of Light was built in Shumsk; preachers reached the most distant villages; multitudes of settlers from the Kingdom flooded Krad's lands."
+msgstr ""
+
+#. [part]
+#: scenarios/Epilogue.cfg:60
+msgid "Shrogg and Barkuk split their vast conquered territory between each other - Since it was Shrogg's troops who successfully took over Shumsk's citadel and put its leader to the sword, he got the title 'the Duke of Shumsk, Conquerer of Northerners'."
+msgstr ""
+
+#. [part]
+#: scenarios/Epilogue.cfg:65
+msgid "For his plentiful assistance, however, his brother Barkuk was given got most of the smaller cities. For a long time people told tales about the two brothers' brave crusade, making many a pan envious of their glory."
+msgstr ""
+
+#. [part]
+#: scenarios/Epilogue.cfg:69 scenarios/Epilogue.cfg:165
+msgid "But Krad wasn't conqured fully, and their knyaz could not tolerate such an outcome. Several years later the struggle for liberation of Shumsk began. But that is another story..."
+msgstr ""
+
+#. [part]
+#: scenarios/Epilogue.cfg:73 scenarios/Epilogue.cfg:169
+msgid "And for now..."
+msgstr ""
+
+#. [part]
+#: scenarios/Epilogue.cfg:78
+msgid "Glory to you, Shrogg Stoneface, who surpassed other pans in valour, the Duke of Shumsk, Conquerer of Northerners!"
+msgstr ""
+
+#. [part]
+#: scenarios/Epilogue.cfg:156
+msgid "Shrogg and Barkuk split their vast conquered territory between each other - Since it was Barkuk's troops who successfully took over Shumsk's citadel and put its leader to the sword, he got the title 'the Duke of Shumsk, Conquerer of Northerners'."
+msgstr ""
+
+#. [part]
+#: scenarios/Epilogue.cfg:161
+msgid "For his plentiful assistance, however, his brother Shrogg was given got most of the smaller cities. For a long time people told tales about the two brothers' brave crusade, making many a pan envious of their glory."
+msgstr ""
+
+#. [part]
+#: scenarios/Epilogue.cfg:174
+msgid "Glory to you, Barkuk Rocktooth, who surpassed other pans in valour, the Duke of Shumsk, Conquerer of Northerners!"
+msgstr ""
+
 #. [unit_type]: id=NCoSS_Battering_Ram, race=mechanical
 #: units/Battering_Ram.cfg:4
 msgid "Battering Ram"
@@ -776,16 +822,16 @@ msgstr ""
 
 #. [abilities]
 #: units/Engineer.cfg:22
+msgid "build siege weapons"
+msgstr ""
+
+#. [abilities]
+#: units/Engineer.cfg:22
 msgid ""
 "This unit can build the following:\n"
 "\n"
 "Catapult - 28 gold\n"
 "Battering Ram - 22 gold"
-msgstr ""
-
-#. [abilities]
-#: units/Engineer.cfg:22
-msgid "build siege weapons"
 msgstr ""
 
 #. [abilities]
