@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: https://bugs.wesnoth.org/\n"
-"POT-Creation-Date: 2022-02-05 19:31+0400\n"
+"POT-Creation-Date: 2022-02-05 19:52+0400\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -48,12 +48,12 @@ msgstr ""
 
 #. [campaign]: id=Northern_Crusade_of_Shrogg_Stoneface, type=hybrid
 #: _main.cfg:40
-msgid "Easy"
+msgid "Noble Son"
 msgstr ""
 
 #. [campaign]: id=Northern_Crusade_of_Shrogg_Stoneface, type=hybrid
 #: _main.cfg:40
-msgid "Noble Son"
+msgid "Easy"
 msgstr ""
 
 #. [campaign]: id=Northern_Crusade_of_Shrogg_Stoneface, type=hybrid
@@ -68,12 +68,12 @@ msgstr ""
 
 #. [campaign]: id=Northern_Crusade_of_Shrogg_Stoneface, type=hybrid
 #: _main.cfg:43
-msgid "Hard"
+msgid "Pan"
 msgstr ""
 
 #. [campaign]: id=Northern_Crusade_of_Shrogg_Stoneface, type=hybrid
 #: _main.cfg:43
-msgid "Pan"
+msgid "Hard"
 msgstr ""
 
 #. [about]
@@ -729,7 +729,7 @@ msgstr ""
 
 #. [part]
 #: scenarios/Epilogue.cfg:64
-msgid "Shrogg and Barkuk split their vast conquered territory between each other - Since it was Shrogg's troops who successfully took over Shumsk's citadel and put its leader to the sword, he got the title 'the Conquerer of Northerners'."
+msgid "Since it was Shrogg's troops who successfully took over Shumsk's citadel and put its leader to the sword, he got the title 'the Conquerer of Northerners'."
 msgstr ""
 
 #. [part]
@@ -754,7 +754,7 @@ msgstr ""
 
 #. [part]
 #: scenarios/Epilogue.cfg:164
-msgid "Shrogg and Barkuk split their vast conquered territory between each other - Since it was Barkuk's troops who successfully took over Shumsk's citadel and put its leader to the sword, he got the title 'the Conquerer of Northerners'."
+msgid "Since it was Barkuk's troops who successfully took over Shumsk's citadel and put its leader to the sword, he got the title 'the Conquerer of Northerners'."
 msgstr ""
 
 #. [part]

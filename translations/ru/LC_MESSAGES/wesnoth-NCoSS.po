@@ -2,8 +2,8 @@ msgid ""
 msgstr ""
 "Project-Id-Version: \n"
 "Report-Msgid-Bugs-To: https://bugs.wesnoth.org/\n"
-"POT-Creation-Date: 2022-02-05 19:31+0400\n"
-"PO-Revision-Date: 2022-02-05 19:51+0400\n"
+"POT-Creation-Date: 2022-02-05 19:52+0400\n"
+"PO-Revision-Date: 2022-02-05 19:55+0400\n"
 "Last-Translator: \n"
 "Language-Team: \n"
 "Language: ru\n"
@@ -71,13 +71,13 @@ msgstr ""
 
 #. [campaign]: id=Northern_Crusade_of_Shrogg_Stoneface, type=hybrid
 #: _main.cfg:40
-msgid "Easy"
-msgstr "Легкий"
+msgid "Noble Son"
+msgstr "Знатный Сын"
 
 #. [campaign]: id=Northern_Crusade_of_Shrogg_Stoneface, type=hybrid
 #: _main.cfg:40
-msgid "Noble Son"
-msgstr "Знатный Сын"
+msgid "Easy"
+msgstr "Легкий"
 
 #. [campaign]: id=Northern_Crusade_of_Shrogg_Stoneface, type=hybrid
 #: _main.cfg:41
@@ -91,13 +91,13 @@ msgstr "Наследник"
 
 #. [campaign]: id=Northern_Crusade_of_Shrogg_Stoneface, type=hybrid
 #: _main.cfg:43
-msgid "Hard"
-msgstr "Сложный"
+msgid "Pan"
+msgstr "Пан"
 
 #. [campaign]: id=Northern_Crusade_of_Shrogg_Stoneface, type=hybrid
 #: _main.cfg:43
-msgid "Pan"
-msgstr "Пан"
+msgid "Hard"
+msgstr "Сложный"
 
 #. [about]
 #: _main.cfg:45
@@ -1067,10 +1067,11 @@ msgstr ""
 #. [part]
 #: scenarios/Epilogue.cfg:64
 msgid ""
-"Shrogg and Barkuk split their vast conquered territory between each other - "
 "Since it was Shrogg's troops who successfully took over Shumsk's citadel and "
 "put its leader to the sword, he got the title 'the Conquerer of Northerners'."
 msgstr ""
+"Так как войска Шрогга ворвались в цитедаль Шумска и сразили лидера врагов, "
+"Шрогг получил титул 'Покоритель Северян'."
 
 #. [part]
 #: scenarios/Epilogue.cfg:69
@@ -1079,6 +1080,9 @@ msgid ""
 "title 'the Duke of Shumsk'. For a long time people told tales about the two "
 "brothers' brave crusade, making many a pan envious of their glory."
 msgstr ""
+"За оказанную помощь, его брат Баркук получил титул 'Герцога Шумского'. Ещё "
+"долго на зависть всем панам ходили в народе баллады об их отважном крестовом "
+"походе."
 
 #. [part]
 #: scenarios/Epilogue.cfg:73 scenarios/Epilogue.cfg:173
@@ -1087,11 +1091,14 @@ msgid ""
 "outcome. Several years later the struggle for liberation of Shumsk began. "
 "But that is another story..."
 msgstr ""
+"Крада не была полностью завоевана, князь не мог смириться с таким положением "
+"дел. Через несколько лет начнётся новая война за освобождение Шумска, но это "
+"уже другая история..."
 
 #. [part]
 #: scenarios/Epilogue.cfg:77 scenarios/Epilogue.cfg:177
 msgid "And for now..."
-msgstr ""
+msgstr "А пока..."
 
 #. [part]
 #: scenarios/Epilogue.cfg:82
@@ -1100,14 +1107,17 @@ msgid ""
 "Barkuk Rocktooth, the Duke of Shumsk! Glory to you who surpassed other pans "
 "in valour!"
 msgstr ""
+"Славьтесь Шрогг Камнемордый, Покоритель Северян, и Баркук Скалозубый, Герцог "
+"Шумский, в доблести превзошедшие прочих панов!"
 
 #. [part]
 #: scenarios/Epilogue.cfg:164
 msgid ""
-"Shrogg and Barkuk split their vast conquered territory between each other - "
 "Since it was Barkuk's troops who successfully took over Shumsk's citadel and "
 "put its leader to the sword, he got the title 'the Conquerer of Northerners'."
 msgstr ""
+"Так как войска Баркука ворвались в цитедаль Шумска и сразили лидера врагов, "
+"Баркук получил титул 'Покоритель Северян'."
 
 #. [part]
 #: scenarios/Epilogue.cfg:169
@@ -1116,6 +1126,9 @@ msgid ""
 "title 'the Duke of Shumsk'. For a long time people told tales about the two "
 "brothers' brave crusade, making many a pan envious of their glory."
 msgstr ""
+"За оказанную помощь, его брат Шрогг получил титул 'Герцога Шумского'. Ещё "
+"долго на зависть всем панам ходили в народе баллады об их отважном крестовом "
+"походе."
 
 #. [part]
 #: scenarios/Epilogue.cfg:182
@@ -1124,6 +1137,8 @@ msgid ""
 "Shrogg Stoneface, the Duke of Shumsk! Glory to you who surpassed other pans "
 "in valour!"
 msgstr ""
+"Славьтесь Баркук Скалозубый, Покоритель Северян, и Шрогг Камнемордый, Герцог "
+"Шумский, в доблести превзошедшие прочих панов!"
 
 #. [unit_type]: id=NCoSS_Battering_Ram, race=mechanical
 #: units/Battering_Ram.cfg:4
