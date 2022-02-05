@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: \n"
 "Report-Msgid-Bugs-To: https://bugs.wesnoth.org/\n"
 "POT-Creation-Date: \n"
-"PO-Revision-Date: 2022-02-05 14:20+0300\n"
+"PO-Revision-Date: 2022-02-05 14:39+0300\n"
 "Last-Translator: \n"
 "Language-Team: \n"
 "Language: ru\n"
@@ -170,7 +170,7 @@ msgstr ""
 "Линтанира. Их воины не заявили о себе громкими победами в войнах 9 века, а "
 "потому эльфы выглядели лёгкой добычей для его растущего могущества. \"Их "
 "полные дичи леса станут достойными наделами для моих панов и рыцарей. "
-"Долголетие эльфов сделает из них отличных слуг, а духовенство будет радо "
+"Долголетие эльфов сделает из них отличных подданых, а духовенство будет радо "
 "нести наше учение другим народам."
 
 #. [part]
@@ -468,6 +468,12 @@ msgid ""
 "large moat and high walls with guard towers, it also had a port which "
 "allowed fast Krad's boats to quickly bring reinforcements."
 msgstr ""
+"После некоторой подготовки два брата отправились в собственный крестовый "
+"поход. Шумск был ближайшим к границе крупным городом, взять его означало "
+"получить контроль над всем югом Крады. Но городская крепость была хорошо "
+"защищена большим рвом и высокими стенами со сторожевыми башнями, а также "
+"имела порт, который позволял быстроходным ладьям Крады в короткий срок "
+"доставлять подкрепления."
 
 #. [part]
 #: scenarios/2_Beginning_of_the_Crusade.cfg:60
@@ -477,6 +483,10 @@ msgid ""
 "Still the way to Shumsk didn't promise to be easy to deliver needed "
 "equipment."
 msgstr ""
+"Взять Шумск — непростая задача, но это было делом чести! Братья, используя "
+"большую часть золота из своей казны, наняли осадных инженеров из Веснота. И "
+"все же дорога до Шумска обещала быть непростой для доставки необходимого "
+"оборудования."
 
 #. [part]
 #: scenarios/2_Beginning_of_the_Crusade.cfg:63
@@ -486,6 +496,10 @@ msgid ""
 "expected, they found and hired a band of Steppe Ogres to assist in the "
 "assault."
 msgstr ""
+"Чтобы обеспечить безопасный проход для осадного оборудования, братья решили "
+"использовать авангард, чтобы быстро взять приграничный городок. Как они и "
+"ожидали, степные огры уже начали свои набеги на Краду. Паны подкупили банду "
+"кочевников, чтобы те помогли им в штурме."
 
 #. [side]: id=ogre_ally, type=Ogre_Foreman
 #: scenarios/2_Beginning_of_the_Crusade.cfg:102
@@ -743,12 +757,12 @@ msgstr ""
 #. [message]
 #: scenarios/3_Siege.cfg:736
 msgid "Hmmmm... should I hire them?"
-msgstr ""
+msgstr "Хмммм... буду ли я их нанимать?"
 
 #. [option]
 #: scenarios/3_Siege.cfg:739
 msgid "Yes (costs 95 gold)"
-msgstr ""
+msgstr "Да (стоит 95 золота)"
 
 #. [message]
 #: scenarios/3_Siege.cfg:765
@@ -769,7 +783,7 @@ msgstr ""
 #. [option]
 #: scenarios/3_Siege.cfg:794
 msgid "No"
-msgstr ""
+msgstr "Нет"
 
 #. [message]
 #: scenarios/3_Siege.cfg:798
@@ -819,7 +833,7 @@ msgstr ""
 #. [scenario]: id=4_Time_to_Preach
 #: scenarios/4_Time_to_Preach.cfg:95
 msgid "Time to Preach"
-msgstr ""
+msgstr "Пора Проповедовать"
 
 #. [part]
 #: scenarios/4_Time_to_Preach.cfg:121
@@ -855,7 +869,7 @@ msgstr ""
 #. [note]
 #: scenarios/4_Time_to_Preach.cfg:588
 msgid "You need to complete both objectives to win"
-msgstr ""
+msgstr "Вы должны выполнить обе задачи чтобы победить"
 
 #. [note]
 #: scenarios/4_Time_to_Preach.cfg:591
@@ -871,6 +885,9 @@ msgid ""
 "You can capture villages to spawn a villager (works once per village). "
 "Villages that already spawned a peasant will be marked with an 'X' label."
 msgstr ""
+"Вы можете захватывать деревни чтобы получить больше крестьян для проповеди "
+"(работает раз на деревню). Деревни где вы уже взяли крестьянина будут иметь "
+"метку \"X\"."
 
 #. [note]
 #: scenarios/4_Time_to_Preach.cfg:597

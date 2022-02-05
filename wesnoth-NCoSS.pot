@@ -68,12 +68,12 @@ msgstr ""
 
 #. [campaign]: id=Northern_Crusade_of_Shrogg_Stoneface, type=hybrid
 #: _main.cfg:43
-msgid "Hard"
+msgid "Pan"
 msgstr ""
 
 #. [campaign]: id=Northern_Crusade_of_Shrogg_Stoneface, type=hybrid
 #: _main.cfg:43
-msgid "Pan"
+msgid "Hard"
 msgstr ""
 
 #. [about]
@@ -302,7 +302,7 @@ msgid "Defeat enemy leaders"
 msgstr ""
 
 #. [objective]: condition=lose
-#: scenarios/1_Smoke_of_the_Fatherland.cfg:348 scenarios/2_Beginning_of_the_Crusade.cfg:340 scenarios/3_Siege.cfg:230 scenarios/4_Time_to_Preach.cfg:571
+#: scenarios/1_Smoke_of_the_Fatherland.cfg:348 scenarios/2_Beginning_of_the_Crusade.cfg:336 scenarios/3_Siege.cfg:230 scenarios/4_Time_to_Preach.cfg:571
 msgid "Death of any of your leaders"
 msgstr ""
 
@@ -373,71 +373,66 @@ msgstr ""
 
 #. [message]: speaker=Brother
 #: scenarios/2_Beginning_of_the_Crusade.cfg:315
-msgid "(quietly) <i>Indeed. Free cannon fodder is always nice.</i>"
+msgid "(quietly) <i>Indeed.</i>"
 msgstr ""
 
 #. [message]: speaker=Pan
 #: scenarios/2_Beginning_of_the_Crusade.cfg:319
-msgid "<i>It wasn't free, mind you! Anyway...</i> "
-msgstr ""
-
-#. [message]: speaker=Pan
-#: scenarios/2_Beginning_of_the_Crusade.cfg:323
 msgid "(To Chinggis) Hey! Let's start this! As we agreed, all loot you take here is yours."
 msgstr ""
 
 #. [message]: speaker=ogre_ally
-#: scenarios/2_Beginning_of_the_Crusade.cfg:327
+#: scenarios/2_Beginning_of_the_Crusade.cfg:323
 msgid "Come boys, let's show 'em how real ogres fight!"
 msgstr ""
 
 #. [objective]: condition=win
-#: scenarios/2_Beginning_of_the_Crusade.cfg:336
+#: scenarios/2_Beginning_of_the_Crusade.cfg:332
 msgid "Kill the northern enemy leader"
 msgstr ""
 
 #. [note]
-#: scenarios/2_Beginning_of_the_Crusade.cfg:345
+#: scenarios/2_Beginning_of_the_Crusade.cfg:341
 msgid "You don't have to kill leaders near the outposts, your goal is to kill the leader in the town"
 msgstr ""
 
 #. [note]
-#: scenarios/2_Beginning_of_the_Crusade.cfg:348
+#: scenarios/2_Beginning_of_the_Crusade.cfg:344
 msgid "Outpost leaders recieve gold and start recruiting when your or your ally's units come closer. The first triggered outpost recieves the most gold"
 msgstr ""
 
 #. [message]: speaker=unit
-#: scenarios/2_Beginning_of_the_Crusade.cfg:399
+#: scenarios/2_Beginning_of_the_Crusade.cfg:395
 msgid "Argh... I failed to stop the invasion..."
 msgstr ""
 
 #. [message]: speaker=Brother
-#: scenarios/2_Beginning_of_the_Crusade.cfg:409
+#: scenarios/2_Beginning_of_the_Crusade.cfg:405
 msgid "With this town captured they can't seriously bother us. The way for our siege machines to Shumsk is secured."
 msgstr ""
 
 #. [message]: speaker=ogre_ally
-#: scenarios/2_Beginning_of_the_Crusade.cfg:415
+#: scenarios/2_Beginning_of_the_Crusade.cfg:411
 msgid "Shumsk? Ya crazy, city well prepare, you won't be able to show'em!"
 msgstr ""
 
 #. [message]: speaker=Pan
-#: scenarios/2_Beginning_of_the_Crusade.cfg:419
+#: scenarios/2_Beginning_of_the_Crusade.cfg:415
 msgid "It is our problem to handle. As we agreed, take everything that you looted here. Also I wouldn't mind you pillaging all neighbour villages if you don't feel like <i>showing'em</i>."
 msgstr ""
 
 #. [message]: speaker=ogre_ally
-#: scenarios/2_Beginning_of_the_Crusade.cfg:423
+#: scenarios/2_Beginning_of_the_Crusade.cfg:419
 msgid "Gggrrr... good. You remember my word, we true ogres know."
 msgstr ""
 
 #. [message]: speaker=Pan
-#: scenarios/2_Beginning_of_the_Crusade.cfg:429
+#: scenarios/2_Beginning_of_the_Crusade.cfg:425
 msgid "Meh, that madcap would've been useful to pillage all the neighbouring villages, pity he died. Whatever."
 msgstr ""
 
 #. [message]: speaker=Pan
-#: scenarios/2_Beginning_of_the_Crusade.cfg:433
+#: scenarios/2_Beginning_of_the_Crusade.cfg:429
 msgid "At least he was pretty decent cannon fodder."
 msgstr ""
 
