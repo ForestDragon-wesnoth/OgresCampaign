@@ -48,12 +48,12 @@ msgstr ""
 
 #. [campaign]: id=Northern_Crusade_of_Shrogg_Stoneface, type=hybrid
 #: _main.cfg:40
-msgid "Easy"
+msgid "Noble Son"
 msgstr ""
 
 #. [campaign]: id=Northern_Crusade_of_Shrogg_Stoneface, type=hybrid
 #: _main.cfg:40
-msgid "Noble Son"
+msgid "Easy"
 msgstr ""
 
 #. [campaign]: id=Northern_Crusade_of_Shrogg_Stoneface, type=hybrid
@@ -68,12 +68,12 @@ msgstr ""
 
 #. [campaign]: id=Northern_Crusade_of_Shrogg_Stoneface, type=hybrid
 #: _main.cfg:43
-msgid "Pan"
+msgid "Hard"
 msgstr ""
 
 #. [campaign]: id=Northern_Crusade_of_Shrogg_Stoneface, type=hybrid
 #: _main.cfg:43
-msgid "Hard"
+msgid "Pan"
 msgstr ""
 
 #. [about]
@@ -483,7 +483,7 @@ msgstr ""
 
 #. [set_menu_item]: id=ncoss_fill_moat
 #: scenarios/3_Siege.cfg:438
-msgid "Fill water with soil, costs <span color='#2c9fed'>40%</span> of this unit's moves)"
+msgid "Fill water with soil, costs <span color='#2c9fed'>40%</span> of this unit's moves"
 msgstr ""
 
 #. [message]: speaker=Pan

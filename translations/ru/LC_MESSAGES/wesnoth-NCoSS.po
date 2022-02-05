@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: \n"
 "Report-Msgid-Bugs-To: https://bugs.wesnoth.org/\n"
 "POT-Creation-Date: \n"
-"PO-Revision-Date: 2022-02-05 13:59+0300\n"
+"PO-Revision-Date: 2022-02-05 14:16+0300\n"
 "Last-Translator: \n"
 "Language-Team: \n"
 "Language: ru\n"
@@ -23,6 +23,8 @@ msgid ""
 "Music pack “The Great Steppe Music” is installed. Custom music will be "
 "played."
 msgstr ""
+"Музыкальный аддон \"Эра Великой Степи - музыка\" загружен.  Играть будет "
+"музыка из аддона."
 
 #: _main.cfg:20
 msgid "<span color='#800'>"
@@ -33,6 +35,8 @@ msgid ""
 "Music pack “The Great Steppe Music” is not installed. Custom music will be "
 "replaced with default tracks."
 msgstr ""
+"Музыкальный аддон \"Эра Великой Степи - музыка\" не загружен.  Музыка из "
+"аддона будет заменена на треки с обычного веснота."
 
 #. [campaign]: id=Northern_Crusade_of_Shrogg_Stoneface, type=hybrid
 #: _main.cfg:27
@@ -67,13 +71,13 @@ msgstr ""
 
 #. [campaign]: id=Northern_Crusade_of_Shrogg_Stoneface, type=hybrid
 #: _main.cfg:40
-msgid "Easy"
-msgstr "Легкий"
+msgid "Noble Son"
+msgstr "Знатный Сын"
 
 #. [campaign]: id=Northern_Crusade_of_Shrogg_Stoneface, type=hybrid
 #: _main.cfg:40
-msgid "Noble Son"
-msgstr "Знатный Сын"
+msgid "Easy"
+msgstr "Легкий"
 
 #. [campaign]: id=Northern_Crusade_of_Shrogg_Stoneface, type=hybrid
 #: _main.cfg:41
@@ -87,13 +91,13 @@ msgstr "Нормальный"
 
 #. [campaign]: id=Northern_Crusade_of_Shrogg_Stoneface, type=hybrid
 #: _main.cfg:43
-msgid "Pan"
-msgstr "Пан"
+msgid "Hard"
+msgstr "Сложный"
 
 #. [campaign]: id=Northern_Crusade_of_Shrogg_Stoneface, type=hybrid
 #: _main.cfg:43
-msgid "Hard"
-msgstr "Сложный"
+msgid "Pan"
+msgstr "Пан"
 
 #. [about]
 #: _main.cfg:45
@@ -147,6 +151,9 @@ msgid ""
 "ambitious King Grgr I ascended to the throne. Supported by noble pans and "
 "the clergy, he still had to take measures to strengthen his rule."
 msgstr ""
+"После великой смуты в Королевстве Огров молодой и амбициозный король Гргр I "
+"взошёл на престол. Знатные паны и духовенство поддерживали его, но чтобы "
+"укрепить своё правление, королю нужны были громкие победы и славные дела."
 
 #. [part]
 #: scenarios/1_Smoke_of_the_Fatherland.cfg:36
@@ -159,11 +166,17 @@ msgid ""
 "will be perfect subjects. And the clergy will be pleased to bring their "
 "teaching to another people'."
 msgstr ""
+"Он собирал вести о соседних державах. Внимание короля привлекли эльфы "
+"Линтанира. Их воины не заявили о себе громкими победами в войнах 9 века, а "
+"потому эльфы выглядели лёгкой добычей для его растущего могущества. \"Их "
+"полные дичи леса станут достойными наделами для моих панов и рыцарей. "
+"Долголетие эльфов сделает из них отличных слуг, а духовенство будет радо "
+"нести наше учение другим народам.\" "
 
 #. [part]
 #: scenarios/1_Smoke_of_the_Fatherland.cfg:39
 msgid "So decided Grgr, and his crusade began..."
-msgstr ""
+msgstr "Так рассудил Гргр I и начал крестовый поход..."
 
 #. [part]
 #: scenarios/1_Smoke_of_the_Fatherland.cfg:42
@@ -172,6 +185,10 @@ msgid ""
 "against his huge army. On newly acquired langs Ogres cut redudant woods and "
 "started construction of castles and fortresses. But then bad tidings came."
 msgstr ""
+"Всё начиналось идеально. Совершенно неподготовленные к такому вторжению "
+"эльфы  проиграли первые сражения с его огромной армией. На завоёванных "
+"землях огры рубили леса, строили замки и крепости. Но затем пришли плохие "
+"вести."
 
 #. [part]
 #: scenarios/1_Smoke_of_the_Fatherland.cfg:45
@@ -182,6 +199,11 @@ msgid ""
 "Shrogg Stoneface and his brother Barkuk Rocktooth, decided to return to "
 "their home to repel any possible invader..."
 msgstr ""
+"Эльфы отправили гонцов к своим союзникам с просьбой ударить в тыл ограм. "
+"Крадский князь Яромир согласился помочь и отправил дружину грабить "
+"оставшиеся без защиты северные владения огров. Узнав об этом, два Пана - "
+"Шрогг Камнемордый и его брат Баркук Скалозуб, - поспешили вернуться в родные "
+"владения, чтобы дать отпор захватчикам..."
 
 #. [side]
 #. [side]: id=Castellan, type=Kingdom_Troll_Veteran
@@ -237,7 +259,7 @@ msgstr "Ууууух..."
 #. [message]: speaker=unit
 #: scenarios/1_Smoke_of_the_Fatherland.cfg:222
 msgid "Arrgh... We lost!"
-msgstr ""
+msgstr "Арргх... Мы побеждены!"
 
 #. [message]: speaker=unit
 #: scenarios/1_Smoke_of_the_Fatherland.cfg:236
@@ -248,7 +270,7 @@ msgstr "Видно я недооценил врага..."
 #: scenarios/1_Smoke_of_the_Fatherland.cfg:244
 msgid ""
 "Arr, that was a long way! Look, Barkuk, the smoke is above our villages!"
-msgstr ""
+msgstr "Арр, это был долгий путь! Глянь, Баркук, над нашими деревнями дым!"
 
 #. [message]: speaker=Castellan
 #: scenarios/1_Smoke_of_the_Fatherland.cfg:248
@@ -478,17 +500,17 @@ msgstr ""
 #. [message]: speaker=enemy_side{SIDE}
 #: scenarios/2_Beginning_of_the_Crusade.cfg:267
 msgid "Defend the outpost!"
-msgstr ""
+msgstr "Защищайте заставу!"
 
 #. [message]: speaker=enemy_side{SIDE}
 #: scenarios/2_Beginning_of_the_Crusade.cfg:274
 msgid "We're under attack!"
-msgstr ""
+msgstr "На нас нападают!"
 
 #. [message]: speaker=enemy_side{SIDE}
 #: scenarios/2_Beginning_of_the_Crusade.cfg:281
 msgid "Look, there's an enemy army approaching! To arms!"
-msgstr ""
+msgstr "Гляньте, к нам приближается вражеское войско! К оружию!"
 
 #. [message]: speaker=Pan
 #: scenarios/2_Beginning_of_the_Crusade.cfg:303
@@ -644,8 +666,9 @@ msgstr "Темские Наёмники"
 #: scenarios/3_Siege.cfg:438
 msgid ""
 "Fill water with soil, costs <span color='#2c9fed'>40%</span> of this unit's "
-"moves)"
+"moves"
 msgstr ""
+"Закопать ров землей, стоит <span color='#2c9fed'>40%</span> ходов этого юнита"
 
 #. [message]: speaker=Pan
 #: scenarios/3_Siege.cfg:595
