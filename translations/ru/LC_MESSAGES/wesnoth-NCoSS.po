@@ -2,8 +2,8 @@ msgid ""
 msgstr ""
 "Project-Id-Version: \n"
 "Report-Msgid-Bugs-To: https://bugs.wesnoth.org/\n"
-"POT-Creation-Date: 2022-02-05 19:52+0400\n"
-"PO-Revision-Date: 2022-02-06 10:34+0300\n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: 2022-02-06 13:58+0300\n"
 "Last-Translator: \n"
 "Language-Team: \n"
 "Language: ru\n"
@@ -15,6 +15,10 @@ msgstr ""
 "%10<=4 && (n%100<12 || n%100>14) ? 1 : 2);\n"
 
 #: _main.cfg:15
+msgid "<span color='#080'>"
+msgstr ""
+
+#: _main.cfg:15
 msgid ""
 "Music pack “The Great Steppe Music” is installed. Custom music will be "
 "played."
@@ -22,8 +26,8 @@ msgstr ""
 "Музыкальный аддон \"Эра Великой Степи - музыка\" загружен.  Играть будет "
 "музыка из аддона."
 
-#: _main.cfg:15
-msgid "<span color='#080'>"
+#: _main.cfg:20
+msgid "<span color='#800'>"
 msgstr ""
 
 #: _main.cfg:20
@@ -33,10 +37,6 @@ msgid ""
 msgstr ""
 "Музыкальный аддон \"Эра Великой Степи - музыка\" не загружен.  Музыка из "
 "аддона будет заменена на треки с обычного веснота."
-
-#: _main.cfg:20
-msgid "<span color='#800'>"
-msgstr ""
 
 #. [campaign]: id=Northern_Crusade_of_Shrogg_Stoneface, type=hybrid
 #: _main.cfg:27
@@ -70,13 +70,13 @@ msgstr ""
 
 #. [campaign]: id=Northern_Crusade_of_Shrogg_Stoneface, type=hybrid
 #: _main.cfg:40
-msgid "Noble Son"
-msgstr "Знатный Сын"
+msgid "Easy"
+msgstr "Легкий"
 
 #. [campaign]: id=Northern_Crusade_of_Shrogg_Stoneface, type=hybrid
 #: _main.cfg:40
-msgid "Easy"
-msgstr "Легкий"
+msgid "Noble Son"
+msgstr "Знатный Сын"
 
 #. [campaign]: id=Northern_Crusade_of_Shrogg_Stoneface, type=hybrid
 #: _main.cfg:41
@@ -115,26 +115,18 @@ msgstr "Кодеры"
 
 #. [entry]
 #: _main.cfg:53
-msgid "ForestDragon"
+msgid ""
+"ForestDragon\n"
+"dwarftough"
 msgstr ""
 
 #. [about]
-#: _main.cfg:57
-msgid "Coder"
-msgstr "Кодер"
-
-#. [entry]
-#: _main.cfg:59
-msgid "dwarftough"
-msgstr ""
-
-#. [about]
-#: _main.cfg:63
+#: _main.cfg:58
 msgid "Portrait Artist"
-msgstr "Портретный Художник"
+msgstr "Автор Портретов"
 
 #. [entry]
-#: _main.cfg:65
+#: _main.cfg:60
 msgid "ThroneGame (Kordov)"
 msgstr ""
 
@@ -574,7 +566,7 @@ msgstr ""
 #. [message]: speaker=ogre_ally
 #: scenarios/2_Beginning_of_the_Crusade.cfg:323
 msgid "Come boys, let's show 'em how real ogres fight!"
-msgstr "Вперёд, покажите как дерутся настоящие огры!"
+msgstr "Вперёд, покажем как дерутся настоящие огры!"
 
 #. [objective]: condition=win
 #: scenarios/2_Beginning_of_the_Crusade.cfg:332
@@ -676,7 +668,7 @@ msgid ""
 msgstr ""
 "Ваши бойцы могут закапывать клетки с водой (превращая глубокую воду в "
 "мелководье, а мелководье — в брод) в меню по клику правой кнопкой мыши "
-"(стоит ходов)"
+"(стоит ходов)."
 
 #. [note]
 #: scenarios/3_Siege.cfg:235
@@ -729,7 +721,7 @@ msgid "Time to turn the enemy walls into rubble, hehe."
 msgstr "Пора сравнять вражеские стены с землёй, хехе."
 
 #. [message]: speaker=narrator
-#: scenarios/3_Siege.cfg:635
+#: scenarios/3_Siege.cfg:636
 msgid ""
 "To build siege weapons, use the rightclick menu on a tile next to your "
 "engineer."
@@ -738,22 +730,22 @@ msgstr ""
 "инженером."
 
 #. [message]: speaker=Pan
-#: scenarios/3_Siege.cfg:640
+#: scenarios/3_Siege.cfg:641
 msgid "Time to see which of us will kill the city's commander first."
 msgstr "Посмотрим, кто из нас первым убьёт их командующего."
 
 #. [message]: speaker=Brother
-#: scenarios/3_Siege.cfg:645
+#: scenarios/3_Siege.cfg:646
 msgid "A competition, eh? I like that idea. Let's go!"
 msgstr "М, соревнование? Мне это по душе. Вперёд!"
 
 #. [message]
-#: scenarios/3_Siege.cfg:704
+#: scenarios/3_Siege.cfg:705
 msgid "You are their kinsmen, why aren't you fighting us?"
 msgstr "Почему вы не сражаетесь с нами? Там ваши сородичи."
 
 #. [message]
-#: scenarios/3_Siege.cfg:708
+#: scenarios/3_Siege.cfg:709
 msgid ""
 "Kinsmen!? You couldn't find a worse insult, ogre! We don't want to have "
 "anything in common with these cowardly Krad weaklings, who forgot the true "
@@ -766,12 +758,12 @@ msgstr ""
 "золотых."
 
 #. [message]
-#: scenarios/3_Siege.cfg:719
+#: scenarios/3_Siege.cfg:720
 msgid "I can't afford your services right now."
 msgstr "Я пока не могу себе позволить ваши услуги."
 
 #. [message]
-#: scenarios/3_Siege.cfg:723
+#: scenarios/3_Siege.cfg:724
 msgid ""
 "Come back when you loot some gold then. We'll be staying at this camp in the "
 "meantime."
@@ -780,17 +772,17 @@ msgstr ""
 "этом лагере."
 
 #. [message]
-#: scenarios/3_Siege.cfg:730
+#: scenarios/3_Siege.cfg:731
 msgid "Hmmmm... should I hire them?"
 msgstr "Хмммм... буду ли я их нанимать?"
 
 #. [option]
-#: scenarios/3_Siege.cfg:733
+#: scenarios/3_Siege.cfg:734
 msgid "Yes (costs 95 gold)"
 msgstr "Да (стоит 95 золота)"
 
 #. [message]
-#: scenarios/3_Siege.cfg:759
+#: scenarios/3_Siege.cfg:760
 msgid ""
 "(to his men) Alright lads, time to show Krad the power of the true warriors, "
 "the warriors of Temsk!"
@@ -799,7 +791,7 @@ msgstr ""
 "Теми!"
 
 #. [message]: speaker=narrator
-#: scenarios/3_Siege.cfg:763
+#: scenarios/3_Siege.cfg:765
 msgid ""
 "The mercenary leader can recruit Pagans - berserk units who can also build "
 "idols via a rightclick menu. However, the mercenary leader cannot recruit "
@@ -812,18 +804,18 @@ msgstr ""
 "поражением."
 
 #. [option]
-#: scenarios/3_Siege.cfg:788
+#: scenarios/3_Siege.cfg:790
 msgid "No"
 msgstr "Нет"
 
 #. [message]
-#: scenarios/3_Siege.cfg:792
+#: scenarios/3_Siege.cfg:794
 msgid ""
 "Your loss. If you change your mind, we'll still be staying here for a while."
 msgstr "Как знаешь. Если передумаешь, мы пока останемся здесь."
 
 #. [message]: speaker=Pan
-#: scenarios/3_Siege.cfg:867
+#: scenarios/3_Siege.cfg:869
 msgid ""
 "Hmph, the retreating villagers are back with reinforcements. Another "
 "nuisance to deal with..."
@@ -832,7 +824,7 @@ msgstr ""
 "помеха, с которой надо разобраться..."
 
 #. [message]: speaker=Brother
-#: scenarios/3_Siege.cfg:901
+#: scenarios/3_Siege.cfg:903
 msgid ""
 "Look, there's boats with enemy reinforcements! We should try to stop them, "
 "or we'll have to fight a lot more enemies..."
@@ -841,27 +833,27 @@ msgstr ""
 "то нам придётся сражаться с ещё кучей врагов..."
 
 #. [message]: speaker=enemy_leader
-#: scenarios/3_Siege.cfg:953
+#: scenarios/3_Siege.cfg:955
 msgid "The invaders have entered the citadel! Time for our last stand!"
 msgstr "Враги прорвались в цитадель! Время нашего последнего боя!"
 
 #. [message]: speaker=unit
-#: scenarios/3_Siege.cfg:969
+#: scenarios/3_Siege.cfg:971
 msgid "And so the city falls..."
 msgstr "Город пал..."
 
 #. [message]: speaker=second_unit
-#: scenarios/3_Siege.cfg:984
+#: scenarios/3_Siege.cfg:986
 msgid "Take that!"
 msgstr "Получи!"
 
 #. [message]
-#: scenarios/3_Siege.cfg:995
+#: scenarios/3_Siege.cfg:997
 msgid "Yes! The glory of conquest is mine!"
-msgstr "Да! Слава завоевания — моя!"
+msgstr "Да! Слава завоевателя — моя!"
 
 #. [message]
-#: scenarios/3_Siege.cfg:1006
+#: scenarios/3_Siege.cfg:1008
 msgid "Very well."
 msgstr "Замечательно."
 
@@ -1190,11 +1182,6 @@ msgstr ""
 
 #. [abilities]
 #: units/Engineer.cfg:22
-msgid "build siege weapons"
-msgstr "строит осадные орудия"
-
-#. [abilities]
-#: units/Engineer.cfg:22
 msgid ""
 "This unit can build the following:\n"
 "\n"
@@ -1203,6 +1190,11 @@ msgid ""
 msgstr ""
 "Этот боец может создать катапульты (стоимость - 28 золотых) и тараны "
 "(стоимость - 22 золота)"
+
+#. [abilities]
+#: units/Engineer.cfg:22
+msgid "build siege weapons"
+msgstr "строит осадные орудия"
 
 #. [abilities]
 #: units/Engineer.cfg:26
@@ -1296,3 +1288,6 @@ msgstr "Шрогг Камнемордый"
 #: utils/characters.cfg:22
 msgid "Barkuk Rocktooth"
 msgstr "Баркук Скалозубый"
+
+#~ msgid "Coder"
+#~ msgstr "Кодер"
