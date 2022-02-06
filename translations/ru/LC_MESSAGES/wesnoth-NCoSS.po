@@ -3,14 +3,14 @@ msgstr ""
 "Project-Id-Version: \n"
 "Report-Msgid-Bugs-To: https://bugs.wesnoth.org/\n"
 "POT-Creation-Date: 2022-02-05 19:52+0400\n"
-"PO-Revision-Date: 2022-02-05 20:27+0400\n"
+"PO-Revision-Date: 2022-02-06 10:34+0300\n"
 "Last-Translator: \n"
 "Language-Team: \n"
 "Language: ru\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"X-Generator: Poedit 2.3\n"
+"X-Generator: Poedit 2.4.2\n"
 "Plural-Forms: nplurals=3; plural=(n%10==1 && n%100!=11 ? 0 : n%10>=2 && n"
 "%10<=4 && (n%100<12 || n%100>14) ? 1 : 2);\n"
 
@@ -41,12 +41,12 @@ msgstr ""
 #. [campaign]: id=Northern_Crusade_of_Shrogg_Stoneface, type=hybrid
 #: _main.cfg:27
 msgid "Northern Crusade of Shrogg Stoneface"
-msgstr "Северный Поход Шрогга Камнемордого"
+msgstr " Крестовый поход Шрогга Камнемордого"
 
 #. [campaign]: id=Northern_Crusade_of_Shrogg_Stoneface, type=hybrid
 #: _main.cfg:28
 msgid "NCoSS"
-msgstr "СПШК"
+msgstr "КПШК"
 
 #. [campaign]: id=Northern_Crusade_of_Shrogg_Stoneface, type=hybrid
 #: _main.cfg:32
@@ -67,7 +67,6 @@ msgstr ""
 "\n"
 "Гибридная кампания (можно играть самому или в мультиплеере), 4 сценария, для "
 "опытных игроков\n"
-"\v\n"
 
 #. [campaign]: id=Northern_Crusade_of_Shrogg_Stoneface, type=hybrid
 #: _main.cfg:40
@@ -201,8 +200,8 @@ msgid ""
 msgstr ""
 "Эльфы отправили гонцов к своим союзникам с просьбой ударить в тыл ограм. "
 "Крадский князь Яромир согласился помочь и отправил дружину грабить "
-"оставшиеся без защиты северные панства огров. Узнав об этом, два Пана - "
-"Шрогг Камнемордый и его брат Баркук Скалозуб, - поспешили вернуться в родные "
+"оставшиеся без защиты северные панства. Узнав об этом, два Пана - Шрогг "
+"Камнемордый и его брат Баркук Скалозуб, - поспешили вернуться в родные "
 "владения, чтобы дать отпор захватчикам..."
 
 #. [side]
@@ -291,7 +290,7 @@ msgid ""
 "Enemies amassed a great force to storm the castle. The serfs won't stand for "
 "long, we must come swift and strike invaders hard."
 msgstr ""
-"Враги собрали большие силы на штурм замка. Холопы долго не продержаться, мы "
+"Враги собрали большие силы на штурм замка. Холопы долго не продержатся, мы "
 "должны быстро прийти им на помощь и разбить врага."
 
 #. [message]: speaker=enemy1
