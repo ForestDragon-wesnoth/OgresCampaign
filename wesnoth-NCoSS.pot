@@ -19,11 +19,11 @@ msgid "Music pack “The Great Steppe Music” is installed. Custom music will b
 msgstr ""
 
 #: _main.cfg:20
-msgid "<span color='#800'>"
+msgid "Music pack “The Great Steppe Music” is not installed. Custom music will be replaced with default tracks."
 msgstr ""
 
 #: _main.cfg:20
-msgid "Music pack “The Great Steppe Music” is not installed. Custom music will be replaced with default tracks."
+msgid "<span color='#800'>"
 msgstr ""
 
 #. [campaign]: id=Northern_Crusade_of_Shrogg_Stoneface, type=hybrid
@@ -48,22 +48,22 @@ msgstr ""
 
 #. [campaign]: id=Northern_Crusade_of_Shrogg_Stoneface, type=hybrid
 #: _main.cfg:40
-msgid "Easy"
-msgstr ""
-
-#. [campaign]: id=Northern_Crusade_of_Shrogg_Stoneface, type=hybrid
-#: _main.cfg:40
 msgid "Noble Son"
 msgstr ""
 
 #. [campaign]: id=Northern_Crusade_of_Shrogg_Stoneface, type=hybrid
-#: _main.cfg:41
-msgid "Normal"
+#: _main.cfg:40
+msgid "Challenging"
 msgstr ""
 
 #. [campaign]: id=Northern_Crusade_of_Shrogg_Stoneface, type=hybrid
 #: _main.cfg:41
 msgid "Heir"
+msgstr ""
+
+#. [campaign]: id=Northern_Crusade_of_Shrogg_Stoneface, type=hybrid
+#: _main.cfg:41
+msgid "Difficult"
 msgstr ""
 
 #. [campaign]: id=Northern_Crusade_of_Shrogg_Stoneface, type=hybrid
@@ -73,7 +73,7 @@ msgstr ""
 
 #. [campaign]: id=Northern_Crusade_of_Shrogg_Stoneface, type=hybrid
 #: _main.cfg:43
-msgid "Hard"
+msgid "Nightmare"
 msgstr ""
 
 #. [about]
@@ -141,7 +141,7 @@ msgstr ""
 #. [side]
 #. [side]: id=Castellan, type=Kingdom_Troll_Veteran
 #. [side]: id=ogre_ally, type=Ogre_Foreman
-#: scenarios/1_Smoke_of_the_Fatherland.cfg:57 scenarios/1_Smoke_of_the_Fatherland.cfg:71 scenarios/1_Smoke_of_the_Fatherland.cfg:135 scenarios/2_Beginning_of_the_Crusade.cfg:75 scenarios/2_Beginning_of_the_Crusade.cfg:91 scenarios/2_Beginning_of_the_Crusade.cfg:119 scenarios/3_Siege.cfg:59 scenarios/3_Siege.cfg:77 scenarios/4_Time_to_Preach.cfg:137 scenarios/4_Time_to_Preach.cfg:154 scenarios/Epilogue.cfg:24 scenarios/Epilogue.cfg:42 scenarios/Epilogue.cfg:124 scenarios/Epilogue.cfg:142
+#: scenarios/1_Smoke_of_the_Fatherland.cfg:57 scenarios/1_Smoke_of_the_Fatherland.cfg:71 scenarios/1_Smoke_of_the_Fatherland.cfg:135 scenarios/2_Beginning_of_the_Crusade.cfg:75 scenarios/2_Beginning_of_the_Crusade.cfg:91 scenarios/2_Beginning_of_the_Crusade.cfg:119 scenarios/3_Siege.cfg:59 scenarios/3_Siege.cfg:77 scenarios/4_Time_to_Preach.cfg:131 scenarios/4_Time_to_Preach.cfg:148 scenarios/Epilogue.cfg:24 scenarios/Epilogue.cfg:42 scenarios/Epilogue.cfg:124 scenarios/Epilogue.cfg:142
 msgid "Ogres"
 msgstr ""
 
@@ -159,7 +159,7 @@ msgstr ""
 #. [side]: id=enemy_side4, type=Slav_Jousting_Champion
 #. [side]: id=enemy_side5, type=Slav_Jousting_Champion
 #. [side]: id=enemy_side6, type=Slav_Jousting_Champion
-#: scenarios/1_Smoke_of_the_Fatherland.cfg:151 scenarios/1_Smoke_of_the_Fatherland.cfg:189 scenarios/2_Beginning_of_the_Crusade.cfg:137 scenarios/2_Beginning_of_the_Crusade.cfg:157 scenarios/2_Beginning_of_the_Crusade.cfg:177 scenarios/2_Beginning_of_the_Crusade.cfg:197 scenarios/3_Siege.cfg:98 scenarios/3_Siege.cfg:137 scenarios/4_Time_to_Preach.cfg:174 scenarios/4_Time_to_Preach.cfg:201
+#: scenarios/1_Smoke_of_the_Fatherland.cfg:151 scenarios/1_Smoke_of_the_Fatherland.cfg:189 scenarios/2_Beginning_of_the_Crusade.cfg:137 scenarios/2_Beginning_of_the_Crusade.cfg:157 scenarios/2_Beginning_of_the_Crusade.cfg:177 scenarios/2_Beginning_of_the_Crusade.cfg:197 scenarios/3_Siege.cfg:98 scenarios/3_Siege.cfg:137 scenarios/4_Time_to_Preach.cfg:168 scenarios/4_Time_to_Preach.cfg:195
 msgid "Krad"
 msgstr ""
 
@@ -169,7 +169,7 @@ msgid "Militia"
 msgstr ""
 
 #. [message]: speaker=unit
-#: scenarios/1_Smoke_of_the_Fatherland.cfg:208 scenarios/2_Beginning_of_the_Crusade.cfg:218 scenarios/3_Siege.cfg:180 scenarios/4_Time_to_Preach.cfg:1081
+#: scenarios/1_Smoke_of_the_Fatherland.cfg:208 scenarios/2_Beginning_of_the_Crusade.cfg:218 scenarios/3_Siege.cfg:180 scenarios/4_Time_to_Preach.cfg:1100
 msgid "Uuugh..."
 msgstr ""
 
@@ -294,7 +294,7 @@ msgid "Defeat enemy leaders"
 msgstr ""
 
 #. [objective]: condition=lose
-#: scenarios/1_Smoke_of_the_Fatherland.cfg:348 scenarios/2_Beginning_of_the_Crusade.cfg:336 scenarios/3_Siege.cfg:224 scenarios/4_Time_to_Preach.cfg:571
+#: scenarios/1_Smoke_of_the_Fatherland.cfg:348 scenarios/2_Beginning_of_the_Crusade.cfg:336 scenarios/3_Siege.cfg:224 scenarios/4_Time_to_Preach.cfg:590
 msgid "Death of any of your leaders"
 msgstr ""
 
@@ -429,12 +429,12 @@ msgid "Siege of Shumsk"
 msgstr ""
 
 #. [side]
-#: scenarios/3_Siege.cfg:160 scenarios/4_Time_to_Preach.cfg:232
+#: scenarios/3_Siege.cfg:160 scenarios/4_Time_to_Preach.cfg:226
 msgid "Neutral"
 msgstr ""
 
 #. [objective]: condition=win
-#: scenarios/3_Siege.cfg:220 scenarios/4_Time_to_Preach.cfg:561
+#: scenarios/3_Siege.cfg:220 scenarios/4_Time_to_Preach.cfg:580
 msgid "Kill the enemy leader"
 msgstr ""
 
@@ -594,117 +594,117 @@ msgid "Time to Preach"
 msgstr ""
 
 #. [part]
-#: scenarios/4_Time_to_Preach.cfg:121
+#: scenarios/4_Time_to_Preach.cfg:115
 msgid "Shumsk was captured. But to capture isn't the end of the day - one needs to establish the rule in lands one conquered."
 msgstr ""
 
 #. [part]
-#: scenarios/4_Time_to_Preach.cfg:124
+#: scenarios/4_Time_to_Preach.cfg:118
 msgid "Meanwhile ogres' clerics were looking forward to preaching to the population of the newly obtained lands. Brothers decided that it would be very benefical to support their zeal: converting the population into ogres' faith would entrench their rule, and at the same time brothers would receive the respert of the clergy of the whole Ogres Kingdom."
 msgstr ""
 
 #. [objective]: condition=win
-#: scenarios/4_Time_to_Preach.cfg:565
+#: scenarios/4_Time_to_Preach.cfg:584
 msgid "Convert $ncoss_s4_villagers_required| villagers to max faith ($ncoss_s4_serfs|/$ncoss_s4_villagers_required|)"
 msgstr ""
 
 #. [objective]: condition=lose
-#: scenarios/4_Time_to_Preach.cfg:575
+#: scenarios/4_Time_to_Preach.cfg:594
 msgid "There isn't enough villagers (including those still in villages) to convert (currently $potential_villagers|/$ncoss_s4_villagers_required|)"
 msgstr ""
 
 #. [note]
-#: scenarios/4_Time_to_Preach.cfg:588
+#: scenarios/4_Time_to_Preach.cfg:607
 msgid "You need to complete both objectives to win"
 msgstr ""
 
 #. [note]
-#: scenarios/4_Time_to_Preach.cfg:591
+#: scenarios/4_Time_to_Preach.cfg:610
 msgid "To convert villagers, have a cleric (or his advancements) stand next to the villagers. Once a villager gains max faith, he will join your side, and become a serf."
 msgstr ""
 
 #. [note]
-#: scenarios/4_Time_to_Preach.cfg:594
+#: scenarios/4_Time_to_Preach.cfg:613
 msgid "You can capture villages to spawn a villager (works once per village). Villages that already spawned a peasant will be marked with an 'X' label."
 msgstr ""
 
 #. [note]
-#: scenarios/4_Time_to_Preach.cfg:597
+#: scenarios/4_Time_to_Preach.cfg:616
 msgid "If enemies move next to a faithless villager, he will join the enemy side and turn into a lvl1 unit"
 msgstr ""
 
 #. [note]
-#: scenarios/4_Time_to_Preach.cfg:600
+#: scenarios/4_Time_to_Preach.cfg:619
 msgid "White enemies guard the temple, but will arrange and attack in waves every 4 turns"
 msgstr ""
 
 #. [message]: type=Kingdom_Cleric
-#: scenarios/4_Time_to_Preach.cfg:612
+#: scenarios/4_Time_to_Preach.cfg:631
 msgid "Listen! Listen to the Word of Light..."
 msgstr ""
 
 #. [message]: speaker=narrator
-#: scenarios/4_Time_to_Preach.cfg:617
+#: scenarios/4_Time_to_Preach.cfg:636
 msgid "Villagers, overcome by their curiosity, started listening..."
 msgstr ""
 
 #. [message]: speaker=Pan
-#: scenarios/4_Time_to_Preach.cfg:621
+#: scenarios/4_Time_to_Preach.cfg:640
 msgid "Well, well, well. It looks even more promising than I thought, they started to listen."
 msgstr ""
 
 #. [message]: speaker=Brother
-#: scenarios/4_Time_to_Preach.cfg:625
+#: scenarios/4_Time_to_Preach.cfg:644
 msgid "This will require some time."
 msgstr ""
 
 #. [message]: speaker=Pan
-#: scenarios/4_Time_to_Preach.cfg:629
+#: scenarios/4_Time_to_Preach.cfg:648
 msgid "Yes. And there is a danger: they have a temple of their old faith nearby. We can't let it be, its presense will make any sermon pointless."
 msgstr ""
 
 #. [message]: speaker=Brother
-#: scenarios/4_Time_to_Preach.cfg:633
+#: scenarios/4_Time_to_Preach.cfg:652
 msgid "Can we just storm it and demolish afterwards?"
 msgstr ""
 
 #. [message]: speaker=Pan
-#: scenarios/4_Time_to_Preach.cfg:637
+#: scenarios/4_Time_to_Preach.cfg:656
 msgid "No, it's guarded well... But scouts report they gather their forces to incite a revolt here and take this land back. We should stay here, protect the villages while our clerics are preaching, and defeat the Krad soldiers when they come for us. If we can fend them off several times, they will be weakened enough and we'll storm the temple."
 msgstr ""
 
 #. [message]: speaker=Brother
-#: scenarios/4_Time_to_Preach.cfg:641
+#: scenarios/4_Time_to_Preach.cfg:660
 msgid "Time to preach!"
 msgstr ""
 
 #. [message]
-#: scenarios/4_Time_to_Preach.cfg:711
+#: scenarios/4_Time_to_Preach.cfg:730
 msgid "Damn it, too many villagers are dead! Ruling barren ruins is not worth it..."
 msgstr ""
 
 #. [message]
-#: scenarios/4_Time_to_Preach.cfg:875
+#: scenarios/4_Time_to_Preach.cfg:894
 msgid "The first wave is coming!"
 msgstr ""
 
 #. [message]
-#: scenarios/4_Time_to_Preach.cfg:894
+#: scenarios/4_Time_to_Preach.cfg:913
 msgid "More enemy troops on the way!"
 msgstr ""
 
 #. [message]
-#: scenarios/4_Time_to_Preach.cfg:913
+#: scenarios/4_Time_to_Preach.cfg:932
 msgid "The enemy is sending their best troops. Once we beat them, we can capture the temple with ease!"
 msgstr ""
 
 #. [message]
-#: scenarios/4_Time_to_Preach.cfg:952
+#: scenarios/4_Time_to_Preach.cfg:971
 msgid "Now we should have more time to convert the villagers without being bothered."
 msgstr ""
 
 #. [message]
-#: scenarios/4_Time_to_Preach.cfg:961
+#: scenarios/4_Time_to_Preach.cfg:980
 msgid "Indeed."
 msgstr ""
 
@@ -809,16 +809,16 @@ msgstr ""
 
 #. [abilities]
 #: units/Engineer.cfg:22
+msgid "build siege weapons"
+msgstr ""
+
+#. [abilities]
+#: units/Engineer.cfg:22
 msgid ""
 "This unit can build the following:\n"
 "\n"
 "Catapult - 28 gold\n"
 "Battering Ram - 22 gold"
-msgstr ""
-
-#. [abilities]
-#: units/Engineer.cfg:22
-msgid "build siege weapons"
 msgstr ""
 
 #. [abilities]

@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: \n"
 "Report-Msgid-Bugs-To: https://bugs.wesnoth.org/\n"
 "POT-Creation-Date: \n"
-"PO-Revision-Date: 2022-02-06 13:58+0300\n"
+"PO-Revision-Date: 2022-02-09 09:19+0300\n"
 "Last-Translator: \n"
 "Language-Team: \n"
 "Language: ru\n"
@@ -27,16 +27,16 @@ msgstr ""
 "музыка из аддона."
 
 #: _main.cfg:20
-msgid "<span color='#800'>"
-msgstr ""
-
-#: _main.cfg:20
 msgid ""
 "Music pack “The Great Steppe Music” is not installed. Custom music will be "
 "replaced with default tracks."
 msgstr ""
 "Музыкальный аддон \"Эра Великой Степи - музыка\" не загружен.  Музыка из "
 "аддона будет заменена на треки с обычного веснота."
+
+#: _main.cfg:20
+msgid "<span color='#800'>"
+msgstr ""
 
 #. [campaign]: id=Northern_Crusade_of_Shrogg_Stoneface, type=hybrid
 #: _main.cfg:27
@@ -70,23 +70,23 @@ msgstr ""
 
 #. [campaign]: id=Northern_Crusade_of_Shrogg_Stoneface, type=hybrid
 #: _main.cfg:40
-msgid "Easy"
-msgstr "Легкий"
-
-#. [campaign]: id=Northern_Crusade_of_Shrogg_Stoneface, type=hybrid
-#: _main.cfg:40
 msgid "Noble Son"
 msgstr "Знатный Сын"
 
 #. [campaign]: id=Northern_Crusade_of_Shrogg_Stoneface, type=hybrid
-#: _main.cfg:41
-msgid "Normal"
-msgstr "Нормальный"
+#: _main.cfg:40
+msgid "Challenging"
+msgstr "Сложный"
 
 #. [campaign]: id=Northern_Crusade_of_Shrogg_Stoneface, type=hybrid
 #: _main.cfg:41
 msgid "Heir"
 msgstr "Наследник"
+
+#. [campaign]: id=Northern_Crusade_of_Shrogg_Stoneface, type=hybrid
+#: _main.cfg:41
+msgid "Difficult"
+msgstr "Очень сложный"
 
 #. [campaign]: id=Northern_Crusade_of_Shrogg_Stoneface, type=hybrid
 #: _main.cfg:43
@@ -95,8 +95,8 @@ msgstr "Пан"
 
 #. [campaign]: id=Northern_Crusade_of_Shrogg_Stoneface, type=hybrid
 #: _main.cfg:43
-msgid "Hard"
-msgstr "Сложный"
+msgid "Nightmare"
+msgstr "Чрезвычайно сложный"
 
 #. [about]
 #: _main.cfg:45
@@ -205,8 +205,8 @@ msgstr ""
 #: scenarios/2_Beginning_of_the_Crusade.cfg:75
 #: scenarios/2_Beginning_of_the_Crusade.cfg:91
 #: scenarios/2_Beginning_of_the_Crusade.cfg:119 scenarios/3_Siege.cfg:59
-#: scenarios/3_Siege.cfg:77 scenarios/4_Time_to_Preach.cfg:137
-#: scenarios/4_Time_to_Preach.cfg:154 scenarios/Epilogue.cfg:24
+#: scenarios/3_Siege.cfg:77 scenarios/4_Time_to_Preach.cfg:131
+#: scenarios/4_Time_to_Preach.cfg:148 scenarios/Epilogue.cfg:24
 #: scenarios/Epilogue.cfg:42 scenarios/Epilogue.cfg:124
 #: scenarios/Epilogue.cfg:142
 msgid "Ogres"
@@ -232,8 +232,8 @@ msgstr "Кастелян"
 #: scenarios/2_Beginning_of_the_Crusade.cfg:157
 #: scenarios/2_Beginning_of_the_Crusade.cfg:177
 #: scenarios/2_Beginning_of_the_Crusade.cfg:197 scenarios/3_Siege.cfg:98
-#: scenarios/3_Siege.cfg:137 scenarios/4_Time_to_Preach.cfg:174
-#: scenarios/4_Time_to_Preach.cfg:201
+#: scenarios/3_Siege.cfg:137 scenarios/4_Time_to_Preach.cfg:168
+#: scenarios/4_Time_to_Preach.cfg:195
 msgid "Krad"
 msgstr "Крада"
 
@@ -245,7 +245,7 @@ msgstr "Ополчение"
 #. [message]: speaker=unit
 #: scenarios/1_Smoke_of_the_Fatherland.cfg:208
 #: scenarios/2_Beginning_of_the_Crusade.cfg:218 scenarios/3_Siege.cfg:180
-#: scenarios/4_Time_to_Preach.cfg:1081
+#: scenarios/4_Time_to_Preach.cfg:1100
 msgid "Uuugh..."
 msgstr "Ууууух..."
 
@@ -443,7 +443,7 @@ msgstr "Убейте вражеских лидеров"
 #. [objective]: condition=lose
 #: scenarios/1_Smoke_of_the_Fatherland.cfg:348
 #: scenarios/2_Beginning_of_the_Crusade.cfg:336 scenarios/3_Siege.cfg:224
-#: scenarios/4_Time_to_Preach.cfg:571
+#: scenarios/4_Time_to_Preach.cfg:590
 msgid "Death of any of your leaders"
 msgstr "Смерть любого из ваших лидеров"
 
@@ -641,12 +641,12 @@ msgid "Siege of Shumsk"
 msgstr "Осада Шумска"
 
 #. [side]
-#: scenarios/3_Siege.cfg:160 scenarios/4_Time_to_Preach.cfg:232
+#: scenarios/3_Siege.cfg:160 scenarios/4_Time_to_Preach.cfg:226
 msgid "Neutral"
 msgstr "Нейтральные"
 
 #. [objective]: condition=win
-#: scenarios/3_Siege.cfg:220 scenarios/4_Time_to_Preach.cfg:561
+#: scenarios/3_Siege.cfg:220 scenarios/4_Time_to_Preach.cfg:580
 msgid "Kill the enemy leader"
 msgstr "Убить вражеского лидера"
 
@@ -863,7 +863,7 @@ msgid "Time to Preach"
 msgstr "Пора проповедовать"
 
 #. [part]
-#: scenarios/4_Time_to_Preach.cfg:121
+#: scenarios/4_Time_to_Preach.cfg:115
 msgid ""
 "Shumsk was captured. But to capture isn't the end of the day - one needs to "
 "establish the rule in lands one conquered."
@@ -872,7 +872,7 @@ msgstr ""
 "своё правление над завоёванными землями."
 
 #. [part]
-#: scenarios/4_Time_to_Preach.cfg:124
+#: scenarios/4_Time_to_Preach.cfg:118
 msgid ""
 "Meanwhile ogres' clerics were looking forward to preaching to the population "
 "of the newly obtained lands. Brothers decided that it would be very "
@@ -886,7 +886,7 @@ msgstr ""
 "самих братьев станет уважать священство со всего Королевства."
 
 #. [objective]: condition=win
-#: scenarios/4_Time_to_Preach.cfg:565
+#: scenarios/4_Time_to_Preach.cfg:584
 msgid ""
 "Convert $ncoss_s4_villagers_required| villagers to max faith "
 "($ncoss_s4_serfs|/$ncoss_s4_villagers_required|)"
@@ -895,7 +895,7 @@ msgstr ""
 "($ncoss_s4_serfs|/$ncoss_s4_villagers_required|)"
 
 #. [objective]: condition=lose
-#: scenarios/4_Time_to_Preach.cfg:575
+#: scenarios/4_Time_to_Preach.cfg:594
 msgid ""
 "There isn't enough villagers (including those still in villages) to convert "
 "(currently $potential_villagers|/$ncoss_s4_villagers_required|)"
@@ -904,12 +904,12 @@ msgstr ""
 "$potential_villagers|/$ncoss_s4_villagers_required|)"
 
 #. [note]
-#: scenarios/4_Time_to_Preach.cfg:588
+#: scenarios/4_Time_to_Preach.cfg:607
 msgid "You need to complete both objectives to win"
 msgstr "Вы должны выполнить обе задачи, чтобы победить"
 
 #. [note]
-#: scenarios/4_Time_to_Preach.cfg:591
+#: scenarios/4_Time_to_Preach.cfg:610
 msgid ""
 "To convert villagers, have a cleric (or his advancements) stand next to the "
 "villagers. Once a villager gains max faith, he will join your side, and "
@@ -920,7 +920,7 @@ msgstr ""
 "сторону."
 
 #. [note]
-#: scenarios/4_Time_to_Preach.cfg:594
+#: scenarios/4_Time_to_Preach.cfg:613
 msgid ""
 "You can capture villages to spawn a villager (works once per village). "
 "Villages that already spawned a peasant will be marked with an 'X' label."
@@ -930,7 +930,7 @@ msgstr ""
 "иметь метку \"X\"."
 
 #. [note]
-#: scenarios/4_Time_to_Preach.cfg:597
+#: scenarios/4_Time_to_Preach.cfg:616
 msgid ""
 "If enemies move next to a faithless villager, he will join the enemy side "
 "and turn into a lvl1 unit"
@@ -939,7 +939,7 @@ msgstr ""
 "врагам, став бойцом 1 уровня"
 
 #. [note]
-#: scenarios/4_Time_to_Preach.cfg:600
+#: scenarios/4_Time_to_Preach.cfg:619
 msgid ""
 "White enemies guard the temple, but will arrange and attack in waves every 4 "
 "turns"
@@ -948,17 +948,17 @@ msgstr ""
 "и атаковать"
 
 #. [message]: type=Kingdom_Cleric
-#: scenarios/4_Time_to_Preach.cfg:612
+#: scenarios/4_Time_to_Preach.cfg:631
 msgid "Listen! Listen to the Word of Light..."
 msgstr "Внемлите! Внемлите Слову Света..."
 
 #. [message]: speaker=narrator
-#: scenarios/4_Time_to_Preach.cfg:617
+#: scenarios/4_Time_to_Preach.cfg:636
 msgid "Villagers, overcome by their curiosity, started listening..."
 msgstr "Обуреваемые любопытством, крестьяне начали слушать..."
 
 #. [message]: speaker=Pan
-#: scenarios/4_Time_to_Preach.cfg:621
+#: scenarios/4_Time_to_Preach.cfg:640
 msgid ""
 "Well, well, well. It looks even more promising than I thought, they started "
 "to listen."
@@ -966,12 +966,12 @@ msgstr ""
 "Однако, однако, однако. Дело пошло лучше, чем я думал, они стали слушать."
 
 #. [message]: speaker=Brother
-#: scenarios/4_Time_to_Preach.cfg:625
+#: scenarios/4_Time_to_Preach.cfg:644
 msgid "This will require some time."
 msgstr "Это потребует времени."
 
 #. [message]: speaker=Pan
-#: scenarios/4_Time_to_Preach.cfg:629
+#: scenarios/4_Time_to_Preach.cfg:648
 msgid ""
 "Yes. And there is a danger: they have a temple of their old faith nearby. We "
 "can't let it be, its presense will make any sermon pointless."
@@ -980,12 +980,12 @@ msgstr ""
 "так оставить, его присутствие сделает любые проповеди бесполезными."
 
 #. [message]: speaker=Brother
-#: scenarios/4_Time_to_Preach.cfg:633
+#: scenarios/4_Time_to_Preach.cfg:652
 msgid "Can we just storm it and demolish afterwards?"
 msgstr "Может нам его просто взять и разрушить потом?"
 
 #. [message]: speaker=Pan
-#: scenarios/4_Time_to_Preach.cfg:637
+#: scenarios/4_Time_to_Preach.cfg:656
 msgid ""
 "No, it's guarded well... But scouts report they gather their forces to "
 "incite a revolt here and take this land back. We should stay here, protect "
@@ -1000,28 +1000,28 @@ msgstr ""
 "нападений, они потеряют много сил, и вот тогда мы сможем захватить храм."
 
 #. [message]: speaker=Brother
-#: scenarios/4_Time_to_Preach.cfg:641
+#: scenarios/4_Time_to_Preach.cfg:660
 msgid "Time to preach!"
 msgstr "Пора проповедовать!"
 
 #. [message]
-#: scenarios/4_Time_to_Preach.cfg:711
+#: scenarios/4_Time_to_Preach.cfg:730
 msgid ""
 "Damn it, too many villagers are dead! Ruling barren ruins is not worth it..."
 msgstr "Чёрт, слишком много жителей погибло. Что толку править пустошами..."
 
 #. [message]
-#: scenarios/4_Time_to_Preach.cfg:875
+#: scenarios/4_Time_to_Preach.cfg:894
 msgid "The first wave is coming!"
 msgstr "Первая волна идёт!"
 
 #. [message]
-#: scenarios/4_Time_to_Preach.cfg:894
+#: scenarios/4_Time_to_Preach.cfg:913
 msgid "More enemy troops on the way!"
 msgstr "Ещё враги!"
 
 #. [message]
-#: scenarios/4_Time_to_Preach.cfg:913
+#: scenarios/4_Time_to_Preach.cfg:932
 msgid ""
 "The enemy is sending their best troops. Once we beat them, we can capture "
 "the temple with ease!"
@@ -1030,13 +1030,13 @@ msgstr ""
 "храм!"
 
 #. [message]
-#: scenarios/4_Time_to_Preach.cfg:952
+#: scenarios/4_Time_to_Preach.cfg:971
 msgid ""
 "Now we should have more time to convert the villagers without being bothered."
 msgstr "Теперь мы можем обратить оставшихся жителей без всяких проблем."
 
 #. [message]
-#: scenarios/4_Time_to_Preach.cfg:961
+#: scenarios/4_Time_to_Preach.cfg:980
 msgid "Indeed."
 msgstr "И то верно."
 
@@ -1182,6 +1182,11 @@ msgstr ""
 
 #. [abilities]
 #: units/Engineer.cfg:22
+msgid "build siege weapons"
+msgstr "строит осадные орудия"
+
+#. [abilities]
+#: units/Engineer.cfg:22
 msgid ""
 "This unit can build the following:\n"
 "\n"
@@ -1190,11 +1195,6 @@ msgid ""
 msgstr ""
 "Этот боец может создать катапульты (стоимость - 28 золотых) и тараны "
 "(стоимость - 22 золота)"
-
-#. [abilities]
-#: units/Engineer.cfg:22
-msgid "build siege weapons"
-msgstr "строит осадные орудия"
 
 #. [abilities]
 #: units/Engineer.cfg:26
@@ -1288,6 +1288,15 @@ msgstr "Шрогг Камнемордый"
 #: utils/characters.cfg:22
 msgid "Barkuk Rocktooth"
 msgstr "Баркук Скалозубый"
+
+#~ msgid "Easy"
+#~ msgstr "Легкий"
+
+#~ msgid "Normal"
+#~ msgstr "Нормальный"
+
+#~ msgid "Hard"
+#~ msgstr "Сложный"
 
 #~ msgid "Coder"
 #~ msgstr "Кодер"
