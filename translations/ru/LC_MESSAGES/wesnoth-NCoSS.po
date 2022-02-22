@@ -2,15 +2,15 @@ msgid ""
 msgstr ""
 "Project-Id-Version: \n"
 "Report-Msgid-Bugs-To: https://bugs.wesnoth.org/\n"
-"POT-Creation-Date: \n"
-"PO-Revision-Date: 2022-02-09 09:19+0300\n"
+"POT-Creation-Date: 2022-02-23 02:36+0400\n"
+"PO-Revision-Date: 2022-02-23 02:38+0400\n"
 "Last-Translator: \n"
 "Language-Team: \n"
 "Language: ru\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"X-Generator: Poedit 2.4.2\n"
+"X-Generator: Poedit 2.3\n"
 "Plural-Forms: nplurals=3; plural=(n%10==1 && n%100!=11 ? 0 : n%10>=2 && n"
 "%10<=4 && (n%100<12 || n%100>14) ? 1 : 2);\n"
 
@@ -41,7 +41,7 @@ msgstr ""
 #. [campaign]: id=Northern_Crusade_of_Shrogg_Stoneface, type=hybrid
 #: _main.cfg:27
 msgid "Northern Crusade of Shrogg Stoneface"
-msgstr " Крестовый поход Шрогга Камнемордого"
+msgstr "Крестовый поход Шрогга Камнемордого"
 
 #. [campaign]: id=Northern_Crusade_of_Shrogg_Stoneface, type=hybrid
 #: _main.cfg:28
@@ -149,20 +149,20 @@ msgstr ""
 #. [part]
 #: scenarios/1_Smoke_of_the_Fatherland.cfg:36
 msgid ""
-"He gathered information and intelligence about neighbours of his land. Elves "
-"of Lintanir drew his attention most of all. Their army didn't achieve great "
-"victories over the past century, so they looked like an easy prey for his "
-"growing power. 'Their forests are surely full of game, there will be plenty "
-"of land to grant to my loyal nobles. Elves with their longevity and skills "
-"will be perfect subjects. And the clergy will be pleased to bring their "
-"teaching to another people'."
+"He gathered information and intelligence about neighbours of his land. The "
+"elves of Lintanir drew his attention most of all. Their army didn't achieve "
+"great victories over the past century, so they looked like an easy prey for "
+"his growing power. 'Their forests are surely full of game, there will be "
+"plenty of land to grant to my loyal nobles. Elves with their longevity and "
+"skills will be perfect subjects. And the clergy will be pleased to bring "
+"their teaching to another people'."
 msgstr ""
 "Он собирал вести о соседних державах. Внимание короля привлекли эльфы "
 "Линтанира. Их воины не заявили о себе громкими победами в войнах 9 века, а "
 "потому эльфы выглядели лёгкой добычей для его растущего могущества. \"Их "
 "полные дичи леса станут достойными наделами для моих панов и рыцарей. "
-"Долголетие эльфов сделает из них отличных подданых, а духовенство будет радо "
-"нести наше учение другим народам."
+"Долголетие эльфов сделает из них отличных подданных, а духовенство будет "
+"радо нести наше учение другим народам\"."
 
 #. [part]
 #: scenarios/1_Smoke_of_the_Fatherland.cfg:39
@@ -172,19 +172,19 @@ msgstr "Так рассудил Гргр I и начал крестовый по
 #. [part]
 #: scenarios/1_Smoke_of_the_Fatherland.cfg:42
 msgid ""
-"It started perfectly. Completely unprepared, elves lost their first battles "
-"against his huge army. On newly acquired langs Ogres cut redudant woods and "
-"started construction of castles and fortresses. But then bad tidings came."
+"It started perfectly. Completely unprepared, the elves lost their first "
+"battles against his huge army. On newly acquired lands Ogres cut redudant "
+"trees and started the construction of castles and fortresses. But then bad "
+"tidings came."
 msgstr ""
 "Всё начиналось идеально. Совершенно неподготовленные к такому вторжению "
-"эльфы  проиграли первые сражения с его огромной армией. На завоёванных "
-"землях огры рубили леса, строили замки и крепости. Но затем пришли плохие "
-"вести."
+"эльфы проиграли первые сражения с его огромной армией. На завоёванных землях "
+"огры рубили леса, строили замки и крепости. Но затем пришли плохие вести."
 
 #. [part]
 #: scenarios/1_Smoke_of_the_Fatherland.cfg:45
 msgid ""
-"Elves sent a message to their allies to distract the enemy. Krad's knyaz "
+"The elves sent a message to their allies to distract the enemy. Krad's knyaz "
 "Yaromir agreed to help and sent his best warriors to pillage barely "
 "protected Northern domains of Ogre pans. Hearing about that, two pans - "
 "Shrogg Stoneface and his brother Barkuk Rocktooth, decided to return to "
@@ -193,7 +193,7 @@ msgstr ""
 "Эльфы отправили гонцов к своим союзникам с просьбой ударить в тыл ограм. "
 "Крадский князь Яромир согласился помочь и отправил дружину грабить "
 "оставшиеся без защиты северные панства. Узнав об этом, два Пана - Шрогг "
-"Камнемордый и его брат Баркук Скалозуб, - поспешили вернуться в родные "
+"Камнемордый и его брат Баркук Скалозубый, - поспешили вернуться в родные "
 "владения, чтобы дать отпор захватчикам..."
 
 #. [side]
@@ -226,8 +226,8 @@ msgstr "Кастелян"
 #. [side]: id=enemy_side4, type=Slav_Jousting_Champion
 #. [side]: id=enemy_side5, type=Slav_Jousting_Champion
 #. [side]: id=enemy_side6, type=Slav_Jousting_Champion
-#: scenarios/1_Smoke_of_the_Fatherland.cfg:151
-#: scenarios/1_Smoke_of_the_Fatherland.cfg:189
+#: scenarios/1_Smoke_of_the_Fatherland.cfg:155
+#: scenarios/1_Smoke_of_the_Fatherland.cfg:193
 #: scenarios/2_Beginning_of_the_Crusade.cfg:137
 #: scenarios/2_Beginning_of_the_Crusade.cfg:157
 #: scenarios/2_Beginning_of_the_Crusade.cfg:177
@@ -238,35 +238,35 @@ msgid "Krad"
 msgstr "Крада"
 
 #. [side]: id=enemy2, type=Slav_Grand_Guard
-#: scenarios/1_Smoke_of_the_Fatherland.cfg:170
+#: scenarios/1_Smoke_of_the_Fatherland.cfg:174
 msgid "Militia"
 msgstr "Ополчение"
 
 #. [message]: speaker=unit
-#: scenarios/1_Smoke_of_the_Fatherland.cfg:208
+#: scenarios/1_Smoke_of_the_Fatherland.cfg:212
 #: scenarios/2_Beginning_of_the_Crusade.cfg:218 scenarios/3_Siege.cfg:180
 #: scenarios/4_Time_to_Preach.cfg:1100
 msgid "Uuugh..."
 msgstr "Ууууух..."
 
 #. [message]: speaker=unit
-#: scenarios/1_Smoke_of_the_Fatherland.cfg:222
+#: scenarios/1_Smoke_of_the_Fatherland.cfg:226
 msgid "Arrgh... We lost!"
 msgstr "Арргх... Мы побеждены!"
 
 #. [message]: speaker=unit
-#: scenarios/1_Smoke_of_the_Fatherland.cfg:236
+#: scenarios/1_Smoke_of_the_Fatherland.cfg:240
 msgid "Seems I underestimated the enemy..."
 msgstr "Видно я недооценил врага..."
 
 #. [message]: speaker=Pan
-#: scenarios/1_Smoke_of_the_Fatherland.cfg:244
+#: scenarios/1_Smoke_of_the_Fatherland.cfg:248
 msgid ""
 "Arr, that was a long way! Look, Barkuk, the smoke is above our villages!"
 msgstr "Арр, это был долгий путь! Глянь, Баркук, над нашими деревнями дым!"
 
 #. [message]: speaker=Castellan
-#: scenarios/1_Smoke_of_the_Fatherland.cfg:248
+#: scenarios/1_Smoke_of_the_Fatherland.cfg:252
 msgid ""
 "By the Light, the noble Pan Shrogg has arrived to help us! The enemy has "
 "been pillaging our villages, but we with serfs are defending the castle. Now "
@@ -277,7 +277,7 @@ msgstr ""
 "штурму!"
 
 #. [message]: speaker=Brother
-#: scenarios/1_Smoke_of_the_Fatherland.cfg:252
+#: scenarios/1_Smoke_of_the_Fatherland.cfg:256
 msgid ""
 "Enemies amassed a great force to storm the castle. The serfs won't stand for "
 "long, we must come swift and strike invaders hard."
@@ -286,17 +286,17 @@ msgstr ""
 "должны быстро прийти им на помощь и разбить врага."
 
 #. [message]: speaker=enemy1
-#: scenarios/1_Smoke_of_the_Fatherland.cfg:256
+#: scenarios/1_Smoke_of_the_Fatherland.cfg:260
 msgid "Forward, brothers! The ogres will pay for attacking our allies!"
 msgstr "Вперед, братья! Огры заплатят за то что напали на наших союзников!"
 
 #. [message]: speaker=Brother
-#: scenarios/1_Smoke_of_the_Fatherland.cfg:273
+#: scenarios/1_Smoke_of_the_Fatherland.cfg:277
 msgid "With divine help, we won!"
 msgstr "С божьей помощью мы победили!"
 
 #. [message]: speaker=Pan
-#: scenarios/1_Smoke_of_the_Fatherland.cfg:277
+#: scenarios/1_Smoke_of_the_Fatherland.cfg:281
 msgid ""
 "This victory came at a high price. Castellan, how did such a formidable army "
 "end up under the walls of my castle?"
@@ -305,7 +305,7 @@ msgstr ""
 "оказалась под стенами моего замка?"
 
 #. [message]: speaker=Castellan
-#: scenarios/1_Smoke_of_the_Fatherland.cfg:281
+#: scenarios/1_Smoke_of_the_Fatherland.cfg:285
 msgid ""
 "They came here out of the blue on the sixth week since your departure, noble "
 "pan. I immediately sent messengers to you and to the neighbors, but no one "
@@ -318,7 +318,7 @@ msgstr ""
 "было шансов."
 
 #. [message]: speaker=Brother
-#: scenarios/1_Smoke_of_the_Fatherland.cfg:285
+#: scenarios/1_Smoke_of_the_Fatherland.cfg:289
 msgid ""
 "Although we managed to hold the castle, our lands are devastated, we have "
 "lost many knights and mercenaries. How are we supposed to get back to "
@@ -328,7 +328,7 @@ msgstr ""
 "рыцарей и наёмников. Как нам теперь вернуться в Линтанир?"
 
 #. [message]: speaker=Pan
-#: scenarios/1_Smoke_of_the_Fatherland.cfg:289
+#: scenarios/1_Smoke_of_the_Fatherland.cfg:293
 msgid ""
 "Not this year, Barkuk. Winter is coming. Even if our villages were intact, "
 "and our army fully intact, we would not make it before the first snows. We "
@@ -340,7 +340,7 @@ msgstr ""
 "воинов от мороза и голода."
 
 #. [message]: speaker=Brother
-#: scenarios/1_Smoke_of_the_Fatherland.cfg:293
+#: scenarios/1_Smoke_of_the_Fatherland.cfg:297
 msgid ""
 "Exactly! I'm sure the cowardly elves set this up! Having us attacked in "
 "autumn so we can't return to their forests for months..."
@@ -349,18 +349,18 @@ msgstr ""
 "вернутся не могли!"
 
 #. [message]: speaker=Pan
-#: scenarios/1_Smoke_of_the_Fatherland.cfg:297
+#: scenarios/1_Smoke_of_the_Fatherland.cfg:301
 msgid ""
 "Uh-huh. Seems the rumors about them forming an alliance with Krad were true."
 msgstr "Угу. Недаром ходили слухи о том, что они заключили союз с Крадой."
 
 #. [message]: speaker=Brother
-#: scenarios/1_Smoke_of_the_Fatherland.cfg:301
+#: scenarios/1_Smoke_of_the_Fatherland.cfg:305
 msgid "Ugh, so, what now? The crusade is over for us?"
 msgstr "Тьфу. Что, крестовый поход для нас закончен?"
 
 #. [message]: speaker=Pan
-#: scenarios/1_Smoke_of_the_Fatherland.cfg:305
+#: scenarios/1_Smoke_of_the_Fatherland.cfg:309
 msgid ""
 "If you don't want to stand in the shadow of other pans and pick up their "
 "leftovers, then yes. During this year, the king will seize and divide the "
@@ -371,12 +371,12 @@ msgstr ""
 "достанется шиш с маслом."
 
 #. [message]: speaker=Brother
-#: scenarios/1_Smoke_of_the_Fatherland.cfg:309
+#: scenarios/1_Smoke_of_the_Fatherland.cfg:313
 msgid "What do we do now then?"
 msgstr "И что теперь делать?"
 
 #. [message]: speaker=Pan
-#: scenarios/1_Smoke_of_the_Fatherland.cfg:313
+#: scenarios/1_Smoke_of_the_Fatherland.cfg:317
 msgid ""
 "Hmm... We killed the lion's share of the Krad's troops. This means that the "
 "knyaz is now as open to attack as we were."
@@ -385,12 +385,12 @@ msgstr ""
 "так же открыт для нападения, как были мы."
 
 #. [message]: speaker=Brother
-#: scenarios/1_Smoke_of_the_Fatherland.cfg:317
+#: scenarios/1_Smoke_of_the_Fatherland.cfg:321
 msgid "But a lot of our warriors died too."
 msgstr "Да ведь и мы потеряли немало воинов."
 
 #. [message]: speaker=Pan
-#: scenarios/1_Smoke_of_the_Fatherland.cfg:321
+#: scenarios/1_Smoke_of_the_Fatherland.cfg:325
 msgid ""
 "We will easily gather more mercenaries and knechts no worse than the ones we "
 "lost. And the knyaz will not replenish the army so quickly. There are few "
@@ -408,12 +408,12 @@ msgstr ""
 "начнется наш собственный крестовый поход."
 
 #. [message]: speaker=Brother
-#: scenarios/1_Smoke_of_the_Fatherland.cfg:325
+#: scenarios/1_Smoke_of_the_Fatherland.cfg:329
 msgid "Our own crusade, you say?"
 msgstr "Наш собственный крестовый поход?"
 
 #. [message]: speaker=Pan
-#: scenarios/1_Smoke_of_the_Fatherland.cfg:329
+#: scenarios/1_Smoke_of_the_Fatherland.cfg:333
 msgid ""
 "Yes. We will turn the northerners to the light with fire and sword, make "
 "their lands our possessions and surpass all the pans in glory!"
@@ -422,12 +422,12 @@ msgstr ""
 "владениями и превзойдём в славе всех панов!"
 
 #. [message]: speaker=Brother
-#: scenarios/1_Smoke_of_the_Fatherland.cfg:333
+#: scenarios/1_Smoke_of_the_Fatherland.cfg:337
 msgid "Quite an grand plan you have come up with, brother, I like it!"
 msgstr "Великое дело ты затеял, брат. Но мне оно по душе!"
 
 #. [message]: speaker=Pan
-#: scenarios/1_Smoke_of_the_Fatherland.cfg:337
+#: scenarios/1_Smoke_of_the_Fatherland.cfg:341
 msgid ""
 "Ho-ho! May the Light witness this, brother - in six months the most glorious "
 "deed in the history of our family will begin!"
@@ -436,19 +436,19 @@ msgstr ""
 "дело в истории нашего рода!"
 
 #. [objective]: condition=win
-#: scenarios/1_Smoke_of_the_Fatherland.cfg:344
+#: scenarios/1_Smoke_of_the_Fatherland.cfg:348
 msgid "Defeat enemy leaders"
 msgstr "Убейте вражеских лидеров"
 
 #. [objective]: condition=lose
-#: scenarios/1_Smoke_of_the_Fatherland.cfg:348
+#: scenarios/1_Smoke_of_the_Fatherland.cfg:352
 #: scenarios/2_Beginning_of_the_Crusade.cfg:336 scenarios/3_Siege.cfg:224
 #: scenarios/4_Time_to_Preach.cfg:590
 msgid "Death of any of your leaders"
 msgstr "Смерть любого из ваших лидеров"
 
 #. [objective]: condition=lose
-#: scenarios/1_Smoke_of_the_Fatherland.cfg:352
+#: scenarios/1_Smoke_of_the_Fatherland.cfg:356
 msgid "Death of Castellan"
 msgstr "Смерть Кастелляна"
 
@@ -476,9 +476,9 @@ msgstr ""
 #. [part]
 #: scenarios/2_Beginning_of_the_Crusade.cfg:60
 msgid ""
-"This wasn't an easy task, but it was the matter of honour! Brothers, using "
-"most of the gold from their treasury, hired siege engineers from Wesnoth. "
-"Still the way to Shumsk didn't promise to be easy to deliver needed "
+"This wasn't an easy task, but it was the matter of honour! The brothers, "
+"using most of the gold from their treasury, hired siege engineers from "
+"Wesnoth. Still the way to Shumsk didn't promise to be easy to deliver needed "
 "equipment."
 msgstr ""
 "Взять Шумск — непростая задача, но это было делом чести! Братья, используя "
@@ -489,7 +489,7 @@ msgstr ""
 #. [part]
 #: scenarios/2_Beginning_of_the_Crusade.cfg:63
 msgid ""
-"To provide a safe passage for their essential siege equipment, brothers "
+"To provide a safe passage for their essential siege equipment, the brothers "
 "decided to use their vanguard to quickly take the border town. As they "
 "expected, they found and hired a band of Steppe Ogres to assist in the "
 "assault."
