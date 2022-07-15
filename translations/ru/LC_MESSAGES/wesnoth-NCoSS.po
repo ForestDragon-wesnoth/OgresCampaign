@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: \n"
 "Report-Msgid-Bugs-To: https://bugs.wesnoth.org/\n"
 "POT-Creation-Date: \n"
-"PO-Revision-Date: 2022-07-15 18:47+0300\n"
+"PO-Revision-Date: 2022-07-15 19:13+0300\n"
 "Last-Translator: \n"
 "Language-Team: \n"
 "Language: ru\n"
@@ -15,16 +15,16 @@ msgstr ""
 "%10<=4 && (n%100<12 || n%100>14) ? 1 : 2);\n"
 
 #: _main.cfg:15
+msgid "<span color='#080'>"
+msgstr ""
+
+#: _main.cfg:15
 msgid ""
 "Music pack “The Great Steppe Music” is installed. Custom music will be "
 "played."
 msgstr ""
 "Музыкальный аддон \"Эра Великой Степи - музыка\" загружен.  Играть будет "
 "музыка из аддона."
-
-#: _main.cfg:15
-msgid "<span color='#080'>"
-msgstr ""
 
 #: _main.cfg:20
 msgid ""
@@ -41,12 +41,12 @@ msgstr ""
 #. [campaign]: id=Northern_Crusade_of_Shrogg_Stoneface, type=hybrid
 #: _main.cfg:28
 msgid "Ogre Crusaders"
-msgstr ""
+msgstr "Огры-крестоносцы"
 
 #. [campaign]: id=Northern_Crusade_of_Shrogg_Stoneface, type=hybrid
 #: _main.cfg:29
 msgid "OC"
-msgstr ""
+msgstr "ОК"
 
 #. [campaign]: id=Northern_Crusade_of_Shrogg_Stoneface, type=hybrid
 #: _main.cfg:35
@@ -90,13 +90,13 @@ msgstr "Наследник"
 
 #. [campaign]: id=Northern_Crusade_of_Shrogg_Stoneface, type=hybrid
 #: _main.cfg:46
-msgid "Pan"
-msgstr "Пан"
+msgid "Nightmare"
+msgstr "Чрезвычайно сложный"
 
 #. [campaign]: id=Northern_Crusade_of_Shrogg_Stoneface, type=hybrid
 #: _main.cfg:46
-msgid "Nightmare"
-msgstr "Чрезвычайно сложный"
+msgid "Pan"
+msgstr "Пан"
 
 #. [about]
 #: _main.cfg:48
@@ -133,7 +133,7 @@ msgstr ""
 #. [scenario]: id=0_Tutorial, type=Kingdom_Halfogre_Bandit
 #: scenarios/0_Tutorial.cfg:31
 msgid "Tutorial"
-msgstr ""
+msgstr "Обучение"
 
 #. [part]
 #: scenarios/0_Tutorial.cfg:53
@@ -186,6 +186,10 @@ msgid ""
 "forges working day and night. Ogres were preparing for a great war. Everyone "
 "wanted to snatch a piece of elven land and earn fame."
 msgstr ""
+"Многие паны и рыцари откликнулись на его призыв. Дороги заполнились "
+"марширующими отрядами наёмников. Над городами поднялись клубы дыма от денно "
+"и нощно работающих кузниц. Огры готовились к большой войне. Каждый хотел "
+"урвать кусок эльфийской земли и прославиться."
 
 #. [part]
 #: scenarios/0_Tutorial.cfg:65
@@ -197,6 +201,12 @@ msgid ""
 "confidence in their own plans. But before going to war, the brothers need to "
 "deal with an internal enemy."
 msgstr ""
+"Пан Шрогг Камнемордый и его брат Баркукк Скалозуб возлагали большие надежды "
+"на этот поход. Их владения располагались ближе всего к Линтанирской границе. "
+"Братья рассчитывали выступить впереди королевского войска и на правах "
+"первопроходцев прибрать к рукам лучшие угодья. Мощная армия Северного "
+"панства придавала им уверенности в собственных планах. Но прежде, чем идти "
+"на войну, братьям нужно разобраться с внутренним врагом."
 
 #. [side]
 #. [side]: id=Castellan, type=Kingdom_Troll_Veteran
@@ -207,8 +217,8 @@ msgstr ""
 #: scenarios/1_Smoke_of_the_Fatherland.cfg:134
 #: scenarios/2_Beginning_of_the_Crusade.cfg:55
 #: scenarios/2_Beginning_of_the_Crusade.cfg:72
-#: scenarios/2_Beginning_of_the_Crusade.cfg:100 scenarios/3_Road.cfg:64
-#: scenarios/3_Road.cfg:81 scenarios/4_Siege.cfg:39 scenarios/4_Siege.cfg:59
+#: scenarios/2_Beginning_of_the_Crusade.cfg:100 scenarios/3_Road.cfg:60
+#: scenarios/3_Road.cfg:77 scenarios/4_Siege.cfg:39 scenarios/4_Siege.cfg:59
 #: scenarios/5_Cities.cfg:78 scenarios/5_Cities.cfg:95
 #: scenarios/6_Temple.cfg:61 scenarios/6_Temple.cfg:78
 #: scenarios/6_Temple.cfg:95 scenarios/Epilogue.cfg:24
@@ -220,11 +230,11 @@ msgstr "Огры"
 #. [side]: id=Rebel_leader, type=Kingdom_Halfogre_Rebel_King
 #: scenarios/0_Tutorial.cfg:125
 msgid "Rebels"
-msgstr ""
+msgstr "Бунтовщики"
 
 #. [message]: speaker=unit
 #: scenarios/0_Tutorial.cfg:154 scenarios/1_Smoke_of_the_Fatherland.cfg:206
-#: scenarios/2_Beginning_of_the_Crusade.cfg:203 scenarios/3_Road.cfg:162
+#: scenarios/2_Beginning_of_the_Crusade.cfg:203 scenarios/3_Road.cfg:158
 #: scenarios/4_Siege.cfg:149 scenarios/5_Cities.cfg:191
 #: scenarios/6_Temple.cfg:138
 msgid "Uuugh..."
@@ -237,12 +247,14 @@ msgid ""
 "took over his castle. While the vile peasants had helped him. I don't see "
 "anyone who has remained loyal to us!"
 msgstr ""
+"Похоже, слухи не врали. Грязный бастард убил нашего рыцаря и захватил замок. "
+"А чернь его поддержала. Я не вижу никого, кто сохранил верность нам!"
 
 #. [message]: speaker=Brother
 #: scenarios/0_Tutorial.cfg:210
 msgid ""
 "We must execute all the traitors! But why didn't you bring the entire army?"
-msgstr ""
+msgstr "Мы должны казнить всех предателей! Но почему ты не привёл всё войско?"
 
 #. [message]: speaker=Pan
 #: scenarios/0_Tutorial.cfg:214
@@ -250,11 +262,13 @@ msgid ""
 "The scum don't know how to fight, brother. A small detachment is enough to "
 "deal with them, if you do everything right."
 msgstr ""
+"Отребье не умеет воевать, брат. Для расправы над ними хватит и небольшого "
+"отряда, если делать всё как надо."
 
 #. [message]: speaker=Brother
 #: scenarios/0_Tutorial.cfg:218
 msgid "Well. Where do we start?"
-msgstr ""
+msgstr "Угу. С чего мы начнём?"
 
 #. [message]: speaker=Pan
 #: scenarios/0_Tutorial.cfg:234
@@ -263,11 +277,13 @@ msgid ""
 "they will be left without gold and supplies. Our knights will easily deal "
 "with this task."
 msgstr ""
+"Первым делом нам следует отбить у бандитов деревни. Так они останутся без "
+"золота и припасов. Наши рыцари легко справятся с этой задачей."
 
 #. [objective]: condition=win
 #: scenarios/0_Tutorial.cfg:247
 msgid "Recruit at least three feudals each"
-msgstr ""
+msgstr "Завербуйте троих феодалов"
 
 #. [objective]: condition=lose
 #: scenarios/0_Tutorial.cfg:251 scenarios/0_Tutorial.cfg:304
@@ -276,7 +292,7 @@ msgstr ""
 #: scenarios/1_Smoke_of_the_Fatherland.cfg:376
 #: scenarios/2_Beginning_of_the_Crusade.cfg:431
 #: scenarios/2_Beginning_of_the_Crusade.cfg:567
-#: scenarios/2_Beginning_of_the_Crusade.cfg:614 scenarios/3_Road.cfg:235
+#: scenarios/2_Beginning_of_the_Crusade.cfg:614 scenarios/3_Road.cfg:231
 #: scenarios/4_Siege.cfg:164 scenarios/5_Cities.cfg:420
 #: scenarios/6_Temple.cfg:485 scenarios/6_Temple.cfg:613
 msgid "Death of any of your leaders"
@@ -288,6 +304,8 @@ msgid ""
 "Drive the turncoats out of the villages with ramming blows and pierce them "
 "with sharp pikes! Attack!"
 msgstr ""
+"Выбейте изменников из деревень таранными ударами и пронзите острыми пиками! "
+"В атаку!"
 
 #. [message]: speaker=Brother
 #: scenarios/0_Tutorial.cfg:295
@@ -295,16 +313,18 @@ msgid ""
 "And while our knights liberate the villages, we will defend the camp with "
 "the help of noble sons, crossbowmen and clerics."
 msgstr ""
+"А пока наши рыцари освобождают деревни, мы будем оборонять лагерь с помощью "
+"знатных сынов, арбалетчиков и клириков."
 
 #. [objective]: condition=win
 #: scenarios/0_Tutorial.cfg:300
 msgid "Capture villages held by bandits (4 on the left and 4 on the right)"
-msgstr ""
+msgstr "Захватите деревни, удерживаемые бандитами (4 справа и 4 слева)"
 
 #. [note]
 #: scenarios/0_Tutorial.cfg:313 scenarios/0_Tutorial.cfg:404
 msgid "To use feudals effectively, start with a ram attack."
-msgstr ""
+msgstr "Чтобы использовать феодалов эффективно, начинайте с таранной атаки."
 
 #. [note]
 #: scenarios/0_Tutorial.cfg:316 scenarios/0_Tutorial.cfg:407
@@ -314,11 +334,15 @@ msgid ""
 "also inspire nearby allies and increase their damage. Combine these fighters "
 "to defend the camp."
 msgstr ""
+"Знатные сыны — это классическая основная пехота. Изгои – это стрелки армии "
+"огров с дополнительной огненной атакой. Клирики – это маги, но они так же "
+"вдохновляют стоящих рядом союзников и увеличивают их урон. Сочетайте этих "
+"бойцов, чтобы защитить лагерь. "
 
 #. [message]: speaker=Brother
 #: scenarios/0_Tutorial.cfg:370
 msgid "The villages are ours! Now storm the castle?"
-msgstr ""
+msgstr "Деревни наши! Теперь штурмуем замок?"
 
 #. [message]: speaker=Pan
 #: scenarios/0_Tutorial.cfg:374
@@ -327,16 +351,19 @@ msgid ""
 "the assault, we must destroy the fortifications. Siege trolls and fire pigs "
 "will help us with this. Let's call them!"
 msgstr ""
+"Если атакуем в лоб, то потеряем много хороших воинов. Нет. Прежде, чем "
+"начать штурм, мы должны разрушить укрепления. В этом нам помогут осадные "
+"тролли и огневые свиньи. Призовём их!"
 
 #. [objective]: condition=win
 #: scenarios/0_Tutorial.cfg:391
 msgid "Recruit at least 2 siege trolls and 3 fire pigs each"
-msgstr ""
+msgstr "Завербуйте 2 осадных тролля и 3 огневые свиньи."
 
 #. [message]: speaker=Pan
 #: scenarios/0_Tutorial.cfg:431
 msgid "Don't attack them head on! Trolls and pigs can handle them!"
-msgstr ""
+msgstr "Не стоит их атаковать в лоб! Тролли и свиньи с ними справятся!"
 
 #. [message]: speaker=Pan
 #: scenarios/0_Tutorial.cfg:465
@@ -344,12 +371,14 @@ msgid ""
 "Let the trolls shoot from afar, and let the pigs charge right at the walls. "
 "I'm sure their fortifications won't last for long."
 msgstr ""
+"Пусть тролли ведут обстрел издалека, а свиньи бросаются прямо на стены. "
+"Уверен, их укрепления долго не продержатся. "
 
 #. [message]: speaker=Brother
 #: scenarios/0_Tutorial.cfg:469
 msgid ""
 "And the infantry will cover the trolls and pigs. Let’s get down to business!"
-msgstr ""
+msgstr "А пехота прикроет троллей и свиней. За дело!"
 
 #. [objective]: condition=win
 #: scenarios/0_Tutorial.cfg:476
@@ -358,6 +387,9 @@ msgid ""
 "notes for how to use trolls and pigs. (remaining $ncoss_tmp_castles_left| "
 "castles)"
 msgstr ""
+"Разрушьте 4 замка бунтовщиков. (Гексы, где стоят лвл-2 бандиты). Посмотрите "
+"в примечаниях, как использовать троллей и свиней. (осталось "
+"$ncoss_tmp_castles_left| замков)"
 
 #. [note]
 #: scenarios/0_Tutorial.cfg:489
@@ -366,6 +398,9 @@ msgid ""
 "standing in a castle, the castle takes 1 damage. The stone castle has 4 "
 "durability. When castle takes 4 damage, it will collapse."
 msgstr ""
+"Огневые свиньи — бойцы-камикадзе. Когда свинья использует огненную атаку "
+"против бойца, стоящего в замке, замок получает 1 единицу урона. Каменный "
+"замок имеет 4 единицы прочности. Когда он получит 4 урона, он разрушится."
 
 #. [note]
 #: scenarios/0_Tutorial.cfg:492
@@ -374,6 +409,9 @@ msgid ""
 "2 hexes of the troll, select 'ranged attack', then choose who will shoot. "
 "Trolls' ranged attacks damage castles even if they miss a fighter."
 msgstr ""
+"Trolls have a long-ranged attack. To use it, right-click on a target within "
+"2 hexes of the troll, select 'ranged attack', then choose who will shoot. "
+"Trolls' ranged attacks damage castles even if they miss a fighter."
 
 #. [note]
 #: scenarios/0_Tutorial.cfg:495
@@ -381,6 +419,8 @@ msgid ""
 "Trolls and pigs are vulnerable to ranged enemy attacks. Cover them with "
 "other fighters."
 msgstr ""
+"Тролли и свиньи уязвимы для дальних атак противника. Прикрывайте их другими "
+"бойцами."
 
 #. [message]: speaker=Pan
 #: scenarios/0_Tutorial.cfg:530
@@ -388,6 +428,7 @@ msgid ""
 "Ha, their walls have fallen! Now nothing will stop us from executing the "
 "presumptuous bastard son!"
 msgstr ""
+"Ха, их стены пали! Теперь ничто не помешает нам казнить зарвавшегося выродка"
 
 #. [objective]: condition=win
 #: scenarios/0_Tutorial.cfg:541 scenarios/0_Tutorial.cfg:625
@@ -398,7 +439,7 @@ msgstr "Убить вражеского лидера"
 #. [message]: speaker=Brother
 #: scenarios/0_Tutorial.cfg:588
 msgid "Bah, a group of bandits wants to wade across and stab us in the back!"
-msgstr ""
+msgstr "Ба, отряд бандитов хочет переправиться вброд и ударить нам в спину!"
 
 #. [message]: speaker=Brother
 #: scenarios/0_Tutorial.cfg:620
@@ -406,6 +447,8 @@ msgid ""
 "Never mind! We are served by the dire beavers of the Bitter Swamp. They will "
 "drown the serfs in these deep waters."
 msgstr ""
+"Не страшно! Нам служат ужасные бобры из Горькой Трясины. Они утопят челядь в "
+"этих глубоких водах."
 
 #. [objective]: condition=win
 #: scenarios/0_Tutorial.cfg:629
@@ -413,6 +456,8 @@ msgid ""
 "(Bonus Objective) Use the giant beavers to destroy the group of bandits. See "
 "the notes for how to use them correctly."
 msgstr ""
+"(Бонусная Задача) Используйте гигантских бобров, чтобы уничтожить отряд "
+"разбойников. Посмотрите в примечаниях, как использовать их правильно."
 
 #. [note]
 #: scenarios/0_Tutorial.cfg:642
@@ -422,13 +467,17 @@ msgid ""
 "then use this attack to pull them into the deep water. Deprived of even "
 "minimal protection, the bandits will become an easy target."
 msgstr ""
+"Бобры обладают утягивающей атакой (чудовищный захват). Эта атака перемещает "
+"бобра и бойца противника на 1 гекс назад. Пропустите разбойников на "
+"мелководье, а затем используйте эту атаку, чтобы утащить их в глубокую воду. "
+"Лишившись даже минимальной защиты, разбойники станут лёгкой целью. "
 
 #. [message]: speaker=unit
 #: scenarios/0_Tutorial.cfg:663
 msgid ""
 "Arrogant... beasts! I am a son of... sir... Gratt... The castle is mine... "
 "by right!"
-msgstr ""
+msgstr "Надменные… твари! Я сын… сэра… Гратта… Замок мой… по праву!"
 
 #. [message]: speaker=Pan
 #: scenarios/0_Tutorial.cfg:667
@@ -436,11 +485,13 @@ msgid ""
 "Bastards and fratriciders have no right. Sir Gratt should have killed you as "
 "a child. I will correct his mistake!"
 msgstr ""
+"Бастарды и братоубийцы не имеют никакого права. Сэру Гратту следовало убить "
+"тебя ещё в детстве. Я исправлю его ошибку!"
 
 #. [message]: speaker=Brother
 #: scenarios/0_Tutorial.cfg:678
 msgid "Now that's dealt with. Now we can go on a crusade!"
-msgstr ""
+msgstr "С этим разобрались. Теперь можно выступать в крестовый поход!"
 
 #. [scenario]: id=1_Smoke_of_the_Fatherland
 #: scenarios/1_Smoke_of_the_Fatherland.cfg:5
@@ -453,15 +504,11 @@ msgid ""
 "After crushing the half-ogre rebellion, the Pans joined the royal army and "
 "went on a crusade."
 msgstr ""
+"Подавив полуогрский мятеж, Паны присоединились к королевскому войску и "
+"отправились в крестовый поход. "
 
 #. [part]
 #: scenarios/1_Smoke_of_the_Fatherland.cfg:36
-#, fuzzy
-#| msgid ""
-#| "It started perfectly. Completely unprepared, the elves lost their first "
-#| "battles against his huge army. On newly acquired lands Ogres cut redudant "
-#| "trees and started the construction of castles and fortresses. But then "
-#| "bad tidings came."
 msgid ""
 "Everything started out perfectly. Completely unprepared for such an "
 "invasion, the elves lost the first battles with the great army of ogres. On "
@@ -469,18 +516,12 @@ msgid ""
 "fortresses. But then the bad news came."
 msgstr ""
 "Всё начиналось идеально. Совершенно неподготовленные к такому вторжению "
-"эльфы проиграли первые сражения с его огромной армией. На завоёванных землях "
-"огры рубили леса, строили замки и крепости. Но затем пришли плохие вести."
+"эльфы проиграли первые сражения с огромной армией огров. На завоёванных "
+"землях Паны рубили леса, строили замки и крепости. Но затем пришли плохие "
+"вести."
 
 #. [part]
 #: scenarios/1_Smoke_of_the_Fatherland.cfg:39
-#, fuzzy
-#| msgid ""
-#| "The elves sent a message to their allies to distract the enemy. Krad's "
-#| "knyaz Yaromir agreed to help and sent his best warriors to pillage barely "
-#| "protected Northern domains of Ogre pans. Hearing about that, two pans - "
-#| "Shrogg Stoneface and his brother Barkuk Rocktooth, decided to return to "
-#| "their home to repel any possible invader..."
 msgid ""
 "The elves sent messengers to their allies with a request to strike at the "
 "rear of the ogres. Prince Jaromir of Krad agreed to help them and sent his "
@@ -490,9 +531,9 @@ msgid ""
 msgstr ""
 "Эльфы отправили гонцов к своим союзникам с просьбой ударить в тыл ограм. "
 "Крадский князь Яромир согласился помочь и отправил дружину грабить "
-"оставшиеся без защиты северные панства. Узнав об этом, два Пана - Шрогг "
-"Камнемордый и его брат Баркук Скалозубый, - поспешили вернуться в родные "
-"владения, чтобы дать отпор захватчикам..."
+"оставшиеся без защиты северо-восточные земли огров. Шроггу и Баркукку "
+"пришлось срочно возвращаться в родные владения, чтобы дать отпор "
+"захватчикам... "
 
 #. [side]: id=Castellan, type=Kingdom_Troll_Veteran
 #: scenarios/1_Smoke_of_the_Fatherland.cfg:78
@@ -515,8 +556,8 @@ msgstr "Кастелян"
 #: scenarios/2_Beginning_of_the_Crusade.cfg:118
 #: scenarios/2_Beginning_of_the_Crusade.cfg:139
 #: scenarios/2_Beginning_of_the_Crusade.cfg:160
-#: scenarios/2_Beginning_of_the_Crusade.cfg:179 scenarios/3_Road.cfg:101
-#: scenarios/3_Road.cfg:121 scenarios/3_Road.cfg:141 scenarios/4_Siege.cfg:82
+#: scenarios/2_Beginning_of_the_Crusade.cfg:179 scenarios/3_Road.cfg:97
+#: scenarios/3_Road.cfg:117 scenarios/3_Road.cfg:137 scenarios/4_Siege.cfg:82
 #: scenarios/4_Siege.cfg:117 scenarios/5_Cities.cfg:116
 #: scenarios/5_Cities.cfg:147 scenarios/6_Temple.cfg:118
 msgid "Krad"
@@ -736,6 +777,9 @@ msgid ""
 "lived people famed for their hardworking and courageous character. Ogres "
 "called them simply: northerners."
 msgstr ""
+"После некоторой подготовки два брата отправились в собственный крестовый "
+"поход. Их путь лежал в Крадские земли – благодатный край лесов и рек, где "
+"жили трудолюбивые и смелые люди. Огры называли их просто: северяне. "
 
 #. [part]
 #: scenarios/2_Beginning_of_the_Crusade.cfg:37
@@ -745,6 +789,10 @@ msgid ""
 "guarded by outposts of mighty bogatyrs; around the cities, the northerners "
 "laid ditches and erected high fortress walls."
 msgstr ""
+"Северяне не подчинялись Весноту и жили в собственных княжествах. Длительное "
+"соседство со Степью закалило их. Границы Крады сторожили заставы могучих "
+"богатырей; вокруг городов северяне проложили рвы и возвели высокие "
+"крепостные стены. "
 
 #. [part]
 #: scenarios/2_Beginning_of_the_Crusade.cfg:40
@@ -755,6 +803,11 @@ msgid ""
 "As they expected, steppe ogres had already begun their raids on the "
 "northerners. The pans bribed a band of nomads to help them in the assault."
 msgstr ""
+"Прежде все Паны соглашались с тем, что завоевать их невозможно. Тем сильнее "
+"обрадовались Шрогг и Баркукк, когда, наконец, увидели такую возможность! В "
+"середине весны их армия подошла к Крадской границе. Как они и ожидали, "
+"степные огры уже начали свои набеги на северян. Паны подкупили банду "
+"кочевников, чтобы те помогли им в штурме. "
 
 #. [side]: id=ogre_ally, type=Ogre_Foreman
 #: scenarios/2_Beginning_of_the_Crusade.cfg:83
@@ -787,6 +840,8 @@ msgid ""
 "Let our crusade begin! First of all, we must break through the border and "
 "enter the road to Shumsk."
 msgstr ""
+"Да начнётся наш крестовый поход! Первым делом мы должны прорваться через "
+"границу и выйти на шумскую дорогу. "
 
 #. [message]: speaker=Brother
 #: scenarios/2_Beginning_of_the_Crusade.cfg:351
@@ -826,28 +881,28 @@ msgstr "Вперёд, покажем как дерутся настоящие о
 #: scenarios/2_Beginning_of_the_Crusade.cfg:417
 #: scenarios/2_Beginning_of_the_Crusade.cfg:600
 msgid "Reach the signpost with either leader"
-msgstr ""
+msgstr "Доберитесь до указателя любым из лидеров"
 
 #. [objective]: condition=win
 #: scenarios/2_Beginning_of_the_Crusade.cfg:422
 #: scenarios/2_Beginning_of_the_Crusade.cfg:558
 #: scenarios/2_Beginning_of_the_Crusade.cfg:605
 msgid "(special bonus)"
-msgstr ""
+msgstr "(особая награда)"
 
 #. [objective]: condition=win
 #: scenarios/2_Beginning_of_the_Crusade.cfg:422
 #: scenarios/2_Beginning_of_the_Crusade.cfg:558
 #: scenarios/2_Beginning_of_the_Crusade.cfg:605
 msgid "Chinggis survives the battle"
-msgstr ""
+msgstr "Чингисс выживает в битве"
 
 #. [note]
 #: scenarios/2_Beginning_of_the_Crusade.cfg:436
 #: scenarios/2_Beginning_of_the_Crusade.cfg:572
 #: scenarios/2_Beginning_of_the_Crusade.cfg:619
 msgid "Killing the outpost leaders is optional"
-msgstr ""
+msgstr "Убивать лидеров застав не обязательно"
 
 #. [note]
 #: scenarios/2_Beginning_of_the_Crusade.cfg:439
@@ -862,7 +917,7 @@ msgstr ""
 #. [unit]: id=hero, type=Slav_Hero
 #: scenarios/2_Beginning_of_the_Crusade.cfg:513
 msgid "Allwolf"
-msgstr ""
+msgstr "Всеволк"
 
 #. [message]: speaker=hero
 #: scenarios/2_Beginning_of_the_Crusade.cfg:543
@@ -871,11 +926,13 @@ msgid ""
 "our cities. It shall not be! Brothers, we may lay down our heads, but we "
 "will not let the damned man-eaters enter Krada!"
 msgstr ""
+"Чую, страшная сила идёт на нас, хочет до городов добраться. Не бывать тому! "
+"Братья, головы сложим, а не пустим в Краду людоедов проклятых!"
 
 #. [message]: speaker=Pan
 #: scenarios/2_Beginning_of_the_Crusade.cfg:548
 msgid "Bah, that is a bogatyr! Well, let's see what he is good for!"
-msgstr ""
+msgstr "Ба, да это же богатырь! Ну, посмотрим, на что он годится! "
 
 #. [objective]: condition=win
 #: scenarios/2_Beginning_of_the_Crusade.cfg:553
@@ -887,22 +944,22 @@ msgstr "Убить вражеского лидера"
 #. [message]: speaker=unit
 #: scenarios/2_Beginning_of_the_Crusade.cfg:591
 msgid "Ugh, I couldn't stop the black yoke..."
-msgstr ""
+msgstr " Ух, не смог я остановить иго чёрное..."
 
 #. [message]: speaker=Pan
 #: scenarios/2_Beginning_of_the_Crusade.cfg:595
 msgid "Just as I thought. A human can never compare to an ogre!"
-msgstr ""
+msgstr "Как я и думал. Человек никогда не сравнится с огром!  "
 
 #. [message]: speaker=Pan
 #: scenarios/2_Beginning_of_the_Crusade.cfg:652
 msgid "It's too early to go further, we must kill the bogatyr first!"
-msgstr ""
+msgstr "Рано нам двигаться дальше, сперва нужно одолеть богатыря!"
 
 #. [message]: speaker=Pan
 #: scenarios/2_Beginning_of_the_Crusade.cfg:658
 msgid "The road is ours! Now let's go to Shumsk."
-msgstr ""
+msgstr "Дорога наша! Теперь идём на Шумск. "
 
 #. [message]: speaker=ogre_ally
 #: scenarios/2_Beginning_of_the_Crusade.cfg:664
@@ -928,7 +985,7 @@ msgstr "Ггггггррр... хорошо. Припомните ещё, мы н
 #. [message]: speaker=joining_ogre1
 #: scenarios/2_Beginning_of_the_Crusade.cfg:753
 msgid "Pans are strong. We want to follow them to Shumsk."
-msgstr ""
+msgstr "Паны сильны. Мы хотим пойти за ними на Шумск."
 
 #. [message]: speaker=ogre_ally
 #: scenarios/2_Beginning_of_the_Crusade.cfg:757
@@ -936,16 +993,18 @@ msgid ""
 "Eh? You wanna die? Ah fine! Go! Just leave your share first... The real "
 "ogres will get more, hehe."
 msgstr ""
+"Чо? Хотите сдохнуть? А пусть! Идите! Только свою долю оставьте... Настоящим "
+"ограм больше достанется, хе-хе."
 
 #. [message]: speaker=joining_ogre2
 #: scenarios/2_Beginning_of_the_Crusade.cfg:761
 msgid "Whatever, in Shumsk we will loot many times more!"
-msgstr ""
+msgstr "Ничё, в шумске мы в разы больше награбим!"
 
 #. [message]: speaker=Pan
 #: scenarios/2_Beginning_of_the_Crusade.cfg:765
 msgid "We accept you into our army, ogres of the steppe."
-msgstr ""
+msgstr "Мы принимаем вас в войско, степняки."
 
 #. [message]: speaker=narrator
 #: scenarios/2_Beginning_of_the_Crusade.cfg:770
@@ -953,6 +1012,8 @@ msgid ""
 "Six steppe ogres have joined your army. They are able to destroy villages "
 "and earn gold by killing enemies."
 msgstr ""
+"К вашему войску присоединилось шесть степняков. Они способны разрушать "
+"деревни, и зарабатывать золото убийством врагов."
 
 #. [message]: speaker=Brother
 #: scenarios/2_Beginning_of_the_Crusade.cfg:776
@@ -971,7 +1032,7 @@ msgid "Road to Shumsk"
 msgstr "Осада Шумска"
 
 #. [part]
-#: scenarios/3_Road.cfg:34
+#: scenarios/3_Road.cfg:33
 #, fuzzy
 #| msgid ""
 #| "After some preparation, the two brothers set out on their crusade. Shumsk "
@@ -994,7 +1055,7 @@ msgstr ""
 "доставлять подкрепления."
 
 #. [part]
-#: scenarios/3_Road.cfg:37
+#: scenarios/3_Road.cfg:36
 #, fuzzy
 #| msgid ""
 #| "This wasn't an easy task, but it was the matter of honour! The brothers, "
@@ -1012,7 +1073,7 @@ msgstr ""
 "оборудования."
 
 #. [part]
-#: scenarios/3_Road.cfg:40
+#: scenarios/3_Road.cfg:39
 #, fuzzy
 #| msgid ""
 #| "To provide a safe passage for their essential siege equipment, the "
@@ -1031,7 +1092,7 @@ msgstr ""
 
 #. [message]: speaker=Pan
 #. [part]
-#: scenarios/3_Road.cfg:43 scenarios/3_Road.cfg:173
+#: scenarios/3_Road.cfg:42 scenarios/3_Road.cfg:169
 msgid ""
 "To the north of us is a small town of Ruchev. We will capture it and arrange "
 "a reliable rear there. Only after that it will be possible to begin the "
@@ -1040,7 +1101,7 @@ msgstr ""
 
 #. [message]: speaker=Brother
 #. [part]
-#: scenarios/3_Road.cfg:46 scenarios/3_Road.cfg:177
+#: scenarios/3_Road.cfg:45 scenarios/3_Road.cfg:173
 msgid ""
 "But the road is protected by fortified settlements. And the scouts say that "
 "there is a formidable army in Ruchev, which will definitely come out to meet "
@@ -1049,7 +1110,7 @@ msgid ""
 msgstr ""
 
 #. [message]: speaker=Pan
-#: scenarios/3_Road.cfg:181
+#: scenarios/3_Road.cfg:177
 msgid ""
 "Hm. Then we will attack with the vanguard and take the settlements with a "
 "swoop! And when the army from Ruchev comes here, we will deploy their own "
@@ -1057,56 +1118,56 @@ msgid ""
 msgstr ""
 
 #. [message]: speaker=Brother
-#: scenarios/3_Road.cfg:185
+#: scenarios/3_Road.cfg:181
 msgid ""
 "Bold plan, brother! I'm sure the Northerners don't expect us to be so "
 "audacious. Get down to business!"
 msgstr ""
 
 #. [label]
-#: scenarios/3_Road.cfg:221
+#: scenarios/3_Road.cfg:217
 msgid "Ruchev"
 msgstr ""
 
 #. [objective]: condition=win
-#: scenarios/3_Road.cfg:227
+#: scenarios/3_Road.cfg:223
 msgid "Capture the settlements"
 msgstr ""
 
 #. [objective]: condition=win
-#: scenarios/3_Road.cfg:231
+#: scenarios/3_Road.cfg:227
 msgid "Kill leader of Ruchev (black opponent)"
 msgstr ""
 
 #. [note]
-#: scenarios/3_Road.cfg:240
+#: scenarios/3_Road.cfg:236
 msgid ""
 "To capture a settlement, slay its leader. When the leader is dead, all "
 "outposts and forges belonging to the settlement will join your side."
 msgstr ""
 
 #. [message]: speaker=unit
-#: scenarios/3_Road.cfg:289
+#: scenarios/3_Road.cfg:285
 msgid "Argh... I failed to stop the invasion..."
 msgstr "Ааах... Я не смог оставить вторжение..."
 
 #. [message]: speaker=second_unit
-#: scenarios/3_Road.cfg:303 scenarios/3_Road.cfg:321
+#: scenarios/3_Road.cfg:299 scenarios/3_Road.cfg:317
 msgid "We've captured the settlement!"
 msgstr ""
 
 #. [message]: speaker=Pan
-#: scenarios/3_Road.cfg:307
+#: scenarios/3_Road.cfg:303
 msgid "Good. Now use their ballistas!"
 msgstr ""
 
 #. [message]: speaker=Brother
-#: scenarios/3_Road.cfg:325
+#: scenarios/3_Road.cfg:321
 msgid "The ballistas are ours! Shoot at will!"
 msgstr ""
 
 #. [message]: speaker=Pan
-#: scenarios/3_Road.cfg:335
+#: scenarios/3_Road.cfg:331
 msgid ""
 "The city is ours. Soon our wagons will be stationed here, and then nothing "
 "will prevent us from taking Shumsk!"
@@ -1907,13 +1968,6 @@ msgstr ""
 #. [abilities]
 #: units/Slav_Hero.cfg:33
 #, fuzzy
-#| msgid "build siege weapons"
-msgid "build walls"
-msgstr "строит осадные орудия"
-
-#. [abilities]
-#: units/Slav_Hero.cfg:33
-#, fuzzy
 #| msgid ""
 #| "This unit can build the following:\n"
 #| "\n"
@@ -1926,6 +1980,13 @@ msgid ""
 msgstr ""
 "Этот боец может создать катапульты (стоимость - 28 золотых) и тараны "
 "(стоимость - 22 золота)"
+
+#. [abilities]
+#: units/Slav_Hero.cfg:33
+#, fuzzy
+#| msgid "build siege weapons"
+msgid "build walls"
+msgstr "строит осадные орудия"
 
 #. [abilities]
 #: units/Slav_Hero.cfg:36

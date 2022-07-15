@@ -11,11 +11,11 @@ msgstr ""
 "Content-Transfer-Encoding: 8bit\n"
 
 #: _main.cfg:15
-msgid "Music pack “The Great Steppe Music” is installed. Custom music will be played."
+msgid "<span color='#080'>"
 msgstr ""
 
 #: _main.cfg:15
-msgid "<span color='#080'>"
+msgid "Music pack “The Great Steppe Music” is installed. Custom music will be played."
 msgstr ""
 
 #: _main.cfg:20
@@ -68,12 +68,12 @@ msgstr ""
 
 #. [campaign]: id=Northern_Crusade_of_Shrogg_Stoneface, type=hybrid
 #: _main.cfg:46
-msgid "Pan"
+msgid "Nightmare"
 msgstr ""
 
 #. [campaign]: id=Northern_Crusade_of_Shrogg_Stoneface, type=hybrid
 #: _main.cfg:46
-msgid "Nightmare"
+msgid "Pan"
 msgstr ""
 
 #. [about]
@@ -141,7 +141,7 @@ msgstr ""
 #. [side]
 #. [side]: id=Castellan, type=Kingdom_Troll_Veteran
 #. [side]: id=ogre_ally, type=Ogre_Foreman
-#: scenarios/0_Tutorial.cfg:79 scenarios/0_Tutorial.cfg:93 scenarios/1_Smoke_of_the_Fatherland.cfg:54 scenarios/1_Smoke_of_the_Fatherland.cfg:69 scenarios/1_Smoke_of_the_Fatherland.cfg:134 scenarios/2_Beginning_of_the_Crusade.cfg:55 scenarios/2_Beginning_of_the_Crusade.cfg:72 scenarios/2_Beginning_of_the_Crusade.cfg:100 scenarios/3_Road.cfg:64 scenarios/3_Road.cfg:81 scenarios/4_Siege.cfg:39 scenarios/4_Siege.cfg:59 scenarios/5_Cities.cfg:78 scenarios/5_Cities.cfg:95 scenarios/6_Temple.cfg:61 scenarios/6_Temple.cfg:78 scenarios/6_Temple.cfg:95 scenarios/Epilogue.cfg:24 scenarios/Epilogue.cfg:42 scenarios/Epilogue.cfg:124 scenarios/Epilogue.cfg:142
+#: scenarios/0_Tutorial.cfg:79 scenarios/0_Tutorial.cfg:93 scenarios/1_Smoke_of_the_Fatherland.cfg:54 scenarios/1_Smoke_of_the_Fatherland.cfg:69 scenarios/1_Smoke_of_the_Fatherland.cfg:134 scenarios/2_Beginning_of_the_Crusade.cfg:55 scenarios/2_Beginning_of_the_Crusade.cfg:72 scenarios/2_Beginning_of_the_Crusade.cfg:100 scenarios/3_Road.cfg:60 scenarios/3_Road.cfg:77 scenarios/4_Siege.cfg:39 scenarios/4_Siege.cfg:59 scenarios/5_Cities.cfg:78 scenarios/5_Cities.cfg:95 scenarios/6_Temple.cfg:61 scenarios/6_Temple.cfg:78 scenarios/6_Temple.cfg:95 scenarios/Epilogue.cfg:24 scenarios/Epilogue.cfg:42 scenarios/Epilogue.cfg:124 scenarios/Epilogue.cfg:142
 msgid "Ogres"
 msgstr ""
 
@@ -151,7 +151,7 @@ msgid "Rebels"
 msgstr ""
 
 #. [message]: speaker=unit
-#: scenarios/0_Tutorial.cfg:154 scenarios/1_Smoke_of_the_Fatherland.cfg:206 scenarios/2_Beginning_of_the_Crusade.cfg:203 scenarios/3_Road.cfg:162 scenarios/4_Siege.cfg:149 scenarios/5_Cities.cfg:191 scenarios/6_Temple.cfg:138
+#: scenarios/0_Tutorial.cfg:154 scenarios/1_Smoke_of_the_Fatherland.cfg:206 scenarios/2_Beginning_of_the_Crusade.cfg:203 scenarios/3_Road.cfg:158 scenarios/4_Siege.cfg:149 scenarios/5_Cities.cfg:191 scenarios/6_Temple.cfg:138
 msgid "Uuugh..."
 msgstr ""
 
@@ -186,7 +186,7 @@ msgid "Recruit at least three feudals each"
 msgstr ""
 
 #. [objective]: condition=lose
-#: scenarios/0_Tutorial.cfg:251 scenarios/0_Tutorial.cfg:304 scenarios/0_Tutorial.cfg:395 scenarios/0_Tutorial.cfg:480 scenarios/0_Tutorial.cfg:545 scenarios/0_Tutorial.cfg:633 scenarios/1_Smoke_of_the_Fatherland.cfg:376 scenarios/2_Beginning_of_the_Crusade.cfg:431 scenarios/2_Beginning_of_the_Crusade.cfg:567 scenarios/2_Beginning_of_the_Crusade.cfg:614 scenarios/3_Road.cfg:235 scenarios/4_Siege.cfg:164 scenarios/5_Cities.cfg:420 scenarios/6_Temple.cfg:485 scenarios/6_Temple.cfg:613
+#: scenarios/0_Tutorial.cfg:251 scenarios/0_Tutorial.cfg:304 scenarios/0_Tutorial.cfg:395 scenarios/0_Tutorial.cfg:480 scenarios/0_Tutorial.cfg:545 scenarios/0_Tutorial.cfg:633 scenarios/1_Smoke_of_the_Fatherland.cfg:376 scenarios/2_Beginning_of_the_Crusade.cfg:431 scenarios/2_Beginning_of_the_Crusade.cfg:567 scenarios/2_Beginning_of_the_Crusade.cfg:614 scenarios/3_Road.cfg:231 scenarios/4_Siege.cfg:164 scenarios/5_Cities.cfg:420 scenarios/6_Temple.cfg:485 scenarios/6_Temple.cfg:613
 msgid "Death of any of your leaders"
 msgstr ""
 
@@ -346,7 +346,7 @@ msgstr ""
 #. [side]: id=enemy_side4, type=Slav_Jousting_Champion
 #. [side]: id=enemy_side5, type=Slav_Jousting_Champion
 #. [side]: id=enemy_side6, type=Slav_Jousting_Champion
-#: scenarios/1_Smoke_of_the_Fatherland.cfg:155 scenarios/1_Smoke_of_the_Fatherland.cfg:189 scenarios/2_Beginning_of_the_Crusade.cfg:118 scenarios/2_Beginning_of_the_Crusade.cfg:139 scenarios/2_Beginning_of_the_Crusade.cfg:160 scenarios/2_Beginning_of_the_Crusade.cfg:179 scenarios/3_Road.cfg:101 scenarios/3_Road.cfg:121 scenarios/3_Road.cfg:141 scenarios/4_Siege.cfg:82 scenarios/4_Siege.cfg:117 scenarios/5_Cities.cfg:116 scenarios/5_Cities.cfg:147 scenarios/6_Temple.cfg:118
+#: scenarios/1_Smoke_of_the_Fatherland.cfg:155 scenarios/1_Smoke_of_the_Fatherland.cfg:189 scenarios/2_Beginning_of_the_Crusade.cfg:118 scenarios/2_Beginning_of_the_Crusade.cfg:139 scenarios/2_Beginning_of_the_Crusade.cfg:160 scenarios/2_Beginning_of_the_Crusade.cfg:179 scenarios/3_Road.cfg:97 scenarios/3_Road.cfg:117 scenarios/3_Road.cfg:137 scenarios/4_Siege.cfg:82 scenarios/4_Siege.cfg:117 scenarios/5_Cities.cfg:116 scenarios/5_Cities.cfg:147 scenarios/6_Temple.cfg:118
 msgid "Krad"
 msgstr ""
 
@@ -671,84 +671,84 @@ msgid "Road to Shumsk"
 msgstr ""
 
 #. [part]
-#: scenarios/3_Road.cfg:34
+#: scenarios/3_Road.cfg:33
 msgid "Shumsk was the closest major city to the border, taking it meant gaining control over the entire south of Krada. But the city fortress was well protected by a large moat and high walls with watchtowers, and also had a port that allowed Krada's fast boats to deliver reinforcements in a short time."
 msgstr ""
 
 #. [part]
-#: scenarios/3_Road.cfg:37
+#: scenarios/3_Road.cfg:36
 msgid "Taking Shumsk was a matter of honor! The brothers, using most of the gold from their treasury, hired a large number of knechts. And yet the road to Shumsk promised to be difficult."
 msgstr ""
 
 #. [part]
-#: scenarios/3_Road.cfg:40
+#: scenarios/3_Road.cfg:39
 msgid "To ensure a safe passage for their entire army, the brothers decided to quickly take Ruchev with their vanguard forces. This small town was the key to the entire road to Shumsk."
 msgstr ""
 
 #. [message]: speaker=Pan
 #. [part]
-#: scenarios/3_Road.cfg:43 scenarios/3_Road.cfg:173
+#: scenarios/3_Road.cfg:42 scenarios/3_Road.cfg:169
 msgid "To the north of us is a small town of Ruchev. We will capture it and arrange a reliable rear there. Only after that it will be possible to begin the siege of Shumsk."
 msgstr ""
 
 #. [message]: speaker=Brother
 #. [part]
-#: scenarios/3_Road.cfg:46 scenarios/3_Road.cfg:177
+#: scenarios/3_Road.cfg:45 scenarios/3_Road.cfg:173
 msgid "But the road is protected by fortified settlements. And the scouts say that there is a formidable army in Ruchev, which will definitely come out to meet us. But our forces are stretched far, many detachments will come here only in a few days. We will be damned if we get stuck here!"
 msgstr ""
 
 #. [message]: speaker=Pan
-#: scenarios/3_Road.cfg:181
+#: scenarios/3_Road.cfg:177
 msgid "Hm. Then we will attack with the vanguard and take the settlements with a swoop! And when the army from Ruchev comes here, we will deploy their own ballistas against them and gain an advantage."
 msgstr ""
 
 #. [message]: speaker=Brother
-#: scenarios/3_Road.cfg:185
+#: scenarios/3_Road.cfg:181
 msgid "Bold plan, brother! I'm sure the Northerners don't expect us to be so audacious. Get down to business!"
 msgstr ""
 
 #. [label]
-#: scenarios/3_Road.cfg:221
+#: scenarios/3_Road.cfg:217
 msgid "Ruchev"
 msgstr ""
 
 #. [objective]: condition=win
-#: scenarios/3_Road.cfg:227
+#: scenarios/3_Road.cfg:223
 msgid "Capture the settlements"
 msgstr ""
 
 #. [objective]: condition=win
-#: scenarios/3_Road.cfg:231
+#: scenarios/3_Road.cfg:227
 msgid "Kill leader of Ruchev (black opponent)"
 msgstr ""
 
 #. [note]
-#: scenarios/3_Road.cfg:240
+#: scenarios/3_Road.cfg:236
 msgid "To capture a settlement, slay its leader. When the leader is dead, all outposts and forges belonging to the settlement will join your side."
 msgstr ""
 
 #. [message]: speaker=unit
-#: scenarios/3_Road.cfg:289
+#: scenarios/3_Road.cfg:285
 msgid "Argh... I failed to stop the invasion..."
 msgstr ""
 
 #. [message]: speaker=second_unit
-#: scenarios/3_Road.cfg:303 scenarios/3_Road.cfg:321
+#: scenarios/3_Road.cfg:299 scenarios/3_Road.cfg:317
 msgid "We've captured the settlement!"
 msgstr ""
 
 #. [message]: speaker=Pan
-#: scenarios/3_Road.cfg:307
+#: scenarios/3_Road.cfg:303
 msgid "Good. Now use their ballistas!"
 msgstr ""
 
 #. [message]: speaker=Brother
-#: scenarios/3_Road.cfg:325
+#: scenarios/3_Road.cfg:321
 msgid "The ballistas are ours! Shoot at will!"
 msgstr ""
 
 #. [message]: speaker=Pan
-#: scenarios/3_Road.cfg:335
+#: scenarios/3_Road.cfg:331
 msgid "The city is ours. Soon our wagons will be stationed here, and then nothing will prevent us from taking Shumsk!"
 msgstr ""
 
@@ -1353,15 +1353,15 @@ msgstr ""
 
 #. [abilities]
 #: units/Slav_Hero.cfg:33
-msgid "build walls"
-msgstr ""
-
-#. [abilities]
-#: units/Slav_Hero.cfg:33
 msgid ""
 "This unit can build the following:\n"
 "\n"
 "Wooden Wall - 2 gold"
+msgstr ""
+
+#. [abilities]
+#: units/Slav_Hero.cfg:33
+msgid "build walls"
 msgstr ""
 
 #. [abilities]
