@@ -11,19 +11,19 @@ msgstr ""
 "Content-Transfer-Encoding: 8bit\n"
 
 #: _main.cfg:15
-msgid "<span color='#080'>"
-msgstr ""
-
-#: _main.cfg:15
 msgid "Music pack “The Great Steppe Music” is installed. Custom music will be played."
 msgstr ""
 
-#: _main.cfg:20
-msgid "<span color='#800'>"
+#: _main.cfg:15
+msgid "<span color='#080'>"
 msgstr ""
 
 #: _main.cfg:20
 msgid "Music pack “The Great Steppe Music” is not installed. Custom music will be replaced with default tracks."
+msgstr ""
+
+#: _main.cfg:20
+msgid "<span color='#800'>"
 msgstr ""
 
 #. [campaign]: id=Northern_Crusade_of_Shrogg_Stoneface, type=hybrid
@@ -48,12 +48,12 @@ msgstr ""
 
 #. [campaign]: id=Northern_Crusade_of_Shrogg_Stoneface, type=hybrid
 #: _main.cfg:43
-msgid "Challenging"
+msgid "Noble Son"
 msgstr ""
 
 #. [campaign]: id=Northern_Crusade_of_Shrogg_Stoneface, type=hybrid
 #: _main.cfg:43
-msgid "Noble Son"
+msgid "Challenging"
 msgstr ""
 
 #. [campaign]: id=Northern_Crusade_of_Shrogg_Stoneface, type=hybrid
@@ -206,12 +206,12 @@ msgid "Capture villages held by bandits (4 on the left and 4 on the right)"
 msgstr ""
 
 #. [note]
-#: scenarios/0_Tutorial.cfg:313
-msgid "To use knights effectively, start with a ram attack."
+#: scenarios/0_Tutorial.cfg:313 scenarios/0_Tutorial.cfg:404
+msgid "To use feudals effectively, start with a ram attack."
 msgstr ""
 
 #. [note]
-#: scenarios/0_Tutorial.cfg:316
+#: scenarios/0_Tutorial.cfg:316 scenarios/0_Tutorial.cfg:407
 msgid "Noble Sons are classic primary infantry. Outlaws are the ranged fighters of the ogre army with an additional fire attack. Clerics are mages, but they also inspire nearby allies and increase their damage. Combine these fighters to defend the camp."
 msgstr ""
 
@@ -228,16 +228,6 @@ msgstr ""
 #. [objective]: condition=win
 #: scenarios/0_Tutorial.cfg:391
 msgid "Recruit at least 2 siege trolls and 3 fire pigs each"
-msgstr ""
-
-#. [note]
-#: scenarios/0_Tutorial.cfg:404
-msgid "Чтобы использовать рыцарей эффективно, начинайте с атаки «таран»"
-msgstr ""
-
-#. [note]
-#: scenarios/0_Tutorial.cfg:407
-msgid "Знатные сыны — это классическая основная пехота. Изгои – это стрелки армии огров с дополнительной огненной атакой. Клирики – это маги, но они так же вдохновляют стоящих рядом союзников и увеличивают их урон. Сочетайте этих бойцов, чтобы защитить лагерь. "
 msgstr ""
 
 #. [message]: speaker=Pan
@@ -572,12 +562,12 @@ msgstr ""
 
 #. [objective]: condition=win
 #: scenarios/2_Beginning_of_the_Crusade.cfg:422 scenarios/2_Beginning_of_the_Crusade.cfg:558 scenarios/2_Beginning_of_the_Crusade.cfg:605
-msgid "Chinggis survives the battle"
+msgid "(special bonus)"
 msgstr ""
 
 #. [objective]: condition=win
 #: scenarios/2_Beginning_of_the_Crusade.cfg:422 scenarios/2_Beginning_of_the_Crusade.cfg:558 scenarios/2_Beginning_of_the_Crusade.cfg:605
-msgid "(special bonus)"
+msgid "Chinggis survives the battle"
 msgstr ""
 
 #. [note]
@@ -909,7 +899,7 @@ msgstr ""
 
 #. [scenario]: id=5_Cities
 #: scenarios/5_Cities.cfg:41
-msgid "Заречье"
+msgid "River Towns"
 msgstr ""
 
 #. [part]

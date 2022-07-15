@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: \n"
 "Report-Msgid-Bugs-To: https://bugs.wesnoth.org/\n"
 "POT-Creation-Date: \n"
-"PO-Revision-Date: 2022-07-15 18:21+0300\n"
+"PO-Revision-Date: 2022-07-15 18:47+0300\n"
 "Last-Translator: \n"
 "Language-Team: \n"
 "Language: ru\n"
@@ -15,10 +15,6 @@ msgstr ""
 "%10<=4 && (n%100<12 || n%100>14) ? 1 : 2);\n"
 
 #: _main.cfg:15
-msgid "<span color='#080'>"
-msgstr ""
-
-#: _main.cfg:15
 msgid ""
 "Music pack “The Great Steppe Music” is installed. Custom music will be "
 "played."
@@ -26,8 +22,8 @@ msgstr ""
 "Музыкальный аддон \"Эра Великой Степи - музыка\" загружен.  Играть будет "
 "музыка из аддона."
 
-#: _main.cfg:20
-msgid "<span color='#800'>"
+#: _main.cfg:15
+msgid "<span color='#080'>"
 msgstr ""
 
 #: _main.cfg:20
@@ -37,6 +33,10 @@ msgid ""
 msgstr ""
 "Музыкальный аддон \"Эра Великой Степи - музыка\" не загружен.  Музыка из "
 "аддона будет заменена на треки с обычного веснота."
+
+#: _main.cfg:20
+msgid "<span color='#800'>"
+msgstr ""
 
 #. [campaign]: id=Northern_Crusade_of_Shrogg_Stoneface, type=hybrid
 #: _main.cfg:28
@@ -70,13 +70,13 @@ msgstr ""
 
 #. [campaign]: id=Northern_Crusade_of_Shrogg_Stoneface, type=hybrid
 #: _main.cfg:43
-msgid "Challenging"
-msgstr "Сложный"
+msgid "Noble Son"
+msgstr "Знатный Сын"
 
 #. [campaign]: id=Northern_Crusade_of_Shrogg_Stoneface, type=hybrid
 #: _main.cfg:43
-msgid "Noble Son"
-msgstr "Знатный Сын"
+msgid "Challenging"
+msgstr "Сложный"
 
 #. [campaign]: id=Northern_Crusade_of_Shrogg_Stoneface, type=hybrid
 #: _main.cfg:44
@@ -302,12 +302,12 @@ msgid "Capture villages held by bandits (4 on the left and 4 on the right)"
 msgstr ""
 
 #. [note]
-#: scenarios/0_Tutorial.cfg:313
-msgid "To use knights effectively, start with a ram attack."
+#: scenarios/0_Tutorial.cfg:313 scenarios/0_Tutorial.cfg:404
+msgid "To use feudals effectively, start with a ram attack."
 msgstr ""
 
 #. [note]
-#: scenarios/0_Tutorial.cfg:316
+#: scenarios/0_Tutorial.cfg:316 scenarios/0_Tutorial.cfg:407
 msgid ""
 "Noble Sons are classic primary infantry. Outlaws are the ranged fighters of "
 "the ogre army with an additional fire attack. Clerics are mages, but they "
@@ -331,20 +331,6 @@ msgstr ""
 #. [objective]: condition=win
 #: scenarios/0_Tutorial.cfg:391
 msgid "Recruit at least 2 siege trolls and 3 fire pigs each"
-msgstr ""
-
-#. [note]
-#: scenarios/0_Tutorial.cfg:404
-msgid "Чтобы использовать рыцарей эффективно, начинайте с атаки «таран»"
-msgstr ""
-
-#. [note]
-#: scenarios/0_Tutorial.cfg:407
-msgid ""
-"Знатные сыны — это классическая основная пехота. Изгои – это стрелки армии "
-"огров с дополнительной огненной атакой. Клирики – это маги, но они так же "
-"вдохновляют стоящих рядом союзников и увеличивают их урон. Сочетайте этих "
-"бойцов, чтобы защитить лагерь. "
 msgstr ""
 
 #. [message]: speaker=Pan
@@ -846,14 +832,14 @@ msgstr ""
 #: scenarios/2_Beginning_of_the_Crusade.cfg:422
 #: scenarios/2_Beginning_of_the_Crusade.cfg:558
 #: scenarios/2_Beginning_of_the_Crusade.cfg:605
-msgid "Chinggis survives the battle"
+msgid "(special bonus)"
 msgstr ""
 
 #. [objective]: condition=win
 #: scenarios/2_Beginning_of_the_Crusade.cfg:422
 #: scenarios/2_Beginning_of_the_Crusade.cfg:558
 #: scenarios/2_Beginning_of_the_Crusade.cfg:605
-msgid "(special bonus)"
+msgid "Chinggis survives the battle"
 msgstr ""
 
 #. [note]
@@ -1324,7 +1310,7 @@ msgstr "Замечательно."
 
 #. [scenario]: id=5_Cities
 #: scenarios/5_Cities.cfg:41
-msgid "Заречье"
+msgid "River Towns"
 msgstr ""
 
 #. [part]
