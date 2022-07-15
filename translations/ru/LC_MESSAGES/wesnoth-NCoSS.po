@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: \n"
 "Report-Msgid-Bugs-To: https://bugs.wesnoth.org/\n"
 "POT-Creation-Date: \n"
-"PO-Revision-Date: 2022-07-15 19:13+0300\n"
+"PO-Revision-Date: 2022-07-15 20:12+0300\n"
 "Last-Translator: \n"
 "Language-Team: \n"
 "Language: ru\n"
@@ -15,16 +15,20 @@ msgstr ""
 "%10<=4 && (n%100<12 || n%100>14) ? 1 : 2);\n"
 
 #: _main.cfg:15
-msgid "<span color='#080'>"
-msgstr ""
-
-#: _main.cfg:15
 msgid ""
 "Music pack “The Great Steppe Music” is installed. Custom music will be "
 "played."
 msgstr ""
 "Музыкальный аддон \"Эра Великой Степи - музыка\" загружен.  Играть будет "
 "музыка из аддона."
+
+#: _main.cfg:15
+msgid "<span color='#080'>"
+msgstr ""
+
+#: _main.cfg:20
+msgid "<span color='#800'>"
+msgstr ""
 
 #: _main.cfg:20
 msgid ""
@@ -33,10 +37,6 @@ msgid ""
 msgstr ""
 "Музыкальный аддон \"Эра Великой Степи - музыка\" не загружен.  Музыка из "
 "аддона будет заменена на треки с обычного веснота."
-
-#: _main.cfg:20
-msgid "<span color='#800'>"
-msgstr ""
 
 #. [campaign]: id=Northern_Crusade_of_Shrogg_Stoneface, type=hybrid
 #: _main.cfg:28
@@ -50,13 +50,23 @@ msgstr "ОК"
 
 #. [campaign]: id=Northern_Crusade_of_Shrogg_Stoneface, type=hybrid
 #: _main.cfg:35
+#, fuzzy
+#| msgid ""
+#| "Delve into the events of the 9th century since the Founding of Wesnoth "
+#| "and lead your own crusade. The Principality of Krad seems impregnable, "
+#| "but how true is that? Surpass the other lords in determination and try to "
+#| "win the glory of conquering the northerners!\n"
+#| "\n"
+#| "Hybrid campaign (can be played in both singleplayer and multiplayer), 4 "
+#| "scenarios, recommended for experienced players\n"
+#| "\n"
 msgid ""
 "Delve into the events of the 9th century since the Founding of Wesnoth and "
 "lead your own crusade. The Principality of Krad seems impregnable, but how "
 "true is that? Surpass the other lords in determination and try to win the "
 "glory of conquering the northerners!\n"
 "\n"
-"Hybrid campaign (can be played in both singleplayer and multiplayer), 4 "
+"Hybrid campaign (can be played in both singleplayer and multiplayer), 6 "
 "scenarios, recommended for experienced players\n"
 "\n"
 msgstr ""
@@ -89,44 +99,44 @@ msgid "Heir"
 msgstr "Наследник"
 
 #. [campaign]: id=Northern_Crusade_of_Shrogg_Stoneface, type=hybrid
-#: _main.cfg:46
+#: _main.cfg:47
 msgid "Nightmare"
 msgstr "Чрезвычайно сложный"
 
 #. [campaign]: id=Northern_Crusade_of_Shrogg_Stoneface, type=hybrid
-#: _main.cfg:46
+#: _main.cfg:47
 msgid "Pan"
 msgstr "Пан"
 
 #. [about]
-#: _main.cfg:48
+#: _main.cfg:49
 msgid "Designer"
 msgstr "Дизайнер"
 
 #. [entry]
-#: _main.cfg:50
+#: _main.cfg:51
 msgid "Mechanical"
 msgstr ""
 
 #. [about]
-#: _main.cfg:54
+#: _main.cfg:55
 msgid "Coders"
 msgstr "Кодеры"
 
 #. [entry]
-#: _main.cfg:56
+#: _main.cfg:57
 msgid ""
 "ForestDragon\n"
 "dwarftough"
 msgstr ""
 
 #. [about]
-#: _main.cfg:61
+#: _main.cfg:62
 msgid "Portrait Artist"
 msgstr "Автор Портретов"
 
 #. [entry]
-#: _main.cfg:63
+#: _main.cfg:64
 msgid "ThroneGame (Kordov)"
 msgstr ""
 
@@ -1854,6 +1864,11 @@ msgstr ""
 
 #. [abilities]
 #: units/Engineer.cfg:22
+msgid "build siege weapons"
+msgstr "строит осадные орудия"
+
+#. [abilities]
+#: units/Engineer.cfg:22
 msgid ""
 "This unit can build the following:\n"
 "\n"
@@ -1862,11 +1877,6 @@ msgid ""
 msgstr ""
 "Этот боец может создать катапульты (стоимость - 28 золотых) и тараны "
 "(стоимость - 22 золота)"
-
-#. [abilities]
-#: units/Engineer.cfg:22
-msgid "build siege weapons"
-msgstr "строит осадные орудия"
 
 #. [abilities]
 #: units/Engineer.cfg:26

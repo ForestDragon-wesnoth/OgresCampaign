@@ -11,19 +11,19 @@ msgstr ""
 "Content-Transfer-Encoding: 8bit\n"
 
 #: _main.cfg:15
-msgid "<span color='#080'>"
-msgstr ""
-
-#: _main.cfg:15
 msgid "Music pack “The Great Steppe Music” is installed. Custom music will be played."
 msgstr ""
 
-#: _main.cfg:20
-msgid "Music pack “The Great Steppe Music” is not installed. Custom music will be replaced with default tracks."
+#: _main.cfg:15
+msgid "<span color='#080'>"
 msgstr ""
 
 #: _main.cfg:20
 msgid "<span color='#800'>"
+msgstr ""
+
+#: _main.cfg:20
+msgid "Music pack “The Great Steppe Music” is not installed. Custom music will be replaced with default tracks."
 msgstr ""
 
 #. [campaign]: id=Northern_Crusade_of_Shrogg_Stoneface, type=hybrid
@@ -41,7 +41,7 @@ msgstr ""
 msgid ""
 "Delve into the events of the 9th century since the Founding of Wesnoth and lead your own crusade. The Principality of Krad seems impregnable, but how true is that? Surpass the other lords in determination and try to win the glory of conquering the northerners!\n"
 "\n"
-"Hybrid campaign (can be played in both singleplayer and multiplayer), 4 scenarios, recommended for experienced players\n"
+"Hybrid campaign (can be played in both singleplayer and multiplayer), 6 scenarios, recommended for experienced players\n"
 "\n"
 ""
 msgstr ""
@@ -67,44 +67,44 @@ msgid "Heir"
 msgstr ""
 
 #. [campaign]: id=Northern_Crusade_of_Shrogg_Stoneface, type=hybrid
-#: _main.cfg:46
+#: _main.cfg:47
 msgid "Nightmare"
 msgstr ""
 
 #. [campaign]: id=Northern_Crusade_of_Shrogg_Stoneface, type=hybrid
-#: _main.cfg:46
+#: _main.cfg:47
 msgid "Pan"
 msgstr ""
 
 #. [about]
-#: _main.cfg:48
+#: _main.cfg:49
 msgid "Designer"
 msgstr ""
 
 #. [entry]
-#: _main.cfg:50
+#: _main.cfg:51
 msgid "Mechanical"
 msgstr ""
 
 #. [about]
-#: _main.cfg:54
+#: _main.cfg:55
 msgid "Coders"
 msgstr ""
 
 #. [entry]
-#: _main.cfg:56
+#: _main.cfg:57
 msgid ""
 "ForestDragon\n"
 "dwarftough"
 msgstr ""
 
 #. [about]
-#: _main.cfg:61
+#: _main.cfg:62
 msgid "Portrait Artist"
 msgstr ""
 
 #. [entry]
-#: _main.cfg:63
+#: _main.cfg:64
 msgid "ThroneGame (Kordov)"
 msgstr ""
 
@@ -1259,16 +1259,16 @@ msgstr ""
 
 #. [abilities]
 #: units/Engineer.cfg:22
+msgid "build siege weapons"
+msgstr ""
+
+#. [abilities]
+#: units/Engineer.cfg:22
 msgid ""
 "This unit can build the following:\n"
 "\n"
 "Catapult - 28 gold\n"
 "Battering Ram - 22 gold"
-msgstr ""
-
-#. [abilities]
-#: units/Engineer.cfg:22
-msgid "build siege weapons"
 msgstr ""
 
 #. [abilities]
